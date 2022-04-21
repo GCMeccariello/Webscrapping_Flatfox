@@ -6,6 +6,7 @@ bs4==0.0.1
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
+chromedriver==2.24.1
 cryptography==36.0.2
 cssselect==1.1.0
 fake-useragent==0.1.11
