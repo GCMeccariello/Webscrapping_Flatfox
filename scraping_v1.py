@@ -12,9 +12,10 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 import csv
+from lxml import etree
 
 
-htmlname = 'flatfox.html'
+htmlname = 'flatfox2.html'
 
 def saveHTML():
     url = 'https://flatfox.ch/de/search/?east=8.380181&north=47.098014&object_category=APARTMENT&object_category=HOUSE&ordering=date&south=47.007100&west=8.233954'
@@ -23,7 +24,7 @@ def saveHTML():
 
     driver.maximize_window()
     time.sleep(2)
-    for i in range(0, 10):
+    for i in range(0, 5):
         driver.find_element(by=By.XPATH, value='//*[@id="flat-search-widget"]/div/div[2]/div[2]/div[2]/button').click()
         time.sleep(2)
 
@@ -31,6 +32,7 @@ def saveHTML():
         f.write(driver.page_source)
 
     driver.quit()
+
 
 def title(path):
     html_text = requests.get(f'https://flatfox.ch{path}').text
@@ -76,10 +78,34 @@ def price(path):
     return price
 
 
+def room(path):
+    html_text = requests.get(f'https://flatfox.ch{path}')
+    soup = BeautifulSoup(html_text.content, 'html.parser')
+
+    try:
+        room = soup.find('div', class_='fui-with-sidebar fui-with-sidebar--right-sidebar').find('td', text='Anzahl Zimmer:').next_sibling.next_sibling.text.strip()
+    except:
+        room = 'NaN'
+
+    return room
+
+
+def area(path):
+    html_text = requests.get(f'https://flatfox.ch{path}')
+    soup = BeautifulSoup(html_text.content, 'html.parser')
+
+    try:
+        area = soup.find('div', class_='fui-with-sidebar fui-with-sidebar--right-sidebar').find('td', text='Wohnfläche:').next_sibling.next_sibling.text.strip()
+    except:
+        area = 'NaN'
+
+    return area
+
+
 def main():
-    csv_file = open("flatfox.csv", "w", newline='')
+    csv_file = open("flatfox2.csv", "w", newline='')
     csv_writer = csv.writer(csv_file)
-    csv_writer.writerow(["Titel", "Streetname", "Postalcode", "Location", "Price"])
+    csv_writer.writerow(["Titel", 'Path', "Streetname", "Postalcode", "Location", "Price", 'Rooms', 'Area'])
     a = 0
     with open(htmlname, 'r') as html_file:
         content = html_file.read()
@@ -87,34 +113,47 @@ def main():
         div = soup.find_all('div', class_='listing-thumb')
         for d in div:
             row = []
+            a = a + 1
 
             path = (d.find('a')['href'])
-            # print(path)
+            print(f'{a} {path}')
 
             titlename = title(path)
             streetname, zip, location = adress(path)
             priceamount = price(path)
-
+            # priceamount2 = price2(path)
+            roomamoount = room(path)
+            areasize = area(path)
 
             row.append(titlename)
+            row.append(path)
             row.append(streetname)
             row.append(zip)
             row.append(location)
             row.append(priceamount)
-
+            # row.append(priceamount2)
+            row.append(roomamoount)
+            row.append(areasize)
 
             csv_writer.writerow(row)
 
-            a = a+1
             print(f'{a} DONE')
 
     csv_file.close()
 
 if __name__ == '__main__':
+    start_time = time.time()
     # saveHTML()
     main()
 
     # x = "/de/wohnung/6356-rigi-kaltbad/590626/"
-    # price(x)
+    # area(x)
+
+    print(f"{(time.time() - start_time)} seconds")
 
 
+# Zurich : https://flatfox.ch/de/search/?east=8.625334&north=47.555934&south=47.198443&west=8.447982
+# Basel : https://flatfox.ch/de/search/?east=7.634148&north=47.589902&south=47.519342&west=7.554664
+# Bern : https://flatfox.ch/de/search/?east=7.495550&north=47.158707&south=46.749839&west=7.294318
+# Winterthur : https://flatfox.ch/de/search/?east=8.810331&north=47.533072&south=47.457945&west=8.656619
+# Luzern : https://flatfox.ch/de/search/?east=8.358228&north=47.199614&south=46.903045&west=8.212001
