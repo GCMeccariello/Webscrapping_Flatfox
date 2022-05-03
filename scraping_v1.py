@@ -15,23 +15,40 @@ import csv
 from lxml import etree
 
 
-htmlname = 'flatfox2.html'
+# htmlname = 'flatfox2.html'
 
-def saveHTML():
-    url = 'https://flatfox.ch/de/search/?east=8.380181&north=47.098014&object_category=APARTMENT&object_category=HOUSE&ordering=date&south=47.007100&west=8.233954'
-    driver = webdriver.Chrome()
-    driver.get(url)
+def saveHTML(city):
 
-    driver.maximize_window()
-    time.sleep(2)
-    for i in range(0, 5):
-        driver.find_element(by=By.XPATH, value='//*[@id="flat-search-widget"]/div/div[2]/div[2]/div[2]/button').click()
-        time.sleep(2)
+    cities = {"Zurich": "https://flatfox.ch/de/search/?east=8.580500&north=47.401080&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&ordering=-price_display&south=47.317853&west=8.483802",
+              "Basel": "https://flatfox.ch/de/search/?east=7.607400&north=47.576503&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Basel&south=47.526936&west=7.558103",
+              "Bern": "https://flatfox.ch/de/search/?east=7.478484&north=46.977448&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Bern&south=46.908242&west=7.410441",
+              "Winterthur": "https://flatfox.ch/de/search/?east=8.764165&north=47.536288&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Winterthur&south=47.447408&west=8.675868",
+              "Luzern": "https://flatfox.ch/de/search/?east=8.332481&north=47.077942&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Luzern&south=47.011487&west=8.267018"}
 
-    with open(htmlname, 'w') as f:
-        f.write(driver.page_source)
+    for c in city:
+        url = cities[c]
+        print(f'{c}: {cities[c]}')
 
-    driver.quit()
+        # url = 'https://flatfox.ch/de/search/?east=8.380181&north=47.098014&object_category=APARTMENT&object_category=HOUSE&ordering=date&south=47.007100&west=8.233954'
+        driver = webdriver.Chrome()
+        driver.get(url)
+
+        driver.maximize_window()
+        # time.sleep(2)
+
+        for i in range(0, 50):
+            if driver.find_element(by=By.XPATH, value='//*[@id="flat-search-widget"]/div/div[2]/div[2]/div[2]/button').text == 'Mehr anzeigen':
+                driver.find_element(by=By.XPATH, value='//*[@id="flat-search-widget"]/div/div[2]/div[2]/div[2]/button').click()
+                time.sleep(2)
+            else:
+                print('_______________ break _______________')
+                break
+            # time.sleep(2)
+
+        with open(f'flatfox_{c}.html', 'w') as f:
+            f.write(driver.page_source)
+
+        driver.quit()
 
 
 def title(path):
@@ -58,7 +75,10 @@ def adress(path):
     try:
         location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[1].split()[1]
     except:
-        location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep='-')[0].split()[1]
+        try:
+            location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep='-')[0].split()[1]
+        except:
+            location = 'NaN'
 
     return street, zip, location
 
@@ -102,54 +122,66 @@ def area(path):
     return area
 
 
-def main():
-    csv_file = open("flatfox2.csv", "w", newline='')
-    csv_writer = csv.writer(csv_file)
-    csv_writer.writerow(["Titel", 'Path', "Streetname", "Postalcode", "Location", "Price", 'Rooms', 'Area'])
-    a = 0
-    with open(htmlname, 'r') as html_file:
-        content = html_file.read()
-        soup = BeautifulSoup(content, 'lxml')
-        div = soup.find_all('div', class_='listing-thumb')
-        for d in div:
-            row = []
-            a = a + 1
+def main(city):
+    for c in city:
+        csv_file = open(f"flatfox_{c}.csv", "w", newline='')
+        csv_writer = csv.writer(csv_file)
+        csv_writer.writerow(["Titel", 'Path', "Streetname", "Postalcode", "Location", "Price", 'Rooms', 'Area'])
+        a = 0
+        with open(f'flatfox_{c}.html', 'r') as html_file:
+            content = html_file.read()
+            soup = BeautifulSoup(content, 'lxml')
+            div = soup.find_all('div', class_='listing-thumb')
+            for d in div:
+                row = []
+                a = a + 1
 
-            path = (d.find('a')['href'])
-            print(f'{a} {path}')
+                path = (d.find('a')['href'])
+                print(f'{a} - {c}: {path}')
 
-            titlename = title(path)
-            streetname, zip, location = adress(path)
-            priceamount = price(path)
-            # priceamount2 = price2(path)
-            roomamoount = room(path)
-            areasize = area(path)
+                titlename = title(path)
+                streetname, zip, location = adress(path)
+                priceamount = price(path)
+                # priceamount2 = price2(path)
+                roomamoount = room(path)
+                areasize = area(path)
 
-            row.append(titlename)
-            row.append(path)
-            row.append(streetname)
-            row.append(zip)
-            row.append(location)
-            row.append(priceamount)
-            # row.append(priceamount2)
-            row.append(roomamoount)
-            row.append(areasize)
+                row.append(titlename)
+                row.append(path)
+                row.append(streetname)
+                row.append(zip)
+                row.append(location)
+                row.append(priceamount)
+                # row.append(priceamount2)
+                row.append(roomamoount)
+                row.append(areasize)
 
-            csv_writer.writerow(row)
+                csv_writer.writerow(row)
 
-            print(f'{a} DONE')
+                print(f'{a} - {c}: DONE')
 
-    csv_file.close()
+        csv_file.close()
 
 if __name__ == '__main__':
     start_time = time.time()
-    # saveHTML()
-    main()
+
+    city = ['Zurich', 'Basel', 'Bern', 'Winterthur', 'Luzern']
+
+    saveHTML(city)
+    main(city)
 
     # x = "/de/wohnung/6356-rigi-kaltbad/590626/"
     # area(x)
 
-    print(f"{(time.time() - start_time)} seconds")
+    # cities = {"Zurich" : "https://flatfox.ch/de/search/?east=8.625334&north=47.555934&south=47.198443&west=8.447982",
+    #           "Basel" : "https://flatfox.ch/de/search/?east=7.634148&north=47.589902&south=47.519342&west=7.554664",
+    #           "Bern" : "https://flatfox.ch/de/search/?east=7.495550&north=47.158707&south=46.749839&west=7.294318",
+    #           "Winterthur" : "https://flatfox.ch/de/search/?east=8.810331&north=47.533072&south=47.457945&west=8.656619",
+    #           "Luzern" : "https://flatfox.ch/de/search/?east=8.358228&north=47.199614&south=46.903045&west=8.212001"}
+    #
+    # print(cities["Zurich"])
+
+    print(f"{(time.time() - start_time)/60} minutes")
 
 
 # Zurich : https://flatfox.ch/de/search/?east=8.625334&north=47.555934&south=47.198443&west=8.447982
