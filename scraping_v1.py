@@ -10,6 +10,7 @@ from urllib.request import Request, urlopen
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
+import numpy as np
 import time
 import csv
 from lxml import etree
@@ -62,18 +63,28 @@ def title(path):
 def adress(path):
     html_text = requests.get(f'https://flatfox.ch{path}').text
     soup = BeautifulSoup(html_text, 'lxml')
+    street = soup.find('div', class_='widget-listing-title').h2.text
+    comma = 0
+    for c in street:
+        if c == ',':
+            comma += 1
 
     street = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[0]
 
     # In some cases the streetadress is missing. therefore the sep=',' does not work.
     try:
-        zip = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[1].split()[0]
+        if comma == 2:
+            zip = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[2].split()[0]
+        else:
+            zip = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[1].split()[0]
     except:
         street = 'no street available'
         zip = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep='-')[0].split()[0] # getting zip when street adress is missing
-
     try:
-        location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[1].split()[1]
+        if comma == 2:
+            location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[2].split()[1]
+        else:
+            location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[1].split()[1]
     except:
         try:
             location = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep='-')[0].split()[1]
@@ -162,23 +173,34 @@ def main(city):
 
         csv_file.close()
 
+def file():
+    file = pd.read_csv('flatfox_all.csv')
+    # print(file)
+    # print(file['Titel'])
+    file2 = pd.DataFrame(file, columns=['Streetname', 'Postalcode', 'Location', 'Rooms', 'Area', 'Price'])
+    file2.rename(columns = {'Streetname':'Strasse', 'Postalcode':'Postleitzahl', 'Location':'Ort', 'Rooms':'Anzahl Zimmer', 'Area':'Flaeche [m2]', 'Price':'Preis [CHF]'}, inplace=True)
+
+    file2['Strasse'] = np.where(file2['Strasse'] == 'no street available', '', file2['Strasse'])
+    file2['Preis [CHF]'] = np.where(file2['Preis [CHF]'] == 'Anfrage', '', file2['Preis [CHF]'])
+
+
+    print(file2['Strasse'])
+
+    file2.to_csv('flat.csv', index=False)
+
+
+
 if __name__ == '__main__':
     start_time = time.time()
 
     city = ['Zurich', 'Basel', 'Bern', 'Winterthur', 'Luzern']
+    # city1 = ['Basel']
+    # saveHTML(city)
+    # main(city)
+    file()
+    # x = "/de/wohnung/unterm-stallen-13-haus-b-4104-oberwil-bl/502721/"
+    # adress(x)
 
-    saveHTML(city)
-    main(city)
-
-    # x = "/de/wohnung/6356-rigi-kaltbad/590626/"
-    # area(x)
-
-    # cities = {"Zurich" : "https://flatfox.ch/de/search/?east=8.625334&north=47.555934&south=47.198443&west=8.447982",
-    #           "Basel" : "https://flatfox.ch/de/search/?east=7.634148&north=47.589902&south=47.519342&west=7.554664",
-    #           "Bern" : "https://flatfox.ch/de/search/?east=7.495550&north=47.158707&south=46.749839&west=7.294318",
-    #           "Winterthur" : "https://flatfox.ch/de/search/?east=8.810331&north=47.533072&south=47.457945&west=8.656619",
-    #           "Luzern" : "https://flatfox.ch/de/search/?east=8.358228&north=47.199614&south=46.903045&west=8.212001"}
-    #
     # print(cities["Zurich"])
 
     print(f"{(time.time() - start_time)/60} minutes")

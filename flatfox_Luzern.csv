@@ -1,24 +1,37 @@
 Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
+1 Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/gerliswilstrasse-35-6020-emmenbrucke/600020/,Gerliswilstrasse 35,6020,Emmenbrücke,690,1,27 m²
+3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/militarstrasse-37-6003-luzern/599755/,Militärstrasse 37,6003,Luzern,1570,3,74 m²
+4 Zimmer-Wohnung in Kriens mieten,/de/wohnung/schauenseestr-4-6010-kriens/570661/,Schauenseestr. 4,6010,Kriens,1600,4,90 m²
+4 Zimmer-Wohnung in Luzern mieten,/de/wohnung/mozartstr-3-6004-luzern/599873/,Mozartstr. 3,6004,Luzern,1680,4,87 m²
+3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/6004-luzern/599542/,no street available,6004,Luzern,1940,3,75 m²
+4 Zimmer-Wohnung in Luzern mieten,/de/wohnung/kellerstrasse-19-6005-luzern/599486/,Kellerstrasse 19,6005,Luzern,1570,4,NaN
+3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/langweiherstr-22-6014-luzern/599397/,Längweiherstr. 22,6014,Luzern,1540,3 ½,75 m²
+4 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/wichlernstrasse-14-6010-kriens/599001/,Wichlernstrasse 14,6010,Kriens,1900,4 ½,103 m²
+3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/zihlmattweg-44-6005-luzern/599392/,Zihlmattweg 44,6005,Luzern,2150,3 ½,76 m²
+2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/zihlmattweg-44-6005-luzern/599391/,Zihlmattweg 44,6005,Luzern,1620,2 ½,46 m²
+3 ½ Zimmer-Wohnung in Littau-Luzern mieten,/de/wohnung/luzernerstrasse-141m-6014-littau-luzern/599389/,Luzernerstrasse 141m,6014,Littau-Luzern,1885,3 ½,88 m²
+4 ½ Zimmer-Wohnung in Buchrain mieten,/de/wohnung/moosstr-35-6033-buchrain/596103/,Moosstr. 35,6033,Buchrain,1764,4 ½,104 m²
+4 Zimmer-Wohnung in Luzern mieten,/de/wohnung/haldenstrasse-5-6006-luzern/599140/,Haldenstrasse 5,6006,Luzern,2950,4,NaN
+2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/gutschstrasse-1-6003-luzern/596625/,Gütschstrasse 1,6003,Luzern,1350,2,63 m²
 1 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/rossligasse-13-6004-luzern/598640/,Rössligasse 13,6004,Luzern,1150,1 ½,45 m²
 3 ½ Zimmer-Wohnung in Ebikon mieten,/de/wohnung/eschenweg-12-6030-ebikon/594802/,Eschenweg 12,6030,Ebikon,1490,3 ½,NaN
 3 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/gartenweg-5-6032-emmen/578598/,Gartenweg 5,6032,Emmen,1810,3 ½,87 m²
 3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/sagenmattstrasse-22-6003-luzern/598284/,Sagenmattstrasse 22,6003,Luzern,1450,3,NaN
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/winkelriedstrasse-37-6003-luzern/597846/,Winkelriedstrasse 37,6003,Luzern,1630,2 ½,60 m²
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/kauffmannweg-28-6003-luzern/597550/,Kauffmannweg 28,6003,Luzern,1780,2 ½,72 m²
-2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/abendweg-30-6006-luzern/597511/,Abendweg,30,"30,",1075,2,51 m²
+2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/abendweg-30-6006-luzern/597511/,Abendweg,6006,Luzern,1075,2,51 m²
 3 ½ Zimmer-Wohnung in emmenbrücke mieten,/de/wohnung/adligenstrasse-1-6020-emmenbrucke/597377/,Adligenstrasse 1,6020,emmenbrücke,1468,3 ½,NaN
 3 ½ Zimmer-Wohnung in Ebikon mieten,/de/wohnung/zentralstr-15-6030-ebikon/580532/,Zentralstr. 15,6030,Ebikon,1760,3 ½,80 m²
 2 ½ Zimmer-Wohnung in Ebikon mieten,/de/wohnung/ebisquare-str-7-6030-ebikon/580573/,Ebisquare-Str. 7,6030,Ebikon,1530,2 ½,63 m²
 2 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/feldbreite-emmen-6032-emmen/597176/,Feldbreite Emmen,6032,Emmen,1450,2 ½,63 m²
 4 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/wichlernstrasse-3a-6010-kriens/596814/,Wichlernstrasse 3a,6010,Kriens,1950,4 ½,106 m²
-2 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/unter-sidhalden-5-6010-kriens/596698/,Unter Sidhalden,5,"Sidhalden,",1670,2 ½,65 m²
+2 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/unter-sidhalden-5-6010-kriens/596698/,Unter Sidhalden,6010,Kriens,1670,2 ½,65 m²
 2 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/lauerzweg-1a-6010-kriens/596499/,Lauerzweg 1a,6010,Kriens,1690,2 ½,68 m²
 3 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/6010-kriens/596198/,no street available,6010,Kriens,2340,3 ½,117 m²
 3 Zimmer-Dachwohnung in Luzern mieten,/de/wohnung/reckenbuhlstrasse-6-6005-luzern/593172/,Reckenbühlstrasse 6,6005,Luzern,1600,3,NaN
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/salzfassstrasse-8a-6006-luzern/593725/,Salzfassstrasse 8a,6006,Luzern,3240,3 ½,NaN
 2 ½ Zimmer-Wohnung in Horw mieten,/de/wohnung/gemeindehausplatz-13-6048-horw/589518/,Gemeindehausplatz 13,6048,Horw,1760,2 ½,67 m²
 4 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/adligenstrasse-7-6020-emmenbrucke/595365/,Adligenstrasse 7,6020,Emmenbrücke,1720,4 ½,84 m²
-2 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/untere-wiese-10-6020-emmenbrucke/595218/,Untere Wiese 10,6020,Emmenbrücke,1275,2 ½,61 m²
 4 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/unter-spitalhof-4-6032-emmen/595364/,Unter-Spitalhof 4,6032,Emmen,1805,4 ½,96 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/horwerstrasse-32-6005-luzern/594900/,Horwerstrasse 32,6005,Luzern,2510,3 ½,100 m²
 3 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/erlenstrasse-42-6020-emmenbrucke/594597/,Erlenstrasse 42,6020,Emmenbrücke,1450,3 ½,78 m²
@@ -32,7 +45,6 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 5 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/schadrutistrasse-6006-luzern/593549/,Schädrütistrasse,6006,Luzern,850,5 ½,12 m²
 2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/bruchstrasse-2-6003-luzern/593523/,Bruchstrasse 2,6003,Luzern,2130,2,85 m²
 1 Zimmer-Wohnung in Rothenburg mieten,/de/wohnung/6023-rothenburg/593394/,no street available,6023,Rothenburg,628,1,27 m²
-2 ½ Zimmer-Wohnung in Rothenburg mieten,/de/wohnung/schutzenweidstasse-10-6023-rothenburg/593392/,Schützenweidstasse 10,6023,Rothenburg,1200,2 ½,NaN
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/winkelriedstrasse-56-6003-luzern/593223/,Winkelriedstrasse 56,6003,Luzern,1900,2 ½,57 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/bleicherstrasse-29-6003-luzern/592463/,Bleicherstrasse 29,6003,Luzern,1710,3 ½,81 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/biregghang-6-6005-luzern/591689/,Biregghang 6,6005,Luzern,1780,3 ½,87 m²
@@ -56,14 +68,12 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 2 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/feldbreite-emmen-6032-emmen/589820/,Feldbreite Emmen,6032,Emmen,1410,2 ½,60 m²
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/bruchstrasse-24-6003-luzern/589793/,Bruchstrasse 24,6003,Luzern,1500,2 ½,62 m²
 1 ½ Zimmer-Dachwohnung in Emmenbrücke mieten,/de/wohnung/centralstrasse-5-6020-emmenbrucke/587055/,Centralstrasse 5,6020,Emmenbrücke,850,1 ½,NaN
-2 Zimmer-Dachwohnung in Emmenbrücke mieten,/de/wohnung/centralstrasse-5-6020-emmenbrucke/589454/,Centralstrasse 5,6020,Emmenbrücke,1180,2,NaN
 2 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/untere-wiese-7-6020-emmenbrucke/589453/,Untere Wiese 7,6020,Emmenbrücke,1480,2 ½,61 m²
 2 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/untere-wiese-7-6020-emmenbrucke/589452/,Untere Wiese 7,6020,Emmenbrücke,1430,2 ½,61 m²
 3 Zimmer-Wohnung in Kriens mieten,/de/wohnung/schlossweg-14-6010-kriens/589436/,Schlossweg 14,6010,Kriens,1450,3,60 m²
 3 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/brisenstrasse-7-6020-emmenbrucke/589096/,Brisenstrasse 7,6020,Emmenbrücke,1950,3 ½,82 m²
 1 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/lindenfeldring-6-6032-emmen/588594/,Lindenfeldring 6,6032,Emmen,1090,1 ½,30 m²
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/lindenstrasse-34-6015-luzern/588237/,Lindenstrasse 34,6015,Luzern,1260,2 ½,50 m²
-3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/sternenplatz-7-6004-luzern/588154/,Sternenplatz 7,6004,Luzern,2160,3,75 m²
 3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/wurzenbachstr-34-6006-luzern/588140/,Würzenbachstr. 34,6006,Luzern,1530,3,64 m²
 4 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/habsburgerstrasse-37-6003-luzern/588107/,Habsburgerstrasse 37,6003,Luzern,2300,4 ½,115 m²
 3 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/gallusstrasse-10-6010-kriens/587676/,Gallusstrasse 10,6010,Kriens,1790,3 ½,74 m²
@@ -79,13 +89,11 @@ Wohnung in Kriens mieten,/de/wohnung/wyssmattstrasse-6-6010-kriens/587150/,Wyssm
 2 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/wichlernstrasse-14-6010-kriens/585567/,Wichlernstrasse 14,6010,Kriens,1480,2 ½,65 m²
 4 ½ Zimmer-Wohnung in Obernau mieten,/de/wohnung/feldhofli-3-6012-obernau/582111/,Feldhöfli 3,6012,Obernau,1980,4 ½,102 m²
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/burgerstrasse-6-6003-luzern/586337/,Burgerstrasse 6,6003,Luzern,1140,2 ½,57 m²
-3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/bundesstrasse-17-6003-luzern/586306/,Bundesstrasse 17,6003,Luzern,1870,3 ½,61 m²
 3 ½ Zimmer-Wohnung in Hergiswil mieten,/de/wohnung/sonnenbergstrasse-17-6052-hergiswil/585651/,Sonnenbergstrasse 17,6052,Hergiswil,1540,3 ½,NaN
 2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/brunigstrasse-11-6005-luzern/585500/,Brünigstrasse 11,6005,Luzern,1390,2,40 m²
 4 ½ Zimmer-Wohnung in Emmenbrücke mieten,/de/wohnung/benziwil-47-6020-emmenbrucke/582081/,Benziwil 47,6020,Emmenbrücke,1830,4 ½,108 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/ennetweg-4-6015-luzern/575376/,Ennetweg 4,6015,Luzern,1990,3 ½,79 m²
 2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/blattenmoosstrasse-4-6014-luzern/582615/,Blattenmoosstrasse 4,6014,Luzern,1150,2,60 m²
-5 Zimmer-Wohnung in Luzern mieten,/de/wohnung/wurzenbachhalde-13-6006-luzern/581700/,Würzenbachhalde 13,6006,Luzern,2030,5,99 m²
 2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/wurzenbachhalde-7-6006-luzern/581610/,Würzenbachhalde 7,6006,Luzern,940,2,33 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/seefeldstrasse-17-6006-luzern/585024/,Seefeldstrasse 17,6006,Luzern,1710,3 ½,72 m²
 1 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/st-karliquai-9-6004-luzern/584476/,St. Karliquai 9,6004,Luzern,1225,1 ½,NaN
@@ -97,15 +105,15 @@ Wohnung in Kriens mieten,/de/wohnung/wyssmattstrasse-6-6010-kriens/587150/,Wyssm
 3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/baselstrasse-43-6003-luzern/583680/,Baselstrasse 43,6003,Luzern,1530,3,55 m²
 2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/roseneggweg-3-6005-luzern/583322/,Roseneggweg 3,6005,Luzern,1180,2,43 m²
 2 ½ Zimmer-Wohnung in Eigenthal mieten,/de/wohnung/sonnhalde-6013-eigenthal/582974/,Sonnhalde,6013,Eigenthal,1300,2 ½,65 m²
-3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/winkelriedstr-25-6003-luzern/582726/,Winkelriedstr. 25,6003,Luzern,2190,3 ½,75 m²
-2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/sternmattstrasse-119-6005-luzern/582691/,Sternmattstrasse 119,6005,Luzern,2000,2 ½,NaN
+2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/sternmattstrasse-119-6005-luzern/582691/,Sternmattstrasse 119,6005,Luzern,1850,2 ½,NaN
+2 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/wichlernstrasse-3a-6010-kriens/581551/,Wichlernstrasse 3a,6010,Kriens,1410,2 ½,52 m²
 1 Zimmer-Wohnung in Horw mieten,/de/wohnung/brunnmattstrasse-18-6048-horw/581414/,Brunnmattstrasse 18,6048,Horw,790,1,34 m²
 2 Zimmer-Wohnung in Luzern mieten,/de/wohnung/geissmattstasse-60-6004-luzern/581021/,Geissmattstasse 60,6004,Luzern,1340,2,60 m²
 3 Zimmer-Wohnung in Rothenburg mieten,/de/wohnung/rudolfstrasse-1-6023-rothenburg/579043/,Rudolfstrasse 1,6023,Rothenburg,1350,3,70 m²
 3 ½ Zimmer-Wohnung in Kriens mieten,/de/wohnung/am-mattenhof-14-6010-kriens/578961/,Am Mattenhof 14,6010,Kriens,2200,3 ½,89 m²
 6 ½ Zimmer-Haus in Adligenswil mieten,/de/wohnung/meiersmattstrasse-21a-6043-adligenswil/578771/,Meiersmattstrasse 21a,6043,Adligenswil,3800,6 ½,160 m²
 3 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/eschenstrasse-12-6020-emmen/578729/,Eschenstrasse 12,6020,Emmen,1550,3 ½,72 m²
-2 ½ Zimmer-Wohnung in Adligenswil mieten,/de/wohnung/kehlhofrain-9-6043-adligenswil/578255/,Kehlhofrain,9,"9,",1347,2 ½,59 m²
+2 ½ Zimmer-Wohnung in Adligenswil mieten,/de/wohnung/kehlhofrain-9-6043-adligenswil/578255/,Kehlhofrain,6043,Adligenswil,1347,2 ½,59 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/matthofring-24-6005-luzern/577775/,Matthofring 24,6005,Luzern,1715,3 ½,70 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/matthofring-22-6005-luzern/577774/,Matthofring 22,6005,Luzern,1715,3 ½,70 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/langweiherstr-16-6014-luzern/577295/,Längweiherstr. 16,6014,Luzern,1560,3 ½,75 m²
@@ -119,11 +127,10 @@ Wohnung in Kriens mieten,/de/wohnung/wyssmattstrasse-6-6010-kriens/587150/,Wyssm
 5 ½ Zimmer-Wohnung in Horw mieten,/de/wohnung/kantonsstrasse-40-6048-horw/569007/,Kantonsstrasse 40,6048,Horw,2885,5 ½,140 m²
 3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/eichwaldstrasse-35-6005-luzern/575200/,Eichwaldstrasse 35,6005,Luzern,1420,3,95 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/voltastrasse-24-6005-luzern/585069/,Voltastrasse 24,6005,Luzern,2040,3 ½,80 m²
-3 ½ Zimmer-Wohnung in Ebikon mieten,/de/wohnung/schachenweidstr-105-6030-ebikon/574008/,Schachenweidstr. 105,6030,Ebikon,1530,3 ½,82 m²
 4 ½ Zimmer-Wohnung in Adligenswil mieten,/de/wohnung/6043-adligenswil/574795/,no street available,6043,Adligenswil,850,4 ½,130 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/obermattlistrasse-13-6015-luzern/574705/,Obermättlistrasse 13,6015,Luzern,1250,3 ½,NaN
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/gibraltarstrasse-31-6003-luzern/582100/,Gibraltarstrasse 31,6003,Luzern,2050,3 ½,108 m²
-2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/moosstrasse-15-6003-luzern/571997/,Moosstrasse,15,"15,",1350,2 ½,NaN
+2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/moosstrasse-15-6003-luzern/571997/,Moosstrasse,6003,Luzern,1350,2 ½,NaN
 2 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/hirtenhofring-20-6005-luzern/553411/,Hirtenhofring 20,6005,Luzern,1315,2 ½,61 m²
 3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/wurzenbachstr-38-6006-luzern/571190/,Würzenbachstr. 38,6006,Luzern,1510,3,64 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/seefeldstrasse-16-6006-luzern/570425/,Seefeldstrasse 16,6006,Luzern,2310,3 ½,95 m²
@@ -139,7 +146,7 @@ Wohnung in Kriens mieten,/de/wohnung/wyssmattstrasse-6-6010-kriens/587150/,Wyssm
 3 Zimmer-Wohnung in Luzern mieten,/de/wohnung/baselstrasse-97-6003-luzern/565468/,Baselstrasse 97,6003,Luzern,1800,3,NaN
 4 ½ Zimmer-Wohnung in Kriens-Obernau mieten,/de/wohnung/hergiswaldstrasse-6-6012-kriens-obernau/556289/,Hergiswaldstrasse 6,6012,Kriens-Obernau,1860,4 ½,103 m²
 4 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/landschaustrasse-19-6006-luzern/559340/,Landschaustrasse 19,6006,Luzern,1800,4 ½,86 m²
-4 Zimmer-Wohnung in Luzern mieten,/de/wohnung/fluhmattweg-13-6004-luzern/558930/,Fluhmattweg,13,"13,",3410,4,150 m²
+4 Zimmer-Wohnung in Luzern mieten,/de/wohnung/fluhmattweg-13-6004-luzern/558930/,Fluhmattweg,6004,Luzern,3410,4,150 m²
 3 ½ Zimmer-Wohnung in Luzern mieten,/de/wohnung/an-der-kleinen-emme-2-6014-luzern/558917/,An der Kleinen Emme 2,6014,Luzern,1800,3 ½,NaN
 3 ½ Zimmer-Wohnung in Ebikon mieten,/de/wohnung/luzernerstrasse-82-6030-ebikon/558851/,Luzernerstrasse 82,6030,Ebikon,2000,3 ½,72 m²
 4 ½ Zimmer-Wohnung in Emmen mieten,/de/wohnung/untere-halten-3-6032-emmen/558848/,Untere Halten 3,6032,Emmen,1690,4 ½,95 m²

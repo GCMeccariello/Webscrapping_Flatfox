@@ -4,14 +4,18 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/neunbrunnenstrasse-38-8050-zurich/594601/,Neunbrunnenstrasse 38,8050,Zürich,6385,3 ½,126 m²
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/bellariastrasse-36-8002-zurich/97465/,Bellariastrasse 36,8002,Zurich,6325,3,86 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/kreuzstrasse-64-8008-zurich/543755/,Kreuzstrasse 64,8008,Zürich,6290,3 ½,125 m²
+3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/staffelstrasse-13-8045-zurich/599179/,Staffelstrasse 13,8045,Zürich,6090,3 ½,110 m²
 4 ½ Zimmer-Wohnung in Zollikon mieten,/de/wohnung/8702-zollikon/590531/,no street available,8702,Zollikon,5800,4 ½,115 m²
+3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/uhlandstrasse-6-8037-zurich/599195/,Uhlandstrasse 6,8037,Zürich,5780,3 ½,NaN
 5 ½ Zimmer-Wohnung in Kilchberg mieten,/de/wohnung/seestrasse-8802-kilchberg/568456/,Seestrasse,8802,Kilchberg,5700,5 ½,140 m²
 4 ½ Zimmer-Wohnung in Feldmeilen mieten,/de/wohnung/schwabachstrasse-46-8706-feldmeilen/579113/,Schwabachstrasse 46,8706,Feldmeilen,5550,4 ½,180 m²
+3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/uhlandstrasse-6-8037-zurich/599912/,Uhlandstrasse 6,8037,Zürich,5330,3 ½,69 m²
 4 ½ Zimmer-Wohnung in Erlenbach ZH mieten,/de/wohnung/kurhausstrasse-2-8703-erlenbach-zh/598561/,Kurhausstrasse 2,8703,Erlenbach,5299,4 ½,159 m²
-3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/pflanzschulstrasse-95-8004-zurich/543770/,Pflanzschulstrasse 95,8004,Zürich,5260,3 ½,86 m²
+3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/pflanzschulstrasse-95-8004-zurich/543770/,Pflanzschulstrasse 95,8004,Zürich,5190,3 ½,86 m²
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/cramerstrasse-2-6-8004-zurich/97488/,Cramerstrasse 2-6,8004,Zurich,5174,3,69 m²
 2 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/wolframplatz-1-8045-zurich/97516/,Wolframplatz 1,8045,Zurich,5164,2,70 m²
 2 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/bellariastrasse-36-8002-zurich/97464/,Bellariastrasse 36,8002,Zurich,5164,2,63 m²
+2 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/uhlandstrasse-6-8037-zurich/599915/,Uhlandstrasse 6,8037,Zürich,5080,2 ½,76 m²
 4 Zimmer-Wohnung in Zürich mieten,/de/wohnung/ottikerstrasse-11-8006-zurich/589289/,Ottikerstrasse 11,8006,Zürich,4990,4,125 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/buchzelgstrasse-52-8053-zurich/596623/,Buchzelgstrasse 52,8053,Zürich,4986,4 ½,115 m²
 2 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/scheideggstrasse-79-8002-zurich/97469/,Scheideggstrasse 79,8002,Zurich,4977,2,60 m²
@@ -25,22 +29,21 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/rieterstrasse-35-8002-zurich/598177/,Rieterstrasse 35,8002,Zürich,4740,4 ½,90 m²
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/wolframplatz-1-8045-zurich/97511/,Wolframplatz 1,8045,Zurich,4718,3,57 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/etzelstrasse-6-8038-zurich/525883/,Etzelstrasse 6,8038,Zürich,4710,3 ½,75 m²
-4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/rieterstrasse-35-8002-zurich/598194/,Rieterstrasse 35,8002,Zürich,4690,4 ½,90 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/spindelstrasse-12-8041-zurich/580943/,Spindelstrasse 12,8041,Zürich,4680,3 ½,95 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8004-zurich/591047/,no street available,8004,Zürich,4550,3 ½,90 m²
 2 ½ Zimmer-Wohnung in zurich mieten,/de/wohnung/niederdorfstrasse-8001-zurich/553235/,Niederdorfstrasse,8001,zurich,4500,2 ½,110 m²
+4 ½ Zimmer-Wohnung in Zurich mieten,/de/wohnung/altstetten-8048-zurich/599113/,Altstetten,8048,Zurich,4490,4 ½,135 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/schmidgasse-4-8001-zurich/201112/,Schmidgasse 4,8001,Zürich,4490,3 ½,60 m²
 1 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/niederdorfstrasse-41-8001-zurich/201109/,Niederdorfstrasse 41,8001,Zürich,4490,1 ½,30 m²
 2 ½ Zimmer-Maisonette in Zürich mieten,/de/wohnung/niederdorfstrasse-61-8001-zurich/596498/,Niederdorfstrasse 61,8001,Zürich,4480,2 ½,104 m²
 3 ½ Zimmer-Wohnung in Küsnacht mieten,/de/wohnung/8700-kusnacht/593871/,no street available,8700,Küsnacht,4470,3 ½,120 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/doltschiweg-23-8055-zurich/587640/,Döltschiweg 23,8055,Zürich,4470,4 ½,123 m²
 4 Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/badenerstrasse-595-8048-zurich/580944/,Badenerstrasse 595,8048,Zürich,4390,4,105 m²
-2 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/neptunstrasse-57-8032-zurich/570603/,Neptunstrasse 57,8032,Zürich,4380,2 ½,59 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/568392/,Dörflistrasse 112,8050,Zürich,4380,3 ½,69 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/heuelsteig-37-8032-zurich/573293/,Heuelsteig 3&7,8032,Zürich,4370,4 ½,122 m²
-3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/militarstrasse-24-8004-zurich/97499/,Militärstrasse 24,8004,Zurich,4345,3,43 m²
 2 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/gerechtigkeitsgasse-8-8001-zurich/97458/,Gerechtigkeitsgasse 8,8001,Zurich,4345,2,47 m²
 2 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/zurlindenstrasse-50-8003-zurich/543766/,Zurlindenstrasse 50,8003,Zürich,4310,2 ½,57 m²
+2 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/neptunstrasse-57-8032-zurich/570603/,Neptunstrasse 57,8032,Zürich,4280,2 ½,59 m²
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/binzmuhlestr-48-8050-zurich/97530/,Binzmühlestr. 48,8050,Zurich,4251,3,80 m²
 2 ½ Zimmer-Möblierte Wohnung in Zollikon mieten,/de/wohnung/schlossbergstrasse-42-8702-zollikon/570623/,Schlossbergstrasse 42,8702,Zollikon,4150,2 ½,74 m²
 2 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/klosbachstrasse-44-8032-zurich/570615/,Klosbachstrasse 44,8032,Zürich,4150,2 ½,54 m²
@@ -48,15 +51,12 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/hardstrasse-236238-8005-zurich/97508/,Hardstrasse 236/238,8005,Zurich,4127,3,80 m²
 1 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/freyastrasse-8-8004-zurich/97493/,Freyastrasse 8,8004,Zurich,4127,1,70 m²
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/cramerstrasse-2-6-8004-zurich/97486/,Cramerstrasse 2-6,8004,Zurich,4127,3,47 m²
-3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/rotachstrasse-33-8003-zurich/97478/,Rotachstrasse 33,8003,Zurich,4127,3,49 m²
 4 ½ Zimmer-Wohnung in Rüschlikon mieten,/de/wohnung/8803-ruschlikon/590939/,no street available,8803,Rüschlikon,4000,4 ½,120 m²
 5 ½ Zimmer-Maisonette in Zürich mieten,/de/wohnung/kirchenfeld-55-8052-zurich/597745/,Kirchenfeld 55,8052,Zürich,3980,5 ½,NaN
 3 ½ Zimmer-Wohnung in Fällanden mieten,/de/wohnung/oberdorfstrasse-24-8117-fallanden/575117/,Oberdorfstrasse 24,8117,Fällanden,3950,3 ½,120 m²
 3 ½ Zimmer-Wohnung in Zumikon mieten,/de/wohnung/8126-zumikon/582842/,no street available,8126,Zumikon,3900,3 ½,83 m²
 5 Zimmer-Wohnung in Zürich mieten,/de/wohnung/leimbachstrasse-96-8041-zurich/551144/,Leimbachstrasse 96,8041,Zürich,3870,5,118 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/kaferholzstrasse-54-8057-zurich/583864/,Käferholzstrasse 54,8057,Zürich,3835,4 ½,111 m²
-3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/524923/,Dörflistrasse 112,8050,Zürich,3790,3 ½,69 m²
-3 Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/552666/,Dörflistrasse 112,8050,Zürich,3780,3,69 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/524906/,Dörflistrasse 112,8050,Zürich,3780,3 ½,69 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/524190/,Dörflistrasse 112,8050,Zürich,3780,3 ½,69 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/kaferholzstrasse-42-8057-zurich/556980/,Käferholzstrasse 42,8057,Zürich,3765,4 ½,114 m²
@@ -64,6 +64,8 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 4 ½ Zimmer-Wohnung in Zurich mieten,/de/wohnung/hardturmstrasse-90-8005-zurich/597432/,Hardturmstrasse 90,8005,Zurich,3750,4 ½,116 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/albulastrasse-42-8048-zurich/590147/,Albulastrasse 42,8048,Zürich,3750,3 ½,91 m²
 3 ½ Zimmer-Wohnung in Thalwil mieten,/de/wohnung/feldmoosstrasse-4-8800-thalwil/587671/,Feldmoosstrasse 4,8800,Thalwil,3700,3 ½,94 m²
+3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/568396/,Dörflistrasse 112,8050,Zürich,3700,3 ½,69 m²
+3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/dorflistrasse-112-8050-zurich/524923/,Dörflistrasse 112,8050,Zürich,3700,3 ½,69 m²
 4 ½ Zimmer-Wohnung in Duebendorf mieten,/de/wohnung/riedweg-24-8600-duebendorf/597450/,Riedweg 24,8600,Duebendorf,3684,4 ½,120 m²
 2 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/binzmuhlestr-46-8050-zurich/97525/,Binzmühlestr. 46,8050,Zurich,3619,2,55 m²
 3 ½ Zimmer-Wohnung in Zurich mieten,/de/wohnung/hofwiesenstrasse-175-8057-zurich/594091/,Hofwiesenstrasse 175,8057,Zurich,3600,3 ½,102 m²
@@ -71,17 +73,19 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 2 ½ Zimmer-Maisonette in Zürich mieten,/de/wohnung/pfingstweidstrasse-106a-8005-zurich/584507/,Pfingstweidstrasse 106a,8005,Zürich,3550,2 ½,104 m²
 4 Zimmer-Wohnung in Kloten mieten,/de/wohnung/fliederweg-3d-8302-kloten/594520/,Fliederweg 3d,8302,Kloten,3510,4,130 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/santisstrasse-8008-zurich/592922/,Säntisstrasse,8008,Zürich,3500,2 ½,65 m²
-2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/sihl-terrassen-manegg-8041-zurich/587697/,Sihl-Terrassen,Manegg,NaN,"Manegg,",2 ½,70 m²
+2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/sihl-terrassen-manegg-8041-zurich/587697/,Sihl-Terrassen,8041,Zürich,"Manegg,",2 ½,70 m²
 1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/badenerstrasse-434-8004-zurich/555729/,Badenerstrasse 434,8004,Zürich,3500,1,80 m²
 1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/baslerstrasse-60-8048-zurich/539901/,Baslerstrasse 60,8048,Zürich,3500,1,29 m²
 2 ½ Zimmer-Wohnung in Zollikon mieten,/de/wohnung/rebwiesstr-58-8702-zollikon/552193/,Rebwiesstr. 58,8702,Zollikon,3490,2 ½,102 m²
 3 Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/stauffacherstrasse-129-8004-zurich/244002/,Stauffacherstrasse 129,8004,Zürich,3490,3,54 m²
-4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8053-zurich/598657/,no street available,8053,Zürich,3485,4 ½,120 m²
+4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/im-glockenacker-13-8053-zurich/598657/,Im Glockenacker 13,8053,Zürich,3485,4 ½,120 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/winzerhalde-103-8049-zurich/592004/,Winzerhalde 103,8049,Zürich,3485,3 ½,107 m²
 3 ½ Zimmer-Attikawohnung in Zürich-Oerlikon mieten,/de/wohnung/regensbergstrasse-30-8050-zurich-oerlikon/592236/,Regensbergstrasse 30,8050,Zürich-Oerlikon,3470,3 ½,86 m²
+4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/eggbuhlstrasse-1-8050-zurich/599348/,Eggbühlstrasse 1,8050,Zürich,3458,4 ½,98 m²
 4 Zimmer-Wohnung in Zürich mieten,/de/wohnung/leimbachstrasse-96-8041-zurich/551143/,Leimbachstrasse 96,8041,Zürich,3450,4,107 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/eggbuhlstrasse-18-8050-zurich/572074/,Eggbühlstrasse 18,8050,Zürich,3435,4 ½,110 m²
-6 ½ Zimmer-Attikawohnung in Regensdorf mieten,/de/wohnung/8105-regensdorf/598080/,no street available,8105,Regensdorf,3400,6 ½,280 m²
+6 ½ Zimmer-Attikawohnung in Regensdorf mieten,/de/wohnung/pumpwerkstrasse-40-8105-regensdorf/598080/,Pumpwerkstrasse 40,8105,Regensdorf,3400,6 ½,280 m²
+4 ½ Zimmer-Dachwohnung in Zürich mieten,/de/wohnung/langgrutstrasse-185-8047-zurich/593682/,Langgrütstrasse 185,8047,Zürich,3400,4 ½,147 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/farenweg-8038-zurich/586842/,Farenweg,8038,Zürich,3380,3 ½,89 m²
 2 ½ Zimmer-Loft in Dübendorf mieten,/de/wohnung/8600-dubendorf/574076/,no street available,8600,Dübendorf,3370,2 ½,88 m²
 4 ½ Zimmer-Wohnung in Opfikon / Glattbrugg mieten,/de/wohnung/8152-opfikon-glattbrugg/543804/,no street available,8152,Opfikon,3360,4 ½,140 m²
@@ -89,10 +93,10 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/hohlstr-511-8048-zurich/482927/,Hohlstr. 511,8048,Zürich,3349,3 ½,119 m²
 6 ½ Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/opfikonerstrasse-1-8304-wallisellen/596639/,Opfikonerstrasse 1,8304,Wallisellen,3310,6 ½,210 m²
 4 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/binzmuhlestr-48-8050-zurich/97531/,Binzmühlestr. 48,8050,Zurich,3308,4,60 m²
+3 ½ Zimmer-Wohnung in zürich mieten,/de/wohnung/8048-zurich/599499/,no street available,8048,zürich,3300,3 ½,86 m²
 2 ½ Zimmer-Maisonette in Kilchberg mieten,/de/wohnung/stockenstrasse-6-8802-kilchberg/578597/,Stockenstrasse 6,8802,Kilchberg,3300,2 ½,100 m²
 4 Zimmer-Wohnung in Kloten mieten,/de/wohnung/fliederweg-3a-8302-kloten/594896/,Fliederweg 3a,8302,Kloten,3290,4,121 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/beckhammer-19-8057-zurich/598629/,Beckhammer 19,8057,Zürich,3274,4 ½,85 m²
-3 ½ Zimmer-Wohnung in Oberengstringen mieten,/de/wohnung/brunnhaldenstrasse-9b-8102-oberengstringen/594061/,Brunnhaldenstrasse 9b,8102,Oberengstringen,3260,3 ½,94 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/albulastrasse-42-8048-zurich/583122/,Albulastrasse 42,8048,Zürich,3249,3 ½,100 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/widmerstrasse-68-8038-zurich/597347/,Widmerstrasse 68,8038,Zürich,3240,3 ½,76 m²
 5 Zimmer-Wohnung in Affoltern am Albis mieten,/de/wohnung/muhlebergstrasse-16-8910-affoltern-am-albis/557686/,Mühlebergstrasse 16,8910,Affoltern,3240,5,138 m²
@@ -102,38 +106,34 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 4 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/8600-dubendorf/574196/,no street available,8600,Dübendorf,3210,4 ½,98 m²
 3 ½ Zimmer-Wohnung in zurich mieten,/de/wohnung/8008-zurich/593483/,no street available,8008,zurich,3200,3 ½,83 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/triemlistrasse-21-8047-zurich/583030/,Triemlistrasse 21,8047,Zürich,3200,4 ½,102 m²
-1 ½ Zimmer-Wohnung in Küsnacht ZH mieten,/de/wohnung/alte-landstrasse-33-8700-kusnacht-zh/591285/,Alte Landstrasse 33,8700,Küsnacht,3190,1 ½,82 m²
-2 Zimmer-Wohnung in Zürich mieten,/de/wohnung/max-bill-platz-5-8050-zurich/554958/,Max Bill Platz 5,8050,Zürich,3190,2,122 m²
+1 ½ Zimmer-Loft in Küsnacht ZH mieten,/de/wohnung/alte-landstrasse-33-8700-kusnacht-zh/591285/,Alte Landstrasse 33,8700,Küsnacht,3190,1 ½,82 m²
 2 ½ Zimmer-Wohnung in Zurich mieten,/de/wohnung/elsastrasse-15-8004-zurich/593767/,Elsastrasse 15,8004,Zurich,3170,2 ½,NaN
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/seefeldstrasse-75-8008-zurich/592770/,Seefeldstrasse 75,8008,Zürich,3170,2 ½,63 m²
-3 ½ Zimmer-Wohnung in zurich mieten,/de/wohnung/langmauerstrasse-8006-zurich/586216/,Langmauerstrasse,8006,zurich,3166,3 ½,110 m²
 3 Zimmer-Wohnung in Zürich mieten,/de/wohnung/8037-zurich/590663/,no street available,8037,Zürich,3128,3,85 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/langgrutstrasse-147-8047-zurich/597288/,Langgrütstrasse 147,8047,Zürich,3100,2 ½,75 m²
 3 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/birmensdorferstrasse-543-8055-zurich/241471/,Birmensdorferstrasse 543,8055,Zürich,3090,3 ½,80 m²
 3 Zimmer-Möblierte Wohnung in Zurich mieten,/de/wohnung/hardstrasse-236238-8005-zurich/97507/,Hardstrasse 236/238,8005,Zurich,3090,3,80 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/tuchmacherstrasse-72-8041-zurich/588006/,Tuchmacherstrasse 72,8041,Zürich,3080,3 ½,100 m²
 4 ½ Zimmer-Wohnung in Horgen mieten,/de/wohnung/seestrasse-47-8810-horgen/598556/,Seestrasse 47,8810,Horgen,3063,4 ½,111 m²
-3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/libellenweg-10-8048-zurich/598485/,Libellenweg,10,"10,",2990,3 ½,75 m²
+4 ½ Zimmer-Wohnung in Rüschlikon mieten,/de/wohnung/8803-ruschlikon/599529/,no street available,8803,Rüschlikon,3000,4 ½,140 m²
+4 ½ Zimmer-Wohnung in Affoltern am Albis mieten,/de/wohnung/seewadelstrasse-21-8910-affoltern-am-albis/599172/,Seewadelstrasse 21,8910,Affoltern,2990,4 ½,105 m²
+3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/libellenweg-10-8048-zurich/598485/,Libellenweg,8048,Zürich,2990,3 ½,75 m²
 4 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/rechweg-14-8600-dubendorf/597553/,Rechweg 14,8600,Dübendorf,2990,4 ½,95 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/dangelweg-1-8038-zurich/585112/,Dangelweg 1,8038,Zürich,2985,4 ½,NaN
 3 ½ Zimmer-Wohnung in Zollikerberg mieten,/de/wohnung/am-brunnenbachli-20-8125-zollikerberg/522273/,Am Brunnenbächli 20,8125,Zollikerberg,2985,3 ½,95 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/breitensteinstrasse-69-8037-zurich/597521/,Breitensteinstrasse 69,8037,Zürich,2980,2 ½,70 m²
 1 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/seefeldstrasse-255-8008-zurich/591377/,Seefeldstrasse 255,8008,Zürich,2950,1 ½,24 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/nordstrasse-290-8037-zurich/589127/,Nordstrasse 290,8037,Zürich,2950,4 ½,70 m²
-3 ½ Zimmer-Wohnung in Thalwil mieten,/de/wohnung/aubrigstrasse-23-a-8800-thalwil/589623/,Aubrigstrasse 23 a,8800,Thalwil,2945,3 ½,95 m²
-4 ½ Zimmer-Haus in Gockhausen mieten,/de/wohnung/spirackerstrasse-51-8044-gockhausen/587850/,Spirackerstrasse 51,8044,Gockhausen,2920,4 ½,118 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/anemonenstr-45-8047-zurich/578762/,Anemonenstr. 45,8047,Zürich,2900,3 ½,94 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/wiesliacher-97-8053-zurich/597062/,Wiesliacher 97,8053,Zürich,2875,4 ½,130 m²
 4 Zimmer-Wohnung in Zürich mieten,/de/wohnung/im-glockenacker-56-8053-zurich/580244/,Im Glockenacker 56,8053,Zürich,2870,4,102 m²
 2 Zimmer-Wohnung in Kilchberg mieten,/de/wohnung/stockenstrasse-6-8802-kilchberg/578564/,Stockenstrasse 6,8802,Kilchberg,2850,2,65 m²
 3 Zimmer-Wohnung in Küsnacht mieten,/de/wohnung/seestrasse-79-8700-kusnacht/559361/,Seestrasse 79,8700,Küsnacht,2850,3,65 m²
 3 ½ Zimmer-Wohnung in Glattpark mieten,/de/wohnung/farman-strasse-10-8152-glattpark/576841/,Farman-Strasse 10,8152,Glattpark,2845,3 ½,105 m²
-5 ½ Zimmer-Wohnung in Arni AG mieten,/de/wohnung/vorackerweg-2-8905-arni-ag/590201/,Voräckerweg 2,8905,Arni,2840,5 ½,150 m²
 3 ½ Zimmer-Wohnung in Uitikon-Waldegg mieten,/de/wohnung/leuengasse-71-83-8142-uitikon-waldegg/503663/,Leuengasse 71 - 83,8142,Uitikon-Waldegg,8142,3 ½,98 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/loorenstr-43-8053-zurich/576728/,Loorenstr. 43,8053,Zürich,2820,4 ½,112 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/rautihalde-10-8048-zurich/359360/,Rautihalde  10,8048,Zürich,2810,3 ½,83 m²
-3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/schaffhauserplatz-3-8006-zurich/553016/,Schaffhauserplatz 3,8006,Zürich,2800,3 ½,95 m²
-2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/kronenstrasse-38-8006-zurich/544528/,Kronenstrasse 38,8006,Zürich,2800,2 ½,NaN
+3 ½ Zimmer-Wohnung in Gattikon mieten,/de/wohnung/obstgartenstr-32-8136-gattikon/599863/,Obstgartenstr. 32,8136,Gattikon,2790,3 ½,88 m²
 3 ½ Zimmer-Wohnung in Erlenbach mieten,/de/wohnung/8703-erlenbach/595195/,no street available,8703,Erlenbach,2790,3 ½,NaN
 2 ½ Zimmer-Wohnung in Glattpark mieten,/de/wohnung/farman-strasse-12-8152-glattpark/589580/,Farman-Strasse 12,8152,Glattpark,2790,2 ½,67 m²
 5 ½ Zimmer-Maisonette in Weiningen mieten,/de/wohnung/hangertenstr-21-8104-weiningen/538785/,Hängertenstr. 21,8104,Weiningen,2790,5 ½,135 m²
@@ -142,7 +142,6 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/hadrichstr-8-8047-zurich/594267/,Hädrichstr. 8,8047,Zürich,2770,3 ½,103 m²
 2 ½ Zimmer-Wohnung in Rüschlikon mieten,/de/wohnung/bondlerstrasse-1a-8802-ruschlikon/598614/,Böndlerstrasse  1a,8802,Rüschlikon,2750,2 ½,100 m²
 2 Zimmer-Wohnung in Kilchberg mieten,/de/wohnung/stockenstrasse-6-8802-kilchberg/578457/,Stockenstrasse 6,8802,Kilchberg,2750,2,40 m²
-5 ½ Zimmer-Attikawohnung in Arni AG mieten,/de/wohnung/vorackerweg-6-8905-arni-ag/594076/,Voräckerweg 6,8905,Arni,2740,5 ½,150 m²
 4 ½ Zimmer-Wohnung in Zollikerberg mieten,/de/wohnung/im-ahorn-9-8125-zollikerberg/577937/,Im Ahorn 9,8125,Zollikerberg,2718,4 ½,109 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/limmattalstr-15-8049-zurich/578197/,Limmattalstr. 15,8049,Zürich,2700,4 ½,85 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8049-zurich/578163/,no street available,8049,Zürich,2700,4 ½,109 m²
@@ -156,37 +155,35 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 2 ½ Zimmer-Wohnung in Zürich (ZH) mieten,/de/wohnung/sadlenweg-10-8055-zurich-zh/571622/,Sädlenweg 10,8055,Zürich,2645,2 ½,60 m²
 2 ½ Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/zwickystrasse-18-8304-wallisellen/507735/,Zwickystrasse 18,8304,Wallisellen,2635,2 ½,122 m²
 2 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/zurichstrasse-62-8134-adliswil/505390/,Zürichstrasse 62,8134,Adliswil,2610,2 ½,94 m²
+4 ½ Zimmer-Dachwohnung in Gockhausen mieten,/de/wohnung/spirackerstrasse-22-8044-gockhausen/590222/,Spirackerstrasse 22,8044,Gockhausen,2605,4 ½,132 m²
+3 Zimmer-Wohnung in Zurich mieten,/de/wohnung/8055-zurich/599068/,no street available,8055,Zurich,2600,3,NaN
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8049-zurich/594162/,no street available,8049,Zürich,2600,2 ½,90 m²
+3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/starengasse-5-8052-zurich/599713/,Starengasse 5,8052,Zürich,2590,3 ½,75 m²
 3 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/giessenstrasse-3-8600-dubendorf/587115/,Giessenstrasse 3,8600,Dübendorf,2590,3 ½,94 m²
+5 ½ Zimmer-Wohnung in Urdorf mieten,/de/wohnung/muhlegasse-5-8902-urdorf/599520/,Mühlegasse  5,8902,Urdorf,2580,5 ½,110 m²
 3 ½ Zimmer-Wohnung in Urdorf mieten,/de/wohnung/bachstrasse-13-8902-urdorf/507905/,Bachstrasse 13,8902,Urdorf,2580,3 ½,81 m²
-4 ½ Zimmer-Wohnung in Langnau am Albis mieten,/de/wohnung/hoflistrasse-73a-8135-langnau-am-albis/593514/,Höflistrasse,73a,"73a,",2575,4 ½,110 m²
+4 ½ Zimmer-Wohnung in Langnau am Albis mieten,/de/wohnung/hoflistrasse-73a-8135-langnau-am-albis/593514/,Höflistrasse,8135,Langnau,2575,4 ½,110 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/frohburgstrasse-8006-zurich/595501/,Frohburgstrasse,8006,Zürich,2570,2 ½,60 m²
 3 ½ Zimmer-Wohnung in Glattpark mieten,/de/wohnung/farman-strasse-8-8152-glattpark/583954/,Farman-Strasse 8,8152,Glattpark,2565,3 ½,93 m²
 3 ½ Zimmer-Wohnung in Urdorf mieten,/de/wohnung/bachstrasse-13-8902-urdorf/547944/,Bachstrasse 13,8902,Urdorf,2565,3 ½,76 m²
-4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/eugen-huberstrasse-123-8048-zurich/592187/,Eugen-Huberstrasse 123,8048,Zürich,2550,4 ½,101 m²
 3 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/giessenstrasse-1-8600-dubendorf/592070/,Giessenstrasse 1,8600,Dübendorf,2550,3 ½,102 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/renggerstrasse-25-8038-zurich/589776/,Renggerstrasse 25,8038,Zürich,2550,3 ½,NaN
 3 Zimmer-Wohnung in Küsnacht mieten,/de/wohnung/bahnhofstrasse-6-8700-kusnacht/496824/,Bahnhofstrasse 6,8700,Küsnacht,2550,3,70 m²
-2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/limmattalstrasse-1-8049-zurich/591479/,Limmattalstrasse 1,8049,Zürich,2548,2 ½,73 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/ausserdorfstrasse-48-8052-zurich/590184/,Ausserdorfstrasse 48,8052,Zürich,2540,3 ½,86 m²
-4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/fellenbergstrasse-317-8047-zurich/533530/,Fellenbergstrasse 317,8047,Zürich,2515,4 ½,92 m²
 3 ½ Zimmer-Attikawohnung in Adliswil mieten,/de/wohnung/ahornweg-10-8134-adliswil/577429/,Ahornweg 10,8134,Adliswil,2510,3 ½,102 m²
 3 ½ Zimmer-Wohnung in Bonstetten mieten,/de/wohnung/8906-bonstetten/583045/,no street available,8906,Bonstetten,2500,3 ½,94 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/bachtobelstrasse-103-8045-zurich/548847/,Bachtobelstrasse 103,8045,Zürich,2500,2 ½,90 m²
 1 Zimmer-Wohnung in Opfikon mieten,/de/wohnung/thurgauerstrasse-116-8152-opfikon/415677/,Thurgauerstrasse 116,8152,Opfikon,2500,1,33 m²
 1 Zimmer-Möblierte Wohnung in Opfikon mieten,/de/wohnung/thurgauerstrasse-116-8152-opfikon/415673/,Thurgauerstrasse 116,8152,Opfikon,2500,1,33 m²
-3 ½ Zimmer-Wohnung in Affoltern am Albis mieten,/de/wohnung/alte-obfelderstrasse-31-8910-affoltern-am-albis/584033/,Alte Obfelderstrasse 31,8910,Affoltern,2495,3 ½,99 m²
-2 Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/kalandergasse-1-8045-zurich/591879/,Kalandergasse 1,8045,Zürich,2490,2,60 m²
+3 Zimmer-Wohnung in Zürich mieten,/de/wohnung/im-straler-26-8047-zurich/587650/,Im Sträler 26,8047,Zürich,2490,3,75 m²
 2 ½ Zimmer-Wohnung in Uitikon-Waldegg mieten,/de/wohnung/leuengasse-81-8142-uitikon-waldegg/476220/,Leuengasse 81,8142,Uitikon-Waldegg,2490,2 ½,86 m²
 2 ½ Zimmer-Wohnung in Uitikon-Waldegg mieten,/de/wohnung/leuengasse-73-8142-uitikon-waldegg/476196/,Leuengasse 73,8142,Uitikon-Waldegg,2490,2 ½,86 m²
 4 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/seidenstr-12-8600-dubendorf/593197/,Seidenstr. 12,8600,Dübendorf,2480,4 ½,107 m²
 2 ½ Zimmer-Wohnung in Küsnacht ZH mieten,/de/wohnung/boglerenstr-22-8700-kusnacht-zh/552652/,Boglerenstr. 22,8700,Küsnacht,2480,2 ½,56 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/russenweg-8-8008-zurich/547642/,Russenweg 8,8008,Zürich,2480,2 ½,60 m²
 2 ½ Zimmer-Maisonette in Dübendorf mieten,/de/wohnung/querstrasse-10-8600-dubendorf/360936/,Querstrasse 10,8600,Dübendorf,2480,2 ½,104 m²
-3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/rautihalde-10-8048-zurich/359078/,Rautihalde  10,8048,Zürich,2480,3 ½,66 m²
 4 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/goldschlagiplatz-4-8952-schlieren/588632/,Goldschlägiplatz 4,8952,Schlieren,2459,4 ½,115 m²
 4 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/georg-kempf-strasse-20-8046-zurich/539044/,Georg Kempf-Strasse 20,8046,Zürich,2450,4 ½,85 m²
-3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/tannenrauchstrasse-77-8038-zurich/589456/,Tannenrauchstrasse 77,8038,Zürich,2441,3 ½,97 m²
 2 Zimmer-Möblierte Wohnung in Regensdorf mieten,/de/wohnung/im-seewadel-8105-regensdorf/596114/,Im Seewadel,8105,Regensdorf,2420,2,62 m²
 2 ½ Zimmer-Möblierte Wohnung in Buchs mieten,/de/wohnung/rosengartenstrasse-8107-buchs/596115/,Rosengartenstrasse,8107,Buchs,2400,2 ½,62 m²
 3 ½ Zimmer-Wohnung in Birmensdorf ZH mieten,/de/wohnung/panoramastrasse-3-8903-birmensdorf-zh/592793/,Panoramastrasse 3,8903,Birmensdorf,2400,3 ½,71 m²
@@ -197,24 +194,26 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Attikawohnung in Zumikon mieten,/de/wohnung/alte-forchstrasse-19-8126-zumikon/581457/,Alte Forchstrasse 19,8126,Zumikon,2390,3 ½,87 m²
 3 ½ Zimmer-Wohnung in Unterengstringen mieten,/de/wohnung/langacherstrasse-16-8103-unterengstringen/519444/,Langacherstrasse 16,8103,Unterengstringen,2385,3 ½,103 m²
 2 Zimmer-Möblierte Wohnung in Regensdorf mieten,/de/wohnung/obstgartenstrasse-8105-regensdorf/596116/,Obstgartenstrasse,8105,Regensdorf,2380,2,50 m²
-2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8045-zurich/593416/,no street available,8045,Zürich,2380,2 ½,49 m²
 3 ½ Zimmer-Wohnung in Küsnacht ZH mieten,/de/wohnung/allmendboden-25-8700-kusnacht-zh/534233/,Allmendboden 25,8700,Küsnacht,2380,3 ½,77 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/riedhofstrasse-49-8049-zurich/596169/,Riedhofstrasse 49,8049,Zürich,2360,3 ½,77 m²
 4 ½ Zimmer-Wohnung in Buchs mieten,/de/wohnung/wueristrasse-31b-8107-buchs/519468/,Wüeristrasse 31B,8107,Buchs,2360,4 ½,118 m²
 4 ½ Zimmer-Wohnung in Zollikerberg mieten,/de/wohnung/am-brunnenbachli-26-8125-zollikerberg/426155/,Am Brunnenbächli 26,8125,Zollikerberg,2357,4 ½,97 m²
-3 ½ Zimmer-Wohnung in Birmensdorf ZH mieten,/de/wohnung/wettswilerstrasse-17-8903-birmensdorf-zh/580574/,Wettswilerstrasse,17,"17,",2350,3 ½,78 m²
+3 ½ Zimmer-Wohnung in Birmensdorf ZH mieten,/de/wohnung/wettswilerstrasse-17-8903-birmensdorf-zh/580574/,Wettswilerstrasse,8903,Birmensdorf,2350,3 ½,78 m²
 4 Zimmer-Wohnung in Adliswil mieten,/de/wohnung/wachtstrasse-23-8134-adliswil/550347/,Wachtstrasse 23,8134,Adliswil,2350,4,95 m²
 2 ½ Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/birmensdorferstrasse-543-8055-zurich/241485/,Birmensdorferstrasse 543,8055,Zürich,2350,2 ½,40 m²
+4 ½ Zimmer-Wohnung in Obfelden mieten,/de/wohnung/stehli-seiden-areal-10-8912-obfelden/592817/,Stehli-Seiden-Areal 10,8912,Obfelden,2340,4 ½,102 m²
 4 ½ Zimmer-Wohnung in Regensdorf mieten,/de/wohnung/eichwatt-11-8105-regensdorf/593333/,Eichwatt 11,8105,Regensdorf,2330,4 ½,110 m²
 2 ½ Zimmer-Wohnung in Zurich mieten,/de/wohnung/etzelstrasse-28-8038-zurich/549545/,Etzelstrasse 28,8038,Zurich,2327,2 ½,61 m²
-3 ½ Zimmer-Wohnung in Regensdorf mieten,/de/wohnung/8105-regensdorf/587572/,no street available,8105,Regensdorf,2315,3 ½,89 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8046-zurich/579900/,no street available,8046,Zürich,2308,2 ½,79 m²
+3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/wannerstr-35-8045-zurich/599973/,Wannerstr. 35,8045,Zürich,2305,3 ½,75 m²
 4 ½ Zimmer-Wohnung in Benglen mieten,/de/wohnung/bodenacherstrasse-18-8121-benglen/585905/,Bodenacherstrasse 18,8121,Benglen,2299,4 ½,102 m²
 4 ½ Zimmer-Wohnung in Benglen mieten,/de/wohnung/bodenacherstrasse-1618-8121-benglen/534780/,Bodenacherstrasse 16/18,8121,Benglen,2299,4 ½,102 m²
 4 ½ Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/engenbuelstr-6-8304-wallisellen/571382/,Engenbüelstr. 6,8304,Wallisellen,2285,4 ½,122 m²
+2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8045-zurich/593416/,no street available,8045,Zürich,2280,2 ½,49 m²
 4 ½ Zimmer-Wohnung in Dietlikon mieten,/de/wohnung/brunnenwiesenstrasse-8-8305-dietlikon/427974/,Brunnenwiesenstrasse 8,8305,Dietlikon,2255,4 ½,82 m²
 3 ½ Zimmer-Wohnung in Gattikon mieten,/de/wohnung/hofwiesenstrasse-19-8136-gattikon/597960/,Hofwiesenstrasse 19,8136,Gattikon,2250,3 ½,NaN
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/friedheimstrasse-21-8057-zurich/574394/,Friedheimstrasse 21,8057,Zürich,2250,2 ½,51 m²
+4 ½ Zimmer-Wohnung in Regensdorf mieten,/de/wohnung/eichwatt-13-8105-regensdorf/541787/,Eichwatt 13,8105,Regensdorf,2250,4 ½,111 m²
 2 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/zurcherstrasse-64-8952-schlieren/539662/,Zürcherstrasse 64,8952,Schlieren,2250,2,35 m²
 2 Zimmer-Möblierte Wohnung in Schlieren mieten,/de/wohnung/zurcherstrasse-64-8952-schlieren/535102/,Zürcherstrasse 64,8952,Schlieren,2250,2,36 m²
 1 ½ Zimmer-Möblierte Wohnung in Adliswil mieten,/de/wohnung/im-sihlhof-2-8134-adliswil/156899/,Im Sihlhof 2,8134,Adliswil,2250,1 ½,33 m²
@@ -225,16 +224,12 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Wohnung in Walllisellen mieten,/de/wohnung/hochrutistrasse-3-8304-walllisellen/576601/,Hochrütistrasse 3,8304,Walllisellen,2230,3 ½,NaN
 4 ½ Zimmer-Wohnung in Rümlang mieten,/de/wohnung/glattalstrasse-232-8153-rumlang/535385/,Glattalstrasse 232,8153,Rümlang,2230,4 ½,130 m²
 4 ½ Zimmer-Wohnung in Kloten mieten,/de/wohnung/haldenstrasse-15-8302-kloten/593494/,Haldenstrasse 15,8302,Kloten,2220,4 ½,120 m²
-4 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/zelgstr-24-8134-adliswil/591802/,Zelgstr. 24,8134,Adliswil,2220,4 ½,92 m²
 3 ½ Zimmer-Wohnung in Kloten mieten,/de/wohnung/8302-kloten/590823/,no street available,8302,Kloten,2210,3 ½,90 m²
-4 ½ Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/auenring-2a-8303-bassersdorf/594142/,Auenring,2A,"2A,",2200,4 ½,94 m²
-3 Zimmer-Wohnung in Zürich mieten,/de/wohnung/buhnrain-4-8052-zurich/581171/,Buhnrain 4,8052,Zürich,2200,3,70 m²
 3 ½ Zimmer-Wohnung in Opfikon mieten,/de/wohnung/rietgrabenstrasse-80-8152-opfikon/550134/,Rietgrabenstrasse 80,8152,Opfikon,2200,3 ½,80 m²
 4 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/alter-zurichweg-14-8952-schlieren/593723/,Alter Zürichweg 14,8952,Schlieren,2190,4 ½,100 m²
 4 Zimmer-Wohnung in Urdorf mieten,/de/wohnung/im-baurenacker-17-8902-urdorf/544275/,Im Baurenacker 17,8902,Urdorf,2190,4,80 m²
-2 Zimmer-Wohnung in Zürich mieten,/de/wohnung/birmensdorferstrasse-406-8055-zurich/529438/,Birmensdorferstrasse 406,8055,Zürich,2190,2,NaN
-2 Zimmer-Möblierte Wohnung in Zürich mieten,/de/wohnung/birmensdorferstrasse-543-8055-zurich/241464/,Birmensdorferstrasse 543,8055,Zürich,2190,2,38 m²
 3 Zimmer-Attikawohnung in Oberengstringen mieten,/de/wohnung/gartenstrasse-9-8102-oberengstringen/583509/,Gartenstrasse 9,8102,Oberengstringen,2170,3,70 m²
+4 ½ Zimmer-Wohnung in Nürensdorf mieten,/de/wohnung/buhlwiesenstrasse-17-8309-nurensdorf/598651/,Bühlwiesenstrasse,8309,Nürensdorf,2157,4 ½,110 m²
 3 ½ Zimmer-Wohnung in Schwerzenbach mieten,/de/wohnung/vieristrasse-9-8603-schwerzenbach/587786/,Vieristrasse 9,8603,Schwerzenbach,2153,3 ½,92 m²
 5 Zimmer-Maisonette in Buchs mieten,/de/wohnung/bahnhofstrasse-17-8107-buchs/477951/,Bahnhofstrasse 17,8107,Buchs,2150,5,105 m²
 2 ½ Zimmer-Wohnung in Meilen mieten,/de/wohnung/dorfstrasse-93-8706-meilen/384650/,Dorfstrasse 93,8706,Meilen,2150,2 ½,75 m²
@@ -246,16 +241,15 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 4 ½ Zimmer-Attikawohnung in Adlikon b.Regensdf mieten,/de/wohnung/eichelackerstr-23-8106-adlikon-bregensdf/593101/,Eichelackerstr. 23,8106,Adlikon,2123,4 ½,102 m²
 3 ½ Zimmer-Maisonette in Wallisellen mieten,/de/wohnung/im-langacker-8-8304-wallisellen/585533/,Im Langacker 8,8304,Wallisellen,2115,3 ½,NaN
 5 ½ Zimmer-Wohnung in Dällikon mieten,/de/wohnung/vortauenstrasse-13-8108-dallikon/584172/,Vortauenstrasse 13,8108,Dällikon,2110,5 ½,103 m²
+3 ½ Zimmer-Maisonette in Bonstetten mieten,/de/wohnung/im-heumoos-23-8906-bonstetten/599695/,Im Heumoos 23,8906,Bonstetten,2105,3 ½,91 m²
 5 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/stettbacherrain-12-8051-zurich/590025/,Stettbacherrain 12,8051,Zürich,2090,5 ½,NaN
 2 ½ Zimmer-Wohnung in Kloten mieten,/de/wohnung/hardlenstrasse-88-98-8302-kloten/511638/,Härdlenstrasse 88-98,8302,Kloten,2090,2 ½,NaN
 3 ½ Zimmer-Wohnung in Forch mieten,/de/wohnung/aeschstrasse-8127-forch/579398/,Aeschstrasse,8127,Forch,2070,3 ½,NaN
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/winterthurerstr-344-8057-zurich/551554/,Winterthurerstr. 344,8057,Zürich,2066,3 ½,80 m²
-1 ½ Zimmer-Wohnung in Kilchberg mieten,/de/wohnung/weinbergstrasse-65-8802-kilchberg/597970/,Weinbergstrasse 65,8802,Kilchberg,2050,1 ½,56 m²
 4 ½ Zimmer-Wohnung in Benglen mieten,/de/wohnung/bodenacherstrasse-30-8121-benglen/592931/,Bodenacherstrasse 30,8121,Benglen,2050,4 ½,103 m²
 2 ½ Zimmer-Wohnung in Fällanden mieten,/de/wohnung/dubendorfstrasse-14-8117-fallanden/582186/,Dübendorfstrasse 14,8117,Fällanden,2050,2 ½,43 m²
 4 ½ Zimmer-Wohnung in Landikon mieten,/de/wohnung/stallikonerstr-105-8903-landikon/579421/,Stallikonerstr. 105,8903,Landikon,2050,4 ½,94 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/bergellerstrasse-32-8049-zurich/559154/,Bergellerstrasse 32,8049,Zürich,2050,2 ½,61 m²
-2 ½ Zimmer-Wohnung in Fällanden mieten,/de/wohnung/dubendorferstr-14-8117-fallanden/557600/,Dübendorferstr 14,8117,Fällanden,2050,2 ½,43 m²
 2 ½ Zimmer-Wohnung in Uitikon-Waldegg mieten,/de/wohnung/leuengasse-71-83-8142-uitikon-waldegg/503676/,Leuengasse 71 - 83,8142,Uitikon-Waldegg,8142,2 ½,60 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/glatttalstrasse-114-8052-zurich/595217/,Glatttalstrasse 114,8052,Zürich,2044,3 ½,92 m²
 3 ½ Zimmer-Wohnung in Kloten mieten,/de/wohnung/graswinkelstrasse-37-8302-kloten/586616/,Graswinkelstrasse 37,8302,Kloten,2030,3 ½,85 m²
@@ -265,18 +259,25 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 4 ½ Zimmer-Wohnung in Geroldswil mieten,/de/wohnung/huebwiesenstrasse-24-8954-geroldswil/592468/,Huebwiesenstrasse 24,8954,Geroldswil,2010,4 ½,88 m²
 4 ½ Zimmer-Wohnung in Geroldswil mieten,/de/wohnung/bergstrasse-10-8954-geroldswil/549771/,Bergstrasse 10,8954,Geroldswil,2005,4 ½,90 m²
 3 Zimmer-Attikawohnung in Zürich mieten,/de/wohnung/buchzelgstr-25-8053-zurich/595770/,Buchzelgstr. 25,8053,Zürich,2000,3,71 m²
+2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/albisstr-29-8038-zurich/580088/,Albisstr. 29,8038,Zürich,2000,2 ½,NaN
+3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8037-zurich/578262/,no street available,8037,Zürich,2000,3 ½,80 m²
+3 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/bundentalstrasse-4-8952-schlieren/504442/,Bundentalstrasse 4,8952,Schlieren,2000,3,84 m²
 2 ½ Zimmer-Wohnung in Zollikerberg mieten,/de/wohnung/rietholzstrasse-28-8125-zollikerberg/597277/,Rietholzstrasse 28,8125,Zollikerberg,1997,2 ½,60 m²
+3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/riedenhaldenstrasse-268-8046-zurich/599220/,Riedenhaldenstrasse 268,8046,Zürich,1990,3 ½,74 m²
 3 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/limmataustrasse-10-8952-schlieren/597539/,Limmataustrasse 10,8952,Schlieren,1990,3 ½,78 m²
+3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/wehntalerstrasse-457-8046-zurich/579777/,Wehntalerstrasse 457,8046,Zürich,1990,3 ½,82 m²
 3 Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/neue-winterthurerstrasse-77-8304-wallisellen/546285/,Neue Winterthurerstrasse 77,8304,Wallisellen,1990,3,NaN
 2 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/8134-adliswil/544539/,no street available,8134,Adliswil,1990,2 ½,54 m²
 1 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/dammweg-7-8134-adliswil/540041/,Dammweg 7,8134,Adliswil,1990,1 ½,54 m²
-3 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/urdorferstrasse-36-8952-schlieren/591467/,Urdorferstrasse,36,"36,",1980,3,NaN
+3 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/urdorferstrasse-36-8952-schlieren/591467/,Urdorferstrasse,8952,Schlieren,1980,3,NaN
 2 ½ Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/santisstrasse-7-8304-wallisellen/596516/,Säntisstrasse 7,8304,Wallisellen,1970,2 ½,60 m²
 3 ½ Zimmer-Wohnung in Stallikon mieten,/de/wohnung/uetlirain-4a-8143-stallikon/591515/,Uetlirain 4a,8143,Stallikon,1970,3 ½,100 m²
 4 Zimmer-Wohnung in Dietikon mieten,/de/wohnung/glanzenbergstrasse-16-8953-dietikon/553628/,Glanzenbergstrasse 16,8953,Dietikon,1960,4,80 m²
+1 ½ Zimmer-Wohnung in Kilchberg mieten,/de/wohnung/weinbergstrasse-65-8802-kilchberg/597970/,Weinbergstrasse 65,8802,Kilchberg,1950,1 ½,56 m²
 2 ½ Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/herrengutlistrasse-8304-wallisellen/593924/,Herrengütlistrasse,8304,Wallisellen,1950,2 ½,73 m²
+2 ½ Zimmer-Wohnung in Fällanden mieten,/de/wohnung/dubendorferstr-14-8117-fallanden/557600/,Dübendorferstr 14,8117,Fällanden,1950,2 ½,43 m²
 3 ½ Zimmer-Wohnung in Rümlang mieten,/de/wohnung/schulstrasse-23-8153-rumlang/413689/,Schulstrasse 23,8153,Rümlang,1950,3 ½,NaN
-2 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/zurcherstrasse-52-8952-schlieren/589199/,Zürcherstrasse,52,"52,",1940,2 ½,53 m²
+2 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/zurcherstrasse-52-8952-schlieren/600004/,Zürcherstrasse,8952,Schlieren,1940,2 ½,53 m²
 3 ½ Zimmer-Attikawohnung in Adlikon b.Regensdf mieten,/de/wohnung/eichelackerstr-23-8106-adlikon-bregensdf/571317/,Eichelackerstr. 23,8106,Adlikon,1931,3 ½,84 m²
 4 Zimmer-Wohnung in Geroldswil mieten,/de/wohnung/dorfstrasse-53-8954-geroldswil/586220/,Dorfstrasse 53,8954,Geroldswil,1925,4,90 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/winterthurerstrasse-495-8051-zurich/595801/,Winterthurerstrasse 495,8051,Zürich,1900,2 ½,70 m²
@@ -295,11 +296,12 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Wohnung in Urdorf mieten,/de/wohnung/feldstrasse-45-8902-urdorf/593099/,Feldstrasse 45,8902,Urdorf,1850,3 ½,87 m²
 2 ½ Zimmer-Wohnung in Horgen mieten,/de/wohnung/oberdorfstrasse-53-8810-horgen/592681/,Oberdorfstrasse 53,8810,Horgen,1850,2 ½,80 m²
 3 Zimmer-Wohnung in Kloten mieten,/de/wohnung/hohrainlistrasse-1-8302-kloten/587884/,Hohrainlistrasse 1,8302,Kloten,1850,3,NaN
+2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/uetlibergstr-240-8045-zurich/573372/,Uetlibergstr. 240,8045,Zürich,1850,2 ½,55 m²
 3 ½ Zimmer-Wohnung in Unterengstringen mieten,/de/wohnung/weiningerstrasse-46-8103-unterengstringen/578690/,Weiningerstrasse 46,8103,Unterengstringen,1836,3 ½,71 m²
-2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/morgentalstrasse-67-8038-zurich/597486/,Morgentalstrasse,67,"67,",1834,2 ½,NaN
+2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/morgentalstrasse-67-8038-zurich/597486/,Morgentalstrasse,8038,Zürich,1834,2 ½,NaN
 3 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/meisenweg-14-8600-dubendorf/597063/,Meisenweg 14,8600,Dübendorf,1830,3 ½,75 m²
 4 ½ Zimmer-Wohnung in Buchs mieten,/de/wohnung/meierwiesenstr-50-8107-buchs/592251/,Meierwiesenstr. 50,8107,Buchs,1830,4 ½,87 m²
-2 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/badenerstrasse-94-8952-schlieren/591302/,Badenerstrasse 94,8952,Schlieren,1830,2 ½,65 m²
+2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/bachmannweg-41-8046-zurich/584107/,Bachmannweg 41,8046,Zürich,1830,2 ½,71 m²
 3 Zimmer-Wohnung in Adliswil mieten,/de/wohnung/isengrundstrasse-4-8134-adliswil/576049/,Isengrundstrasse 4,8134,Adliswil,1830,3,71 m²
 3 ½ Zimmer-Wohnung in Urdorf mieten,/de/wohnung/weihermattstrasse-71-8902-urdorf/583798/,Weihermattstrasse 71,8902,Urdorf,1820,3 ½,90 m²
 3 Zimmer-Wohnung in Zürich mieten,/de/wohnung/hungerbergstrasse-33-8046-zurich/576419/,Hungerbergstrasse 33,8046,Zürich,1811,3,60 m²
@@ -312,32 +314,27 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 3 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/glarnischstrasse-17-8134-adliswil/587716/,Glärnischstrasse 17,8134,Adliswil,1800,3 ½,69 m²
 3 Zimmer-Wohnung in Küsnacht mieten,/de/wohnung/8700-kusnacht/585524/,no street available,8700,Küsnacht,1800,3,NaN
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/aprikosenstr-30-8051-zurich/540582/,Aprikosenstr. 30,8051,Zürich,1800,2 ½,60 m²
+3 Zimmer-Wohnung in Zurich mieten,/de/wohnung/buchholzstrasse-125-8053-zurich/599031/,Buchholzstrasse,8053,Zurich,1795,3,80 m²
 3 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/bernhofstr-63-8134-adliswil/597839/,Bernhofstr. 63,8134,Adliswil,1790,3 ½,68 m²
 4 Zimmer-Wohnung in Dietikon mieten,/de/wohnung/hofackerstrasse-16-8953-dietikon/596275/,Hofackerstrasse 16,8953,Dietikon,1790,4,79 m²
 3 ½ Zimmer-Wohnung in Horgen mieten,/de/wohnung/seestrasse-14-8810-horgen/595261/,Seestrasse 14,8810,Horgen,1790,3 ½,NaN
-3 ½ Zimmer-Wohnung in Urdorf mieten,/de/wohnung/in-der-fadmatt-57-8902-urdorf/591961/,In der Fadmatt 57,8902,Urdorf,1790,3 ½,74 m²
 2 Zimmer-Wohnung in Dietikon mieten,/de/wohnung/zurcherstrasse-238-8953-dietikon/587692/,Zürcherstrasse 238,8953,Dietikon,1790,2,65 m²
-2 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/badenerstrasse-88b-8952-schlieren/583500/,Badenerstrasse 88b,8952,Schlieren,1790,2,57 m²
 3 ½ Zimmer-Wohnung in Glattbrugg mieten,/de/wohnung/lindenstrasse-10-8152-glattbrugg/580174/,Lindenstrasse 10,8152,Glattbrugg,1790,3 ½,NaN
 3 Zimmer-Wohnung in Zürich mieten,/de/wohnung/luegislandstr-169-8051-zurich/572119/,Luegislandstr. 169,8051,Zürich,1790,3,66 m²
 3 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/8051-zurich/569403/,no street available,8051,Zürich,1790,3 ½,85 m²
 3 Zimmer-Wohnung in Adliswil mieten,/de/wohnung/florastrasse-9-8134-adliswil/548654/,Florastrasse 9,8134,Adliswil,1790,3,74 m²
 3 Zimmer-Wohnung in Schwerzenbach mieten,/de/wohnung/zielackerstrasse-16-8603-schwerzenbach/527335/,Zielackerstrasse 16,8603,Schwerzenbach,1790,3,65 m²
 3 ½ Zimmer-Wohnung in Birmensdorf ZH mieten,/de/wohnung/wettswilerstrassse-18-8903-birmensdorf-zh/591810/,Wettswilerstrassse 18,8903,Birmensdorf,1781,3 ½,NaN
-3 ½ Zimmer-Wohnung in Adliswill mieten,/de/wohnung/glarnischstrasse-25-8134-adliswill/574501/,Glärnischstrasse 25,8134,Adliswill,1780,3 ½,65 m²
-3 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/bundentalstrasse-4-8952-schlieren/504442/,Bundentalstrasse 4,8952,Schlieren,1780,3,84 m²
 3 Zimmer-Wohnung in Zürich mieten,/de/wohnung/altwiesenstr-91-8051-zurich/576331/,Altwiesenstr. 91,8051,Zürich,1773,3,64 m²
 3 ½ Zimmer-Wohnung in Dietikon mieten,/de/wohnung/birmensdorferstr-40-8953-dietikon/595904/,Birmensdorferstr. 40,8953,Dietikon,1770,3 ½,76 m²
 3 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/pflugstrasse-16-8952-schlieren/551325/,Pflugstrasse 16,8952,Schlieren,1770,3 ½,75 m²
-3 ½ Zimmer-Wohnung in Schwerzenbach mieten,/de/wohnung/zielackerstrasse-6a-8603-schwerzenbach/594861/,Zielackerstrasse 6a,8603,Schwerzenbach,1763,3 ½,80 m²
 4 ½ Zimmer-Wohnung in Wallisellen mieten,/de/wohnung/alte-winterthurerstr96-8304-wallisellen/597415/,Alte Winterthurerstr.96,8304,Wallisellen,1760,4 ½,NaN
 1 ½ Zimmer-Wohnung in Rüschlikon mieten,/de/wohnung/schonenstrasse-44-8803-ruschlikon/593361/,Schönenstrasse 44,8803,Rüschlikon,1760,1 ½,44 m²
 2 ½ Zimmer-Wohnung in Obfelden mieten,/de/wohnung/villaweg-5-8912-obfelden/596991/,Villaweg 5,8912,Obfelden,1750,2 ½,90 m²
 3 ½ Zimmer-Wohnung in Affoltern am Albis mieten,/de/wohnung/alte-hedingerstrasse-31-8910-affoltern-am-albis/593881/,Alte Hedingerstrasse 31,8910,Affoltern,1750,3 ½,NaN
 3 Zimmer-Wohnung in Kloten mieten,/de/wohnung/amselweg-15-8302-kloten/522430/,Amselweg 15,8302,Kloten,1750,3,66 m²
-3 ½ Zimmer-Wohnung in Landikon mieten,/de/wohnung/8903-landikon/584148/,no street available,8903,Landikon,1747,3 ½,80 m²
 2 Zimmer-Wohnung in Glattbrugg mieten,/de/wohnung/riethofstrasse-10c-8152-glattbrugg/598563/,Riethofstrasse 10c,8152,Glattbrugg,1740,2,52 m²
-3 ½ Zimmer-Dachwohnung in Brüttisellen mieten,/de/wohnung/geisserweg-2-8603-bruttisellen/571607/,Geisserweg 2,8603,Brüttisellen,1740,3 ½,NaN
+3 Zimmer-Wohnung in Horgen mieten,/de/wohnung/alte-landstr-41-8810-horgen/583464/,Alte Landstr. 41,8810,Horgen,1730,3,64 m²
 2 ½ Zimmer-Wohnung in Oberengstringen mieten,/de/wohnung/gartenstrasse-11-8102-oberengstringen/582394/,Gartenstrasse 11,8102,Oberengstringen,1730,2 ½,59 m²
 2 ½ Zimmer-Wohnung in Dietlikon mieten,/de/wohnung/hofwiesenstrasse-5-8305-dietlikon/575421/,Hofwiesenstrasse 5,8305,Dietlikon,1730,2 ½,54 m²
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/winterthurerstr-344-8057-zurich/571385/,Winterthurerstr. 344,8057,Zürich,1730,2 ½,56 m²
@@ -347,53 +344,56 @@ Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
 2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/sihlweidstrasse-10-8041-zurich/580688/,Sihlweidstrasse 10,8041,Zürich,1710,2 ½,71 m²
 3 Zimmer-Wohnung in Rümlang mieten,/de/wohnung/bahnhofstrasse-44-8153-rumlang/572111/,Bahnhofstrasse 44,8153,Rümlang,1704,3,71 m²
 3 Zimmer-Wohnung in Herrliberg mieten,/de/wohnung/alte-dorfstrasse-21-8704-herrliberg/593679/,Alte Dorfstrasse 21,8704,Herrliberg,1700,3,NaN
-2 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/uetliberghalde-9-8045-zurich/587492/,Üetliberghalde 9,8045,Zürich,1700,2 ½,61 m²
 2 ½ Zimmer-Wohnung in Schwerzenbach mieten,/de/wohnung/blattenstr-7-8603-schwerzenbach/543857/,Blattenstr. 7,8603,Schwerzenbach,1700,2 ½,77 m²
 2 ½ Zimmer-Wohnung in Opfikon mieten,/de/wohnung/muhlegasse-1-8152-opfikon/590936/,Mühlegasse 1,8152,Opfikon,1695,2 ½,60 m²
 2 Zimmer-Wohnung in Wangen b. Dübendorf mieten,/de/wohnung/zelgliweg-3-8602-wangen-b-dubendorf/591165/,Zelgliweg 3,8602,Wangen,1680,2,70 m²
 2 ½ Zimmer-Wohnung in Obfelden mieten,/de/wohnung/sentmattstrasse-12-8912-obfelden/541455/,Sentmattstrasse 12,8912,Obfelden,1680,2 ½,63 m²
+3 ½ Zimmer-Wohnung in Dietikon mieten,/de/wohnung/schoneggstrasse-147-8953-dietikon/539664/,Schöneggstrasse 147,8953,Dietikon,1680,3 ½,65 m²
 2 Zimmer-Wohnung in Adliswil mieten,/de/wohnung/soodstrasse-24-8134-adliswil/523349/,Soodstrasse 24,8134,Adliswil,1660,2,NaN
 3 ½ Zimmer-Wohnung in Thalwil mieten,/de/wohnung/ludretikonnerstrasse-21-8800-thalwil/594792/,Ludretikonnerstrasse 21,8800,Thalwil,1651,3 ½,50 m²
 3 Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/auenring-16-8303-bassersdorf/595773/,Auenring 16,8303,Bassersdorf,1650,3,66 m²
+3 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/glarnischstr-15-8134-adliswil/576220/,Glärnischstr. 15,8134,Adliswil,1650,3 ½,64 m²
 4 Zimmer-Wohnung in Ebmatingen mieten,/de/wohnung/lebernstrasse-9-8123-ebmatingen/496007/,Lebernstrasse 9,8123,Ebmatingen,1650,4,NaN
 4 ½ Zimmer-Wohnung in Adlikon b.Regensdorf mieten,/de/wohnung/bachtobelstr-5-8106-adlikon-bregensdorf/579226/,Bachtobelstr. 5,8106,Adlikon,1630,4 ½,107 m²
 2 ½ Zimmer-Wohnung in Aesch mieten,/de/wohnung/museumstrasse-8-8904-aesch/531034/,Museumstrasse 8,8904,Aesch,1605,2 ½,61 m²
-2 ½ Zimmer-Wohnung in Adliswil mieten,/de/wohnung/werdstrasse-9-8134-adliswil/593024/,Werdstrasse 9,8134,Adliswil,1595,2 ½,47 m²
+2 ½ Zimmer-Wohnung in Oberrieden mieten,/de/wohnung/8942-oberrieden/599483/,no street available,8942,Oberrieden,1600,2 ½,65 m²
 3 Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/hoglerstr-13-8600-dubendorf/544412/,Höglerstr. 13,8600,Dübendorf,1592,3,67 m²
 3 ½ Zimmer-Maisonette in Langnau am Albis mieten,/de/wohnung/weidstr-1-8135-langnau-am-albis/598558/,Weidstr. 1,8135,Langnau,1590,3 ½,76 m²
 3 ½ Zimmer-Wohnung in Kloten mieten,/de/wohnung/am-balsberg-22-8302-kloten/591682/,Am Balsberg 22,8302,Kloten,1585,3 ½,71 m²
 2 ½ Zimmer-Wohnung in Regensdorf mieten,/de/wohnung/eichwatt-9-8105-regensdorf/596480/,Eichwatt 9,8105,Regensdorf,1550,2 ½,54 m²
 1 Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/klotenerstrasse-28-8303-bassersdorf/582853/,Klotenerstrasse 28,8303,Bassersdorf,1550,1,30 m²
-4 Zimmer-Wohnung in Adlikon bei Regensdorf mieten,/de/wohnung/hummelackerstrasse-15-8106-adlikon-bei-regensdorf/593810/,Hummelackerstrasse 15,8106,Adlikon,1540,4,95 m²
+1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/billeterstrasse-15-8044-zurich/598241/,Billeterstrasse 15,8044,Zürich,1530,1,28 m²
 2 ½ Zimmer-Wohnung in Bonstetten mieten,/de/wohnung/chapfstrasse-14-8906-bonstetten/588058/,Chapfstrasse 14,8906,Bonstetten,1530,2 ½,57 m²
 2 Zimmer-Wohnung in Schlieren mieten,/de/wohnung/zurcherstr-32-8952-schlieren/589517/,Zürcherstr. 32,8952,Schlieren,1515,2,NaN
 2 ½ Zimmer-Wohnung in Stallikon mieten,/de/wohnung/puntenstrasse-37-8143-stallikon/584120/,Püntenstrasse 37,8143,Stallikon,1500,2 ½,69 m²
 2 ½ Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/lagernstrasse-2-8803-bassersdorf/568494/,Lägernstrasse 2,8803,Bassersdorf,1500,2 ½,55 m²
-1 Zimmer-Einzelzimmer in Zürich mieten,/de/wohnung/kalandergasse-1-8045-zurich/575514/,Kalandergasse 1,8045,Zürich,1490,1,30 m²
 3 Zimmer-Wohnung in Zollikon mieten,/de/wohnung/rosenweg-7-8702-zollikon/586412/,Rosenweg 7,8702,Zollikon,1474,3,67 m²
+1 Zimmer-Wohnung in Horgen mieten,/de/wohnung/todistrasse-62-8810-horgen/599935/,Tödistrasse 62,8810,Horgen,1470,1,35 m²
 3 ½ Zimmer-Wohnung in Oberrieden mieten,/de/wohnung/eglistr-5-8942-oberrieden/583683/,Eglistr. 5,8942,Oberrieden,1460,3 ½,78 m²
 1 ½ Zimmer-Wohnung in Fahrweid mieten,/de/wohnung/8951-fahrweid/585114/,no street available,8951,Fahrweid,1450,1 ½,36 m²
-1 ½ Zimmer-Wohnung in Meilen mieten,/de/wohnung/wampflenstrasse-58-8706-meilen/587289/,Wampflenstrasse,58,"58,",1440,1 ½,56 m²
+3 Zimmer-Wohnung in Rümlang mieten,/de/wohnung/chilestieg-15-8153-rumlang/599355/,Chilestieg 15,8153,Rümlang,1440,3,66 m²
+1 ½ Zimmer-Wohnung in Meilen mieten,/de/wohnung/wampflenstrasse-58-8706-meilen/587289/,Wampflenstrasse,8706,Meilen,1440,1 ½,56 m²
+3 Zimmer-Wohnung in Brüttisellen mieten,/de/wohnung/8306-bruttisellen/599727/,no street available,8306,Brüttisellen,1430,3,60 m²
 3 Zimmer-Wohnung in Rümlang mieten,/de/wohnung/ifangstr-58-8153-rumlang/591778/,Ifangstr. 58,8153,Rümlang,1400,3,65 m²
 3 ½ Zimmer-Wohnung in Zumikon mieten,/de/wohnung/thesenacher-10-8126-zumikon/586935/,Thesenacher 10,8126,Zumikon,1400,3 ½,75 m²
 1 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/alte-gfennstrasse-27-8600-dubendorf/536150/,Alte Gfennstrasse 27,8600,Dübendorf,1395,1 ½,45 m²
 1 ½ Zimmer-Dachwohnung in Hedingen mieten,/de/wohnung/gehrrebenstrasse-8-8908-hedingen/422497/,Gehrrebenstrasse 8,8908,Hedingen,1390,1 ½,38 m²
 2 ½ Zimmer-Wohnung in Schlieren mieten,/de/wohnung/kalktarrenstrasse-8-8952-schlieren/594321/,Kalktarrenstrasse 8,8952,Schlieren,1375,2 ½,59 m²
+2 Zimmer-Wohnung in Zürich mieten,/de/wohnung/wehntalerstrasse-521-8046-zurich/599032/,Wehntalerstrasse 521,8046,Zürich,1361,2,NaN
 3 Zimmer-Wohnung in Zwillikon mieten,/de/wohnung/bungert-1-8909-zwillikon/534705/,Bungert 1,8909,Zwillikon,1360,3,60 m²
 1 Zimmer-Einzelzimmer in Buchs mieten,/de/wohnung/bergstrasse-8107-buchs/596110/,Bergstrasse,8107,Buchs,1350,1,25 m²
 1 ½ Zimmer-Wohnung in Meilen mieten,/de/wohnung/seestrasse-671-8706-meilen/522782/,Seestrasse 671,8706,Meilen,1350,1 ½,30 m²
+1 ½ Zimmer-Wohnung in Rümlang mieten,/de/wohnung/schmidbreitenstrasse-13-8153-rumlang/599642/,Schmidbreitenstrasse 13,8153,Rümlang,1340,1 ½,35 m²
 1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/universitatsstrasse-110-8006-zurich/595953/,Universitätsstrasse 110,8006,Zürich,1300,1,19 m²
 1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/universitatsstrasse-110-8006-zurich/548750/,Universitätsstrasse 110,8006,Zürich,1295,1,19 m²
-2 ½ Zimmer-Wohnung in Dällikon mieten,/de/wohnung/vortauenstrasse-1-8108-dallikon/595698/,Vortauenstrasse 1,8108,Dällikon,1290,2 ½,49 m²
 1 ½ Zimmer-Wohnung in zürich mieten,/de/wohnung/regensdorferstrasse-157-8049-zurich/544978/,Regensdorferstrasse 157,8049,zürich,1283,1 ½,30 m²
 1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/universitatstr-73-8006-zurich/595689/,Universitätstr. 73,8006,Zürich,1270,1,28 m²
-1 Zimmer-Wohnung in Zürich mieten,/de/wohnung/althoosstrasse-11-8046-zurich/573612/,Althoosstrasse 11,8046,Zürich,1230,1,20 m²
 2 Zimmer-Wohnung in Obfelden mieten,/de/wohnung/dorfstrasse-73-a-8912-obfelden/587544/,Dorfstrasse 73 a,8912,Obfelden,1205,2,NaN
 1 ½ Zimmer-Wohnung in Ebmatingen mieten,/de/wohnung/zurichstrasse-108-8123-ebmatingen/589022/,Zürichstrasse 108,8123,Ebmatingen,1194,1 ½,NaN
 1 ½ Zimmer-Wohnung in Dietlikon mieten,/de/wohnung/8305-dietlikon/593525/,no street available,8305,Dietlikon,1120,1 ½,32 m²
-1 ½ Zimmer-Wohnung in Zürich mieten,/de/wohnung/forsterstrasse-50-8044-zurich/593712/,Forsterstrasse 50,8044,Zürich,1100,1 ½,30 m²
+1 Zimmer-Wohnung in Adliswil mieten,/de/wohnung/rutistr-28-8134-adliswil/599357/,Rütistr. 28,8134,Adliswil,1100,1,32 m²
 1 Zimmer-Wohnung in Regensdorf mieten,/de/wohnung/moosackerstrasse-72-8105-regensdorf/557714/,Moosäckerstrasse 72,8105,Regensdorf,1100,1,20 m²
-1 Zimmer-Wohnung in Kilchberg mieten,/de/wohnung/8802-kilchberg/594644/,no street available,8802,Kilchberg,1075,1,20 m²
+1 ½ Zimmer-Wohnung in opfikon mieten,/de/wohnung/wallisellerstrasse-8152-opfikon/599989/,Wallisellerstrasse,8152,opfikon,970,1 ½,NaN
 2 Zimmer-Wohnung in Obfelden mieten,/de/wohnung/poststrasse-1-8912-obfelden/597827/,Poststrasse 1,8912,Obfelden,915,2,48 m²
 1 ½ Zimmer-Wohnung in Fahrweid mieten,/de/wohnung/brunaustrasse-184-8951-fahrweid/594905/,Brunaustrasse 184,8951,Fahrweid,882,1 ½,NaN
 2 Zimmer-Wohnung in Dällikon mieten,/de/wohnung/industriestr-21-8108-dallikon/584004/,Industriestr. 21,8108,Dällikon,859,2,51 m²
