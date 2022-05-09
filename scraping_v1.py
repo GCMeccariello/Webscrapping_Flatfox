@@ -16,11 +16,9 @@ import csv
 from lxml import etree
 
 
-# htmlname = 'flatfox2.html'
-
 def saveHTML(city):
 
-    cities = {"Zurich": "https://flatfox.ch/de/search/?east=8.580500&north=47.401080&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&ordering=-price_display&south=47.317853&west=8.483802",
+    cities = {"Zurich": "https://flatfox.ch/de/search/?east=8.572811&is_furnished=false&north=47.408009&object_category=APARTMENT&offer_type=RENT&ordering=date&south=47.332499&west=8.490712",
               "Basel": "https://flatfox.ch/de/search/?east=7.607400&north=47.576503&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Basel&south=47.526936&west=7.558103",
               "Bern": "https://flatfox.ch/de/search/?east=7.478484&north=46.977448&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Bern&south=46.908242&west=7.410441",
               "Winterthur": "https://flatfox.ch/de/search/?east=8.764165&north=47.536288&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Winterthur&south=47.447408&west=8.675868",
@@ -30,12 +28,10 @@ def saveHTML(city):
         url = cities[c]
         print(f'{c}: {cities[c]}')
 
-        # url = 'https://flatfox.ch/de/search/?east=8.380181&north=47.098014&object_category=APARTMENT&object_category=HOUSE&ordering=date&south=47.007100&west=8.233954'
         driver = webdriver.Chrome()
         driver.get(url)
 
         driver.maximize_window()
-        # time.sleep(2)
 
         for i in range(0, 50):
             if driver.find_element(by=By.XPATH, value='//*[@id="flat-search-widget"]/div/div[2]/div[2]/div[2]/button').text == 'Mehr anzeigen':
@@ -44,7 +40,6 @@ def saveHTML(city):
             else:
                 print('_______________ break _______________')
                 break
-            # time.sleep(2)
 
         with open(f'flatfox_{c}.html', 'w') as f:
             f.write(driver.page_source)
@@ -52,17 +47,12 @@ def saveHTML(city):
         driver.quit()
 
 
-def title(path):
-    html_text = requests.get(f'https://flatfox.ch{path}').text
-    soup = BeautifulSoup(html_text, 'lxml')
-
+def title(soup):
     title = soup.find('div', class_='widget-listing-title').h1.text.strip()
     return title
 
 
-def adress(path):
-    html_text = requests.get(f'https://flatfox.ch{path}').text
-    soup = BeautifulSoup(html_text, 'lxml')
+def adress(soup):
     street = soup.find('div', class_='widget-listing-title').h2.text
     comma = 0
     for c in street:
@@ -94,9 +84,7 @@ def adress(path):
     return street, zip, location
 
 
-def price(path):
-    html_text = requests.get(f'https://flatfox.ch{path}').text
-    soup = BeautifulSoup(html_text, 'lxml')
+def price(soup):
     try:
         price = soup.find('div', class_='widget-listing-title').h2.text.strip().split(sep=',')[1].split(sep='-')[1].split()[1].replace("’", "")
     except:
@@ -109,10 +97,7 @@ def price(path):
     return price
 
 
-def room(path):
-    html_text = requests.get(f'https://flatfox.ch{path}')
-    soup = BeautifulSoup(html_text.content, 'html.parser')
-
+def room(soup):
     try:
         room = soup.find('div', class_='fui-with-sidebar fui-with-sidebar--right-sidebar').find('td', text='Anzahl Zimmer:').next_sibling.next_sibling.text.strip()
     except:
@@ -121,10 +106,7 @@ def room(path):
     return room
 
 
-def area(path):
-    html_text = requests.get(f'https://flatfox.ch{path}')
-    soup = BeautifulSoup(html_text.content, 'html.parser')
-
+def area(soup):
     try:
         area = soup.find('div', class_='fui-with-sidebar fui-with-sidebar--right-sidebar').find('td', text='Wohnfläche:').next_sibling.next_sibling.text.strip()
     except:
@@ -144,26 +126,28 @@ def main(city):
             soup = BeautifulSoup(content, 'lxml')
             div = soup.find_all('div', class_='listing-thumb')
             for d in div:
-                row = []
+                path = (d.find('a')['href'])
+
                 a = a + 1
 
-                path = (d.find('a')['href'])
+                html_text = requests.get(f'https://flatfox.ch{path}').text
+                soup = BeautifulSoup(html_text, 'lxml')
+
                 print(f'{a} - {c}: {path}')
 
-                titlename = title(path)
-                streetname, zip, location = adress(path)
-                priceamount = price(path)
-                # priceamount2 = price2(path)
-                roomamoount = room(path)
-                areasize = area(path)
+                titlename = title(soup)
+                streetname, zip, location = adress(soup)
+                priceamount = price(soup)
+                roomamoount = room(soup)
+                areasize = area(soup)
 
+                row = []
                 row.append(titlename)
                 row.append(path)
                 row.append(streetname)
                 row.append(zip)
                 row.append(location)
                 row.append(priceamount)
-                # row.append(priceamount2)
                 row.append(roomamoount)
                 row.append(areasize)
 
@@ -194,20 +178,13 @@ if __name__ == '__main__':
     start_time = time.time()
 
     city = ['Zurich', 'Basel', 'Bern', 'Winterthur', 'Luzern']
-    # city1 = ['Basel']
-    # saveHTML(city)
-    # main(city)
-    file()
+
+    saveHTML(city)
+    main(city)
+    # file()
     # x = "/de/wohnung/unterm-stallen-13-haus-b-4104-oberwil-bl/502721/"
     # adress(x)
 
     # print(cities["Zurich"])
 
     print(f"{(time.time() - start_time)/60} minutes")
-
-
-# Zurich : https://flatfox.ch/de/search/?east=8.625334&north=47.555934&south=47.198443&west=8.447982
-# Basel : https://flatfox.ch/de/search/?east=7.634148&north=47.589902&south=47.519342&west=7.554664
-# Bern : https://flatfox.ch/de/search/?east=7.495550&north=47.158707&south=46.749839&west=7.294318
-# Winterthur : https://flatfox.ch/de/search/?east=8.810331&north=47.533072&south=47.457945&west=8.656619
-# Luzern : https://flatfox.ch/de/search/?east=8.358228&north=47.199614&south=46.903045&west=8.212001

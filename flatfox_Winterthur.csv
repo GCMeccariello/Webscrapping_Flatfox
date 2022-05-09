@@ -1,114 +1,92 @@
 Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
+4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/ursulaweg-29-8404-winterthur/602464/,Ursulaweg 29,8404,Winterthur,1740,4 ½,90 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/pfaffenwiesenstr-52-8404-winterthur/602463/,Pfaffenwiesenstr. 52,8404,Winterthur,1505,3 ½,70 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lindbergstrasse-20-8404-winterthur/602314/,Lindbergstrasse 20,8404,Winterthur,1500,3 ½,59 m²
+3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/vogelbuckstr-43-8307-effretikon/602139/,Vogelbuckstr. 43,8307,Effretikon,1470,3,62 m²
+2 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wingertlistr-42-8405-winterthur/576355/,Wingertlistr. 42,8405,Winterthur,1115,2,54 m²
+1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/sonnenblickstrasse-23-8404-winterthur/602050/,Sonnenblickstrasse 23,8404,Winterthur,1435,1 ½,65 m²
+1 Zimmer-Wohnung in winterthur mieten,/de/wohnung/feldstrasse-49-8400-winterthur/602032/,Feldstrasse 49,8400,winterthur,993,1,36 m²
+3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/vogelbuckstrasse-8307-illnau-effretikon-zurich-sch/601992/,Vogelbuckstrasse,8307,Illnau-Effretikon,Zürich,3,67 m²
+4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/buelhofstrasse-36-8405-winterthur/601843/,Büelhofstrasse 36,8405,Winterthur,1940,4,80 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/robert-sulzer-gasse-18-8400-winterthur/582180/,Robert-Sulzer-Gasse 18,8400,Winterthur,2105,3 ½,74 m²
+3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/romerstrasse-236-8404-winterthur/600330/,Römerstrasse 236,8404,Winterthur,1530,3,69 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/obere-schontalstrasse-40-8406-winterthur/600618/,Obere Schöntalstrasse 40,8406,Winterthur,1960,3 ½,86 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/seuzacherstr-9b-8400-winterthur/601414/,Seuzacherstr. 9b,8400,Winterthur,2480,3 ½,94 m²
+3 Zimmer-Wohnung in Sennhof mieten,/de/wohnung/linsentalstrasse-12-8482-sennhof/597038/,Linsentalstrasse 12,8482,Sennhof,1450,3,70 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/tosstalstrasse-138-8400-winterthur/596133/,Tösstalstrasse 138,8400,Winterthur,2085,3 ½,67 m²
+4 ½ Zimmer-Maisonette in Winterthur mieten,/de/wohnung/albrechtstrasse-10-8406-winterthur/601265/,Albrechtstrasse 10,8406,Winterthur,2950,4 ½,170 m²
+1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/seuzacherstr-9a-8400-winterthur/601244/,Seuzacherstr. 9a,8400,Winterthur,1350,1 ½,44 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wasserwiesenstrasse-67p-8408-winterthur/601135/,Wässerwiesenstrasse 67P,8408,Winterthur,1681,3 ½,96 m²
+4 ½ Zimmer-Wohnung in Weisslingen mieten,/de/wohnung/8484-weisslingen/601087/,no street available,8484,Weisslingen,2370,4 ½,105 m²
+1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/poststrasse-1-8406-winterthur/601031/,Poststrasse 1,8406,Winterthur,1190,1 ½,35 m²
+1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/poststrasse-1-8406-winterthur/601014/,Poststrasse 1,8406,Winterthur,1170,1 ½,33 m²
+2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wallrutistrasse-117a-8404-winterthur/601011/,Wallrütistrasse 117a,8404,Winterthur,1535,2 ½,66 m²
+2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/rychenbergstrasse-2-8400-winterthur/600892/,Rychenbergstrasse 2,8400,Winterthur,1200,2 ½,50 m²
+1 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/buelrainstrasse-19-8400-winterthur/600867/,Büelrainstrasse 19,8400,Winterthur,875,1,19 m²
+4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/scherrerstrasse-8-8400-winterthur/552009/,Scherrerstrasse 8,8400,Winterthur,1955,4,88 m²
+4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/bollstr-4-b-8405-winterthur/600695/,Bollstr. 4 B,8405,Winterthur,1900,4 ½,101 m²
+3 Zimmer-Maisonette in Winterthur mieten,/de/wohnung/tosstalstrasse-139-8400-winterthur/600045/,Tösstalstrasse 139,8400,Winterthur,1500,3,NaN
+2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/unterwegli-45-8404-winterthur/600464/,Unterwegli 45,8404,Winterthur,1370,2 ½,71 m²
+3 ½ Zimmer-Wohnung in Nürensdorf mieten,/de/wohnung/schmittenackerstr-14-8309-nurensdorf/596641/,Schmittenackerstr. 14,8309,Nürensdorf,1562,3 ½,81 m²
+5 ½ Zimmer-Wohnung in Winterberg mieten,/de/wohnung/eschikerstr8-8312-winterberg/600326/,Eschikerstr.8,8312,Winterberg,2800,5 ½,127 m²
+3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/grenzstr28-8406-winterthur/600319/,Grenzstr.28,8406,Winterthur,1375,3,70 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/8406-winterthur/600166/,no street available,8406,Winterthur,2100,3 ½,90 m²
 4 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/schlimpergstrasse-10-8307-effretikon/599997/,Schlimpergstrasse 10,8307,Effretikon,1724,4,86 m²
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/waldeggweg-7a-8400-winterthur/599964/,Waldeggweg 7A,8400,Winterthur,1850,4,NaN
-3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/8307-effretikon/599892/,no street available,8307,Effretikon,1325,3,62 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/aeckerwiesenstr-24-8400-winterthur/599876/,Aeckerwiesenstr. 24,8400,Winterthur,1695,3 ½,61 m²
-3 Zimmer-Wohnung in Brüttisellen mieten,/de/wohnung/8306-bruttisellen/599727/,no street available,8306,Brüttisellen,1430,3,60 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zypressenstrasse-20-8408-winterthur/599030/,Zypressenstrasse 20,8408,Winterthur,1490,3 ½,68 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/hegistr-41b-8404-winterthur/599691/,Hegistr. 41b,8404,Winterthur,1995,3 ½,93 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/bleichestrasse-21a-8400-winterthur/599656/,Bleichestrasse 21a,8400,Winterthur,1565,3 ½,65 m²
-4 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/grosswiesenstr-54-8422-pfungen/583907/,Grosswiesenstr. 54,8422,Pfungen,1840,4 ½,90 m²
-2 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/grosswiesenstr-57-8422-pfungen/536880/,Grosswiesenstr. 57,8422,Pfungen,1370,2 ½,60 m²
-2 ½ Zimmer-Wohnung in Illnau mieten,/de/wohnung/8308-illnau/599501/,no street available,8308,Illnau,800,2 ½,100 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/pfaffenwiesenstrasse-52-8404-winterthur/599428/,Pfaffenwiesenstrasse 52,8404,Winterthur,1505,3 ½,70 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/obere-schontalstrasse-42-8406-winterthur/597918/,Obere Schöntalstrasse 42,8406,Winterthur,2050,3 ½,91 m²
-5 ½ Zimmer-Wohnung in Kindhausen mieten,/de/wohnung/blutzwis-10-8604-kindhausen/598876/,Blutzwis 10,8604,Kindhausen,2146,5 ½,120 m²
-4 ½ Zimmer-Wohnung in Illnau mieten,/de/wohnung/am-dorfbach-21-8308-illnau/598355/,Am Dorfbach 21,8308,Illnau,2135,4 ½,111 m²
-3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zypressenstrasse-22-8408-winterthur/599156/,Zypressenstrasse 22,8408,Winterthur,600,3,56 m²
-4 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/im-gassacher-7-8307-effretikon/535901/,Im Gassacher 7,8307,Effretikon,2030,4 ½,97 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/sulzerallee-59-8404-winterthur/599268/,Sulzerallee 59,8404,Winterthur,2305,3 ½,98 m²
 4 Zimmer-Wohnung in Sennhof mieten,/de/wohnung/sennhofweg-114-8482-sennhof/597032/,Sennhofweg 114,8482,Sennhof,1550,4,80 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/rosentalstrasse-72-8400-winterthur/595849/,Rosentalstrasse 72,8400,Winterthur,1810,3 ½,66 m²
-2 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/rechweg-14-8600-dubendorf/598659/,Rechweg 14,8600,Dübendorf,3210,2 ½,88 m²
-4 ½ Zimmer-Wohnung in Nürensdorf mieten,/de/wohnung/buhlwiesenstrasse-17-8309-nurensdorf/598651/,Bühlwiesenstrasse,8309,Nürensdorf,2157,4 ½,110 m²
-3 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/giessenstrasse-15-8600-dubendorf/598068/,Giessenstrasse 15,8600,Dübendorf,2370,3 ½,99 m²
-2 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/durrenrainstrasse-7-8422-pfungen/598420/,Dürrenrainstrasse 7,8422,Pfungen,1590,2 ½,64 m²
 3 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/schulstrasse-7-8307-effretikon/576711/,Schulstrasse 7,8307,Effretikon,1595,3 ½,70 m²
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lindenstrasse-7-8400-winterthur/598308/,Lindenstrasse 7,8400,Winterthur,2190,4 ½,NaN
 3 ½ Zimmer-Wohnung in Winterthur (ZH) mieten,/de/wohnung/tellstrasse-46-8400-winterthur-zh/589925/,Tellstrasse 46,8400,Winterthur,1610,3 ½,69 m²
-3 Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/auenring-16-8303-bassersdorf/595773/,Auenring 16,8303,Bassersdorf,1650,3,66 m²
-2 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/bahnhofstrasse-21-8422-pfungen/597873/,Bahnhofstrasse 21,8422,Pfungen,1545,2 ½,64 m²
-2 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/bahnhofstrasse-21-8422-pfungen/597821/,Bahnhofstrasse 21,8422,Pfungen,1490,2 ½,60 m²
-2 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/bahnhofstrasse-21-8422-pfungen/597822/,Bahnhofstrasse 21,8422,Pfungen,1590,2 ½,60 m²
-3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/vogelbuckstrasse-32-8307-effretikon/597763/,Vogelbuckstrasse 32,8307,Effretikon,1560,3,67 m²
-4 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/rechweg-14-8600-dubendorf/597553/,Rechweg 14,8600,Dübendorf,2990,4 ½,95 m²
-3 ½ Zimmer-Wohnung in Schlatt ZH mieten,/de/wohnung/waltensteinerstrasse-3a-8418-schlatt-zh/597522/,Waltensteinerstrasse 3a,8418,Schlatt,2150,3 ½,100 m²
-4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/oberer-graben-50-8400-winterthur/597513/,Oberer Graben 50,8400,Winterthur,2600,4 ½,90 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/hornlistrasse-83-8400-winterthur/597482/,Hörnlistrasse 83,8400,Winterthur,2800,3 ½,107 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zurcherstrasse-62a-8406-winterthur/597471/,Zürcherstrasse 62a,8406,Winterthur,1260,1 ½,50 m²
-4 ½ Zimmer-Wohnung in Duebendorf mieten,/de/wohnung/riedweg-24-8600-duebendorf/597450/,Riedweg 24,8600,Duebendorf,3684,4 ½,120 m²
 2 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/8400-winterthur/597411/,no street available,8400,Winterthur,1950,2,80 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wulflingerstrasse-172-8408-winterthur/597410/,Wülflingerstrasse 172,8408,Winterthur,1720,2 ½,59 m²
 5 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/8405-winterthur/597386/,no street available,8405,Winterthur,2260,5,137 m²
-3 ½ Zimmer-Wohnung in Seuzach mieten,/de/wohnung/8472-seuzach/597383/,no street available,8472,Seuzach,1835,3 ½,84 m²
-1 ½ Zimmer-Wohnung in Dorf mieten,/de/wohnung/8458-dorf/597210/,no street available,8458,Dorf,875,1 ½,NaN
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/burglistrasse-9-8400-winterthur/597094/,Bürglistrasse 9,8400,Winterthur,1575,3,NaN
-2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/magazingasse-2-8400-winterthur/593646/,Magazingasse 2,8400,Winterthur,1535,2 ½,49 m²
-3 ½ Zimmer-Wohnung in Tagelswangen mieten,/de/wohnung/gerenhalde-16-8317-tagelswangen/597039/,Gerenhalde 16,8317,Tagelswangen,2280,3 ½,97 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wasserwiesenstr-81c-8408-winterthur/592820/,Wässerwiesenstr. 81c,8408,Winterthur,2030,3 ½,93 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/rychenbergstrasse-59d-8400-winterthur/596981/,Rychenbergstrasse 59d,8400,Winterthur,2030,3 ½,90 m²
-3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/krummackerstrasse-15-8406-winterthur/596980/,Krummackerstrasse 15,8406,Winterthur,1370,3,57 m²
 1 Zimmer-Wohnung in winterthur mieten,/de/wohnung/oberebriggerstrasse-45-8406-winterthur/596921/,oberebriggerstrasse,8406,winterthur,1100,1,30 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wallrutistrasse-78-8404-winterthur/596905/,Wallrütistrasse 78,8404,Winterthur,1371,3,60 m²
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/grenzstrasse-7-8406-winterthur/596848/,Grenzstrasse 7,8406,Winterthur,2450,4 ½,NaN
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/stationsstrasse-7-8406-winterthur/596843/,Stationsstrasse 7,8406,Winterthur,1658,3 ½,NaN
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/heiniweg-16-8404-winterthur/596667/,Heiniweg 16,8404,Winterthur,1555,3 ½,77 m²
-3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/moosburgstrasse-27-8370-effretikon/596443/,Moosburgstrasse 27,8370,Effretikon,1693,3,70 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/seuzacherstr-13b-8400-winterthur/596401/,Seuzacherstr. 13b,8400,Winterthur,2490,3 ½,95 m²
 2 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/hofwiesenweg-2-8405-winterthur/590116/,Hofwiesenweg 2,8405,Winterthur,1395,2,53 m²
-1 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/bleichestrasse-21a-8400-winterthur/595780/,Bleichestrasse 21a,8400,Winterthur,1000,1,36 m²
-2 ½ Zimmer-Wohnung in Dietlikon mieten,/de/wohnung/hofwiesenstrasse-5-8305-dietlikon/575421/,Hofwiesenstrasse 5,8305,Dietlikon,1730,2 ½,54 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/guggenbuhlstrasse-10-8404-winterthur/595743/,Guggenbühlstrasse 10,8404,Winterthur,1435,3,58 m²
 4 ½ Zimmer-Wohnung in Kemptthal mieten,/de/wohnung/julius-maggistrasse-65-8310-kemptthal/595235/,Julius Maggistrasse 65,8310,Kemptthal,2170,4 ½,111 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/unt-schontalstrasse-9-8406-winterthur/595648/,Unt. Schöntalstrasse 9,8406,Winterthur,1270,2 ½,55 m²
-3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/unt-schontalstrasse-3-8406-winterthur/595647/,Unt. Schöntalstrasse 3,8406,Winterthur,1430,3,61 m²
 5 ½ Zimmer-Wohnung in Seuzach mieten,/de/wohnung/8472-seuzach/595171/,no street available,8472,Seuzach,2850,5 ½,130 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/heiniweg-16-8404-winterthur/594891/,Heiniweg 16,8404,Winterthur,1525,3 ½,77 m²
-2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/allmannstrasse-16-8400-winterthur/594877/,Allmannstrasse 16,8400,Winterthur,1790,2 ½,66 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/turmstrasse-72-8400-winterthur/594867/,Turmstrasse 72,8400,Winterthur,1350,2 ½,40 m²
 3 ½ Zimmer-Wohnung in Wiesendangen mieten,/de/wohnung/8542-wiesendangen/594795/,no street available,8542,Wiesendangen,1980,3 ½,81 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/holzlegistrasse-8408-winterthur/594596/,Holzlegistrasse,8408,Winterthur,1498,3,NaN
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wulflingerstrasse-324-8408-winterthur/594244/,Wülflingerstrasse 324,8408,Winterthur,1530,4,NaN
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/pflanzschulstrasse-37-8400-winterthur/591435/,Pflanzschulstrasse 37,8400,Winterthur,2840,4 ½,126 m²
-3 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/illnauerstrasse-35-8307-effretikon/593726/,Illnauerstrasse 35,8307,Effretikon,1640,3 ½,79 m²
 4 ½ Zimmer-Wohnung in Nürensdorf mieten,/de/wohnung/schmittenackerstr-5-8309-nurensdorf/580705/,Schmittenackerstr. 5,8309,Nürensdorf,1852,4 ½,88 m²
-3 Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/bahnhofstrasse-55-8600-dubendorf/569024/,Bahnhofstrasse 55,8600,Dübendorf,1590,3,67 m²
 Studio in Winterthur mieten,/de/wohnung/neuwiesenstrasse-10-8400-winterthur/593928/,Neuwiesenstrasse 10,8400,Winterthur,1290,NaN,NaN
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/stadlerstrasse-152-8404-winterthur/591695/,Stadlerstrasse 152,8404,Winterthur,1970,4 ½,98 m²
 3 ½ Zimmer-Wohnung in Nürensdorf mieten,/de/wohnung/alte-winterthurerstrasse-48-8309-nurensdorf/593851/,Alte Winterthurerstrasse 48,8309,Nürensdorf,2125,3 ½,98 m²
 3 ½ Zimmer-Maisonette in Winterthur mieten,/de/wohnung/weststr-131-8408-winterthur/593761/,Weststr. 131,8408,Winterthur,2010,3 ½,82 m²
-1 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/rebenstrasse-2-8307-effretikon/344939/,Rebenstrasse 2,8307,Effretikon,887,1 ½,35 m²
 2 ½ Zimmer-Wohnung in Wiesendangen mieten,/de/wohnung/gemeindehausstrasse-20-8542-wiesendangen/593583/,Gemeindehausstrasse 20,8542,Wiesendangen,1540,2 ½,55 m²
-1 ½ Zimmer-Wohnung in Dietlikon mieten,/de/wohnung/8305-dietlikon/593525/,no street available,8305,Dietlikon,1120,1 ½,32 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/feldstrasse-11-8400-winterthur/593474/,Feldstrasse 11,8400,Winterthur,1580,3 ½,64 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wieshofstrasse-80-8408-winterthur/593390/,Wieshofstrasse 80,8408,Winterthur,1470,3 ½,80 m²
-1 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/lindenstrae-16-8307-effretikon/593302/,Lindenstraße 16,8307,Effretikon,910,1,30 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/gottfried-keller-strasse-77-8400-winterthur/593221/,Gottfried Keller-Strasse 77,8400,Winterthur,1635,3 ½,72 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/unterwiesenstrasse-4-8408-winterthur/589284/,Unterwiesenstrasse 4,8408,Winterthur,1585,3,66 m²
-3 ½ Zimmer-Wohnung in Illnau mieten,/de/wohnung/talgartenstrasse-8-8308-illnau/591138/,Talgartenstrasse 8,8308,Illnau,2230,3 ½,94 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zurcherstrasse-62a-8406-winterthur/592665/,Zürcherstrasse 62a,8406,Winterthur,2200,3 ½,110 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/riedhofstrasse-58-8408-winterthur/581169/,Riedhofstrasse 58,8408,Winterthur,1720,2 ½,63 m²
-3 ½ Zimmer-Maisonette in Tagelswangen mieten,/de/wohnung/hofwisenstr-4-8317-tagelswangen/592465/,Hofwisenstr. 4,8317,Tagelswangen,2180,3 ½,111 m²
-4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/reutlingerstr-15-8404-winterthur/579798/,Reutlingerstr. 15,8404,Winterthur,1900,4 ½,94 m²
 3 ½ Zimmer-Attikawohnung in Winterthur mieten,/de/wohnung/euelstr-66-8408-winterthur/580469/,Euelstr. 66,8408,Winterthur,2244,3 ½,114 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/st-gallerstrasse-50-8400-winterthur/585594/,St. Gallerstrasse 50,8400,Winterthur,2040,2 ½,72 m²
 1 ½ Zimmer-Wohnung in Tagelswangen mieten,/de/wohnung/8317-tagelswangen/592132/,no street available,8317,Tagelswangen,935,1 ½,40 m²
-3 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/giessenstrasse-1-8600-dubendorf/592070/,Giessenstrasse 1,8600,Dübendorf,2550,3 ½,102 m²
-2 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/illnauerstrasse-17-8307-effretikon/576090/,Illnauerstrasse 17,8307,Effretikon,1600,2 ½,73 m²
 3 ½ Zimmer-Maisonette in Hettlingen mieten,/de/wohnung/im-grund-15-8442-hettlingen/580598/,Im Grund 15,8442,Hettlingen,1870,3 ½,123 m²
 5 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/eichgutstr-2-8400-winterthur/591864/,Eichgutstr. 2,8400,Winterthur,3450,5 ½,143 m²
 4 ½ Zimmer-Attikawohnung in Winterthur mieten,/de/wohnung/rumikerstrasse-36-8409-winterthur/591647/,Rümikerstrasse 36,8409,Winterthur,2500,4 ½,115 m²
-1 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wartstr-26-8400-winterthur/591453/,Wartstr. 26,8400,Winterthur,1250,1,31 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/schlosshofstr-64-8400-winterthur/585399/,Schlosshofstr. 64,8400,Winterthur,2150,3 ½,91 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lindbergstrasse-20-8404-winterthur/575628/,Lindbergstrasse 20,8404,Winterthur,1490,3,56 m²
-3 ½ Zimmer-Maisonette in Tagelswangen mieten,/de/wohnung/hofwisenstr-4-8317-tagelswangen/591359/,Hofwisenstr. 4,8317,Tagelswangen,2210,3 ½,111 m²
-2 Zimmer-Wohnung in Wangen b. Dübendorf mieten,/de/wohnung/zelgliweg-3-8602-wangen-b-dubendorf/591165/,Zelgliweg 3,8602,Wangen,1680,2,70 m²
-2 ½ Zimmer-Wohnung in Volketswil-Kindhausen mieten,/de/wohnung/mullerholzlistrasse-2-8604-volketswil-kindhausen/591025/,Müllerhölzlistrasse 2,8604,Volketswil-Kindhausen,1580,2 ½,67 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/werkstrasse-3-8400-winterthur/590801/,Werkstrasse,8400,Winterthur,1598,3,61 m²
-3 Zimmer-Wohnung in Oberwinterthur mieten,/de/wohnung/8404-oberwinterthur/590563/,no street available,8404,Oberwinterthur,1000,3,75 m²
-2 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/8307-effretikon/590536/,no street available,8307,Effretikon,1370,2 ½,NaN
-4 Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/uberlandstrasse-220-8600-dubendorf/590475/,Überlandstrasse 220,8600,Dübendorf,1750,4,NaN
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/holzlegistr-15a-8408-winterthur/584469/,Holzlegistr. 15a,8408,Winterthur,1809,3 ½,85 m²
 5 ½ Zimmer-Maisonette in Winterthur mieten,/de/wohnung/dattnauerstr-147-8406-winterthur/580390/,Dättnauerstr. 147,8406,Winterthur,2680,5 ½,122 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/eichliackerstrasse-23-8406-winterthur/590372/,Eichliackerstrasse 23,8406,Winterthur,1850,2 ½,75 m²
 3 ½ Zimmer-Wohnung in Neftenbach mieten,/de/wohnung/seuzachstr-8-8413-neftenbach/590209/,Seuzachstr. 8,8413,Neftenbach,1699,3 ½,84 m²
@@ -116,27 +94,17 @@ Studio in Winterthur mieten,/de/wohnung/neuwiesenstrasse-10-8400-winterthur/5939
 3 ½ Zimmer-Wohnung in Winterhur mieten,/de/wohnung/sulzerallee-59-8404-winterhur/589999/,Sulzerallee 59,8404,Winterhur,2350,3 ½,98 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/poststrasse-1-8406-winterthur/589812/,Poststrasse 1,8406,Winterthur,1670,2 ½,53 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/schlosstalstrasse-38-8406-winterthur/589256/,Schlosstalstrasse,8406,Winterthur,1670,3 ½,60 m²
-4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/pionierstr-18-8400-winterthur/577580/,Pionierstr. 18,8400,Winterthur,2230,4 ½,98 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/hulfteggstrasse-14-8400-winterthur/587827/,Hulfteggstrasse 14,8400,Winterthur,1690,3 ½,90 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/oberfeldstrasse-93-8408-winterthur/587637/,Oberfeldstrasse 93,8408,Winterthur,1518,3,60 m²
 3 ½ Zimmer-Wohnung in Wiesendangen mieten,/de/wohnung/wiesentalweg-4-8542-wiesendangen/587512/,Wiesentalweg 4,8542,Wiesendangen,2400,3 ½,NaN
-2 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/brandrietstrasse-2-8307-effretikon/587453/,Brandrietstrasse 2,8307,Effretikon,1850,2 ½,78 m²
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/romerstrasse-191-8404-winterthur/587433/,Römerstrasse,8404,Winterthur,1860,4,90 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/guggenbuhlstrasse-28-8404-winterthur/587379/,Guggenbühlstrasse 28,8404,Winterthur,1445,3,58 m²
-3 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/giessenstrasse-3-8600-dubendorf/587115/,Giessenstrasse 3,8600,Dübendorf,2590,3 ½,94 m²
-2 ½ Zimmer-Wohnung in Dübendorf mieten,/de/wohnung/am-giessenpark-9-8600-dubendorf/587114/,Am Giessenpark 9,8600,Dübendorf,1950,2 ½,65 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/sulzer-allee-71-8404-winterthur/586330/,Sulzer-Allee 71,8404,Winterthur,1810,2 ½,72 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/else-zublin-str-74-8404-winterthur/586240/,Else-Züblin-Str. 74,8404,Winterthur,2140,3 ½,100 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/feldstr-49-8400-winterthur/586348/,Feldstr. 49,8400,Winterthur,1470,2 ½,72 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/8406-winterthur/585448/,no street available,8406,Winterthur,2110,3 ½,NaN
-1 ½ Zimmer-Attikawohnung in Pfungen mieten,/de/wohnung/bahnhofstrasse-21-8422-pfungen/585180/,Bahnhofstrasse 21,8422,Pfungen,1785,1 ½,56 m²
 3 ½ Zimmer-Attikawohnung in Winterthur mieten,/de/wohnung/am-eulachpark-15-8404-winterthur/584782/,Am Eulachpark 15,8404,Winterthur,2280,3 ½,101 m²
-4 ½ Zimmer-Maisonette in Winterthur mieten,/de/wohnung/am-eulachpark-13-8404-winterthur/584781/,Am Eulachpark 13,8404,Winterthur,2610,4 ½,148 m²
-3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/vogelbuckstr-32-8307-effretikon/583851/,Vogelbuckstr. 32,8307,Effretikon,1560,3,67 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/schaffhauserstrasse-56-8400-winterthur/583790/,Schaffhauserstrasse 56,8400,Winterthur,1370,1 ½,70 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/kanzleistrasse-47-8405-winterthur/583146/,Kanzleistrasse,8405,Winterthur,1560,3,NaN
-3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/8307-effretikon/583002/,no street available,8307,Effretikon,1560,3,67 m²
-1 Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/klotenerstrasse-28-8303-bassersdorf/582853/,Klotenerstrasse 28,8303,Bassersdorf,1550,1,30 m²
 3 ½ Zimmer-Wohnung in Hettlingen mieten,/de/wohnung/im-grund-6-8442-hettlingen/581750/,Im Grund 6,8442,Hettlingen,1745,3 ½,83 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zurcherstrasse-30-8400-winterthur/582071/,Zürcherstrasse 30,8400,Winterthur,1590,3,50 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/oberseenerstrasse-16-8405-winterthur/580616/,Oberseenerstrasse 16,8405,Winterthur,1640,3,63 m²
@@ -145,80 +113,57 @@ Studio in Winterthur mieten,/de/wohnung/neuwiesenstrasse-10-8400-winterthur/5939
 4 ½ Zimmer-Wohnung in Seuzach mieten,/de/wohnung/stadlerstrasse-35-8472-seuzach/580006/,Stadlerstrasse 35,8472,Seuzach,2120,4 ½,100 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/rossligasse-10-8405-winterthur/579592/,Rössligasse 10,8405,Winterthur,1850,3 ½,80 m²
 2 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/im-wattbuck-3-8307-effretikon/573320/,Im Wattbuck 3,8307,Effretikon,1565,2 ½,66 m²
-3 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/lindenstrasse-9-8307-effretikon/578996/,Lindenstrasse 9,8307,Effretikon,1920,3 ½,87 m²
+3 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/lindenstrasse-9-8307-effretikon/578996/,Lindenstrasse 9,8307,Effretikon,1840,3 ½,87 m²
 3 ½ Zimmer-Wohnung in Kollbrunn mieten,/de/wohnung/dorfstrasse-8b-8483-kollbrunn/568324/,Dorfstrasse 8b,8483,Kollbrunn,1940,3 ½,98 m²
 2 ½ Zimmer-Wohnung in Kollbrunn mieten,/de/wohnung/dorfstrasse-8b-8483-kollbrunn/568323/,Dorfstrasse 8b,8483,Kollbrunn,1460,2 ½,63 m²
-4 Zimmer-Wohnung in Illnau mieten,/de/wohnung/bisikonerstrasse-9-8308-illnau/576813/,Bisikonerstrasse 9,8308,Illnau,1798,4,80 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/emil-kloti-str-2-8406-winterthur/436640/,Emil Klöti-Str. 2,8406,Winterthur,1895,3 ½,88 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/konradstr-3-8400-winterthur/575520/,Konradstr. 3,8400,Winterthur,1423,3,53 m²
-4 ½ Zimmer-Wohnung in Wildberg mieten,/de/wohnung/schulhausstrasse-8-8489-wildberg/574381/,Schulhausstrasse 8,8489,Wildberg,2100,4 ½,125 m²
-5 ½ Zimmer-Wohnung in Winterberg mieten,/de/wohnung/8312-winterberg/574368/,no street available,8312,Winterberg,2800,5 ½,127 m²
-4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/hulfteggstr-23-8400-winterthur/574129/,Hulfteggstr. 23,8400,Winterthur,1500,4,75 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/ursulaweg-33-8404-winterthur/573449/,Ursulaweg 33,8404,Winterthur,1560,3 ½,79 m²
 1 Zimmer-Loft in Winterthur mieten,/de/wohnung/else-zublin-strasse-85c-8404-winterthur/571831/,Else-Züblin-Strasse 85c,8404,Winterthur,2250,1,115 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/ursulaweg-29-8404-winterthur/571314/,Ursulaweg 29,8404,Winterthur,1560,3 ½,79 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/holzlegistr-6-8408-winterthur/571296/,Holzlegistr. 6,8408,Winterthur,1435,3,61 m²
-4 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/bietenholzstrasse-4-8307-effretikon/557031/,Bietenholzstrasse 4,8307,Effretikon,1960,4,85 m²
-3 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/rutlistrasse-18-8307-effretikon/552697/,Rütlistrasse 18,8307,Effretikon,1570,3,66 m²
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/kornweg-2-8405-winterthur/568640/,Kornweg 2,8405,Winterthur,1690,4,NaN
-2 ½ Zimmer-Wohnung in Bassersdorf mieten,/de/wohnung/lagernstrasse-2-8803-bassersdorf/568494/,Lägernstrasse 2,8803,Bassersdorf,1500,2 ½,55 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/ida-straulistr-49-8404-winterthur/559510/,Ida-Sträulistr. 49,8404,Winterthur,2050,3 ½,83 m²
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/baumlistrasse-3-8404-winterthur/559710/,Bäumlistrasse 3,8404,Winterthur,3130,4 ½,95 m²
-3 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/grosswiesenstr-58-8422-pfungen/521771/,Grosswiesenstr. 58,8422,Pfungen,1575,3 ½,74 m²
 3 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/walkestrasse-16-8400-winterthur/559049/,Walkestrasse 16,8400,Winterthur,1650,3,65 m²
-2 ½ Zimmer-Maisonette in Seuzach mieten,/de/wohnung/aspstrasse-5c-8472-seuzach/542460/,Aspstrasse 5c,8472,Seuzach,2015,2 ½,85 m²
-3 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/illnauerstrasse-20-8307-effretikon/558825/,Illnauerstrasse 20,8307,Effretikon,1550,3 ½,70 m²
-2 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/vogelsangstrasse-2-8307-effretikon/555983/,Vogelsangstrasse 2,8307,Effretikon,1480,2,49 m²
-2 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/quellenstrasse-8-8307-effretikon/556350/,Quellenstrasse 8,8307,Effretikon,1367,2 ½,58 m²
+2 ½ Zimmer-Maisonette in Seuzach mieten,/de/wohnung/aspstrasse-5c-8472-seuzach/542460/,Aspstrasse 5c,8472,Seuzach,1995,2 ½,85 m²
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wallrutistrasse-113-8404-winterthur/557594/,Wallrütistrasse 113,8404,Winterthur,1755,4,NaN
-3 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/8462-pfungen/557557/,no street available,8462,Pfungen,1500,3 ½,NaN
 3 ½ Zimmer-Wohnung in Sulz-Rickenbach mieten,/de/wohnung/breitestrasse-3-8545-sulz-rickenbach/556992/,Breitestrasse 3,8545,Sulz-Rickenbach,1870,3 ½,80 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/reutlingerstr-15-8404-winterthur/550725/,Reutlingerstr. 15,8404,Winterthur,960,1 ½,30 m²
-4 ½ Zimmer-Wohnung in Neftenbach mieten,/de/wohnung/8413-neftenbach/555705/,no street available,8413,Neftenbach,1000,4 ½,20 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/sulzer-allee-81-8404-winterthur/502779/,Sulzer-Allee 81,8404,Winterthur,1860,2 ½,68 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/else-zublin-str-70-8404-winterthur/352646/,Else-Züblin-Str. 70,8404,Winterthur,1810,2 ½,67 m²
-1 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/rebenstrasse-2-8307-effretikon/555124/,Rebenstrasse 2,8307,Effretikon,990,1 ½,NaN
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/schonaustrasse-4-8400-winterthur/554585/,Schönaustrasse 4,8400,Winterthur,1200,2 ½,52 m²
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/8406-winterthur/553593/,no street available,8406,Winterthur,1950,4 ½,NaN
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/st-gallerstrasse-44-8400-winterthur/552112/,St. Gallerstrasse 44,8400,Winterthur,2430,3 ½,85 m²
 1 Zimmer-Loft in Winterthur mieten,/de/wohnung/else-zublin-strasse-85a-8404-winterthur/550812/,Else-Züblin-Strasse 85a,8404,Winterthur,2090,1,90 m²
-2 ½ Zimmer-Wohnung in Kefikon mieten,/de/wohnung/dorfstrasse-49-8546-kefikon/549601/,Dorfstrasse 49,8546,Kefikon,1790,2 ½,60 m²
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lindbergstrasse-20-8404-winterthur/540363/,Lindbergstrasse 20,8404,Winterthur,1700,4,71 m²
+3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/etzbergstrasse-16a-8405-winterthur/547540/,Etzbergstrasse 16a,8405,Winterthur,1580,3 ½,71 m²
 2 ½ Zimmer-Wohnung in Grafstal mieten,/de/wohnung/dorfstrasse-38-8310-grafstal/547189/,Dorfstrasse 38,8310,Grafstal,1700,2 ½,57 m²
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/unterwiesenstr-10-8408-winterthur/547082/,Unterwiesenstr. 10,8408,Winterthur,1863,4 ½,88 m²
 3 ½ Zimmer-Wohnung in KOLLBRUNN mieten,/de/wohnung/bolsternbuckstrasse-15-8483-kollbrunn/546524/,Bolsternbuckstrasse 15,8483,KOLLBRUNN,1400,3 ½,60 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/feldstr-49-8400-winterthur/546142/,Feldstr. 49,8400,Winterthur,1135,1 ½,40 m²
-3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lindbergstrasse-20-8404-winterthur/531594/,Lindbergstrasse 20,8404,Winterthur,1500,3 ½,59 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/seuzacherstr-11b-8400-winterthur/543884/,Seuzacherstr. 11b,8400,Winterthur,2370,3 ½,88 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/seuzacherstr-7a-8400-winterthur/543883/,Seuzacherstr. 7a,8400,Winterthur,2520,3 ½,98 m²
 1 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/gutstrasse-13-8400-winterthur/535855/,Gutstrasse 13,8400,Winterthur,1245,1,39 m²
-4 ½ Zimmer-Wohnung in Henggart mieten,/de/wohnung/8444-henggart/542500/,no street available,8444,Henggart,1990,4 ½,NaN
-2 Zimmer-Wohnung in Effretikon mieten,/de/wohnung/vogelsangstrasse-2-8307-effretikon/541828/,Vogelsangstrasse 2,8307,Effretikon,1530,2,49 m²
 1 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/schulgasse-3-8000-winterthur/532039/,Schulgasse 3,8000,Winterthur,910,1,13 m²
 2 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zurcherstrasse-157-8406-winterthur/530758/,Zürcherstrasse 157,8406,Winterthur,1400,2,46 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/stadlerstrasse-158-8404-winterthur/521577/,Stadlerstrasse 158,8404,Winterthur,1729,3 ½,79 m²
-4 ½ Zimmer-Dachwohnung in Bassersdorf mieten,/de/wohnung/stiegweg-14b-8303-bassersdorf/527523/,Stiegweg 14B,8303,Bassersdorf,2400,4 ½,120 m²
 4 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/langgasse-29-8400-winterthur/527442/,Langgasse 29,8400,Winterthur,1840,4,72 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/romertorstrasse-2-8404-winterthur/525720/,Römertorstrasse 2,8404,Winterthur,2150,3 ½,84 m²
 2 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lokstadt-8400-winterthur/521053/,Lokstadt,8400,Winterthur,Anfrage,2 ½,NaN
 4 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lokstadt-8400-winterthur/521046/,Lokstadt,8400,Winterthur,Anfrage,4 ½,NaN
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/lokstadt-8400-winterthur/521045/,Lokstadt,8400,Winterthur,Anfrage,3 ½,NaN
-3 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/rikonerstrasse-9-8307-effretikon/514838/,Rikonerstrasse 9,8307,Effretikon,1515,3 ½,74 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/st-gallerstrasse-46-8400-winterthur/516157/,St. Gallerstrasse 46,8400,Winterthur,2390,3 ½,85 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zurcherstrasse-145-8406-winterthur/516890/,Zürcherstrasse 145,8406,Winterthur,1250,1 ½,37 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/maienstrasse-2-8406-winterthur/514693/,Maienstrasse 2,8406,Winterthur,1650,3 ½,73 m²
-3 ½ Zimmer-Wohnung in Nürensdorf mieten,/de/wohnung/schmittenackerstr-9-8309-nurensdorf/512349/,Schmittenackerstr. 9,8309,Nürensdorf,1715,3 ½,79 m²
-3 ½ Zimmer-Wohnung in Pfungen mieten,/de/wohnung/grosswiesenstr-55-8422-pfungen/476806/,Grosswiesenstr. 55,8422,Pfungen,1640,3 ½,90 m²
 1 Zimmer-Wohnung in Winterthur mieten,/de/wohnung/else-zublin-str-66-8404-winterthur/492561/,Else-Züblin-Str. 66,8404,Winterthur,1710,1,73 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/wulflingerstrasse-349-8408-winterthur/485985/,Wülflingerstrasse 349,8408,Winterthur,1704,3 ½,82 m²
 2 ½ Zimmer-Wohnung in Effretikon mieten,/de/wohnung/im-wattbuck-1-8307-effretikon/478539/,Im Wattbuck 1,8307,Effretikon,1435,2 ½,71 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/sulzerallee-80-88-8409-winterthur/455089/,Sulzerallee 80 - 88,8409,Winterthur,2220,3 ½,92 m²
 2 ½ Zimmer-Attikawohnung in Winterthur mieten,/de/wohnung/sulzer-allee-71-8404-winterthur/442498/,Sulzer-Allee 71,8404,Winterthur,Anfrage,2 ½,85 m²
-4 ½ Zimmer-Wohnung in Dietlikon mieten,/de/wohnung/brunnenwiesenstrasse-8-8305-dietlikon/427974/,Brunnenwiesenstrasse 8,8305,Dietlikon,2255,4 ½,82 m²
 1 ½ Zimmer-Studio in Winterthur mieten,/de/wohnung/feldstrasse-16-8400-winterthur/426355/,Feldstrasse 16,8400,Winterthur,3430,1 ½,159 m²
 3 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/else-zublin-str-72-8404-winterthur/383669/,Else-Züblin-Str. 72,8404,Winterthur,2200,3 ½,105 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/zucherstrasse-143-8406-winterthur/203151/,Zücherstrasse 143,8406,Winterthur,1990,1 ½,36 m²
 2 ½ Zimmer-Möblierte Wohnung in Winterthur mieten,/de/wohnung/tossfeldstrasse-67-b-8406-winterthur/202873/,Tössfeldstrasse 67 b,8406,Winterthur,2250,2 ½,45 m²
-1 ½ Zimmer-Möblierte Wohnung in Elsau mieten,/de/wohnung/st-gallerstrasse-60-8352-elsau/195813/,St. Gallerstrasse 60,8352,Elsau,1550,1 ½,22 m²
 1 ½ Zimmer-Möblierte Wohnung in Winterthur mieten,/de/wohnung/backerstrasse-12-8400-winterthur/194369/,Bäckerstrasse 12,8400,Winterthur,1950,1 ½,35 m²
 1 ½ Zimmer-Wohnung in Winterthur mieten,/de/wohnung/kanzleistrasse-57-8405-winterthur/156900/,Kanzleistrasse 57,8405,Winterthur,2100,1 ½,46 m²
 1 Zimmer-Möblierte Wohnung in Winterthur mieten,/de/wohnung/neustadtgasse-29-8400-winterthur/72436/,Neustadtgasse 29,8400,Winterthur,1100,1,16 m²

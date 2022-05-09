@@ -1,33 +1,81 @@
 Titel,Path,Streetname,Postalcode,Location,Price,Rooms,Area
-3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/muhledorfstrasse-25-3018-bern/600006/,Mühledorfstrasse 25,3018,Bern,1715,3 ½,75 m²
-Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,3027,Bern,1620,NaN,74 m²
+4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/bolligenstrasse-14a-3006-bern/602480/,Bolligenstrasse 14a,3006,Bern,3325,4 ½,140 m²
+1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/bruckfeldstr-19-3012-bern/602418/,Brückfeldstr. 19,3012,Bern,1280,1 ½,37 m²
+3 Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/konizstrasse-197-3097-liebefeld/602400/,Könizstrasse 197,3097,Liebefeld,1400,3,NaN
+3 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/wilkerstrasse-76-3097-liebefeld/602387/,Wilkerstrasse 76,3097,Liebefeld,1890,3 ½,81 m²
+4 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/wilkerstrasse-50-3097-liebefeld/602386/,Wilkerstrasse 50,3097,Liebefeld,2330,4 ½,103 m²
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/libellenweg-28-3006-bern/602365/,Libellenweg 28,3006,Bern,1645,3 ½,NaN
+3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/gantrischweg-23-3052-zollikofen/602361/,Gantrischweg 23,3052,Zollikofen,1250,3 ½,NaN
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/beaulieustrasse-47-3012-bern/602225/,Beaulieustrasse 47,3012,Bern,1950,3 ½,60 m²
+1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3013-bern/602135/,no street available,3013,Bern,900,1 ½,NaN
+"3 ½ Zimmer-Wohnung in / Bern, NOT furnished mieten",/de/wohnung/landhausweg-6-3007-bern-not-furnished/602129/,Landhausweg 6,NOT,furnished,1550,3 ½,NaN
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/eigerstrasse-68-3007-bern/602057/,Eigerstrasse 68,3007,Bern,1690,3 ½,76 m²
+2 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/feldeggstrasse-24-3098-koniz/593763/,Feldeggstrasse 24,3098,Köniz,1350,2 ½,52 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/friedlistrasse-16-3006-bern/601970/,Friedlistrasse 16,3006,Bern,1730,2,NaN
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/frankenstrasse-3018-bern/601961/,Frankenstrasse,3018,Bern,1090,2,57 m²
+2 ½ Zimmer-Wohnung in Kehrsatz mieten,/de/wohnung/3122-kehrsatz/601876/,no street available,3122,Kehrsatz,1280,2 ½,58 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/cacilienstrasse-21-3007-bern/601861/,Cäcilienstrasse 21,3007,Bern,1400,3,54 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/sulgenrain-12-3007-bern/601854/,Sulgenrain 12,3007,Bern,1580,2 ½,63 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/pappelweg-44-3013-bern/601791/,Pappelweg 44,3013,Bern,1230,2,NaN
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3012-bern/601780/,no street available,3012,Bern,1290,2 ½,46 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/postgasse-54-3011-bern/601749/,Postgasse 54,3011,Bern,2070,2 ½,47 m²
+1 Zimmer-Wohnung in Bern mieten,/de/wohnung/randweg-15-3013-bern/601742/,Randweg 15,3013,Bern,760,1,NaN
+3 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/dorfstrasse-5-3084-wabern/601634/,Dorfstrasse 5,3084,Wabern,1732,3 ½,83 m²
+1 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/paracelsusstrasse-2-3072-ostermundigen/601607/,Paracelsusstrasse 2,3072,Ostermundigen,1260,1 ½,NaN
+3 Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/wabersackerstrasse-31-3097-liebefeld/601528/,Wabersackerstrasse 31,3097,Liebefeld,1370,3,57 m²
+2 ½ Zimmer-Attikawohnung in Bern mieten,/de/wohnung/spitalackerstrasse-21-3013-bern/600614/,Spitalackerstrasse 21,3013,Bern,1935,2 ½,103 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/holligenstrasse-109-3008-bern/600627/,Holligenstrasse 109,3008,Bern,1540,3,73 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/monbijoustrasse-75-3007-bern/601407/,Monbijoustrasse 75,3007,Bern,1895,3,83 m²
+4 Zimmer-Wohnung in Bern mieten,/de/wohnung/fellenbergstrasse-14-3012-bern/601258/,Fellenbergstrasse 14,3012,Bern,2900,4,NaN
+2 ½ Zimmer-Dachwohnung in Bern mieten,/de/wohnung/greyerzstrasse-47-3013-bern/592587/,Greyerzstrasse 47,3013,Bern,1575,2 ½,NaN
+3 Zimmer-Wohnung in Köniz mieten,/de/wohnung/dorfbachstrasse-62-3098-koniz/593746/,Dorfbachstrasse 62,3098,Köniz,1490,3,66 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/muhledorfstrasse-4-3018-bern/571723/,Mühledorfstrasse 4,3018,Bern,1670,3,60 m²
+3 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-71-3063-ittigen/579560/,Jurastrasse 71,3063,Ittigen,1700,3 ½,84 m²
+2 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-53-3063-ittigen/579556/,Jurastrasse 53,3063,Ittigen,1270,2 ½,66 m²
+2 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-53-3063-ittigen/555504/,Jurastrasse 53,3063,Ittigen,1560,2 ½,87 m²
+2 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-25-3063-ittigen/579470/,Jurastrasse 25,3063,Ittigen,1230,2 ½,63 m²
+4 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-43-3063-ittigen/583287/,Jurastrasse 43,3063,Ittigen,2370,4 ½,138 m²
+4 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-15-3063-ittigen/580603/,Jurastrasse 15,3063,Ittigen,1760,4 ½,98 m²
+3 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/talgut-zentrum-14-3063-ittigen/555547/,Talgut-Zentrum 14,3063,Ittigen,1620,3 ½,87 m²
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/keltenstrasse-11-3018-bern/589189/,Keltenstrasse 11,3018,Bern,1410,3 ½,66 m²
+4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/burgernzielweg-16-3006-bern/593677/,Burgernzielweg 16,3006,Bern,2120,4 ½,103 m²
+5 ½ Zimmer-Attikawohnung in Liebefeld mieten,/de/wohnung/schwarzenburgstrasse-146-3097-liebefeld/595060/,Schwarzenburgstrasse 146,3097,Liebefeld,3590,5 ½,143 m²
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/ostring-62-3006-bern/600985/,Ostring 62,3006,Bern,1881,3 ½,70 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/3018-bern/600965/,no street available,3018,Bern,1360,3,NaN
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weissenbuhlweg-41-3007-bern/600856/,Weissenbühlweg 41,3007,Bern,1500,2 ½,56 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/rathausgasse-12-3011-bern/594606/,Rathausgasse 12,3011,Bern,1890,3,73 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/schwarzenburgstrasse-226-3097-bern/600768/,Schwarzenburgstrasse 226,3097,Bern,1315,2 ½,54 m²
+2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-117-3072-ostermundigen/600675/,Bernstrasse 117,3072,Ostermundigen,1596,2 ½,78 m²
+1 ½ Zimmer-Loft in Bern mieten,/de/wohnung/lerchenweg-29-3012-bern/600615/,Lerchenweg 29,3012,Bern,2150,1 ½,75 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/werkgasse-56-3018-bern/600610/,Werkgasse 56,3018,Bern,1490,2,52 m²
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/allmendstrasse-7-3014-bern/600382/,Allmendstrasse 7,3014,Bern,1650,3 ½,NaN
+3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-25-3072-ostermundigen/279709/,Bernstrasse 25,3072,Ostermundigen,2540,3 ½,82 m²
+4 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/unterdorfstrasse-25-3072-ostermundigen/600303/,Unterdorfstrasse 25,3072,Ostermundigen,1700,4 ½,96 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/kapellenstrasse-23-3011-bern/600281/,Kapellenstrasse 23,3011,Bern,1448,2 ½,58 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/gerechtigkeitsgasse-35-3011-bern/599709/,Gerechtigkeitsgasse 35,3011,Bern,1480,2,46 m²
+4 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/blinzernfeldweg-14-3098-koniz/599540/,Blinzernfeldweg 14,3098,Köniz,1765,4 ½,94 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/egelgasse-66-3006-bern/592395/,Egelgasse 66,3006,Bern,1350,3,69 m²
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/konizstrasse-27-3008-bern/596569/,Könizstrasse 27,3008,Bern,1740,3 ½,89 m²
+3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/blankweg-18-3072-ostermundigen/571062/,Blankweg 18,3072,Ostermundigen,1550,3 ½,68 m²
+4 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/oberer-wehrliweg-2-b-3074-muri-b-bern/594649/,Oberer Wehrliweg 2 B,3074,Muri,2220,4 ½,113 m²
+1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/schwarztorstrasse-36-3007-bern/600051/,Schwarztorstrasse 36,3007,Bern,1340,1 ½,38 m²
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morgartenstrasse-15-3014-bern/599949/,Morgartenstrasse 15,3014,Bern,2750,4 ½,95 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morgartenstrasse-15-3014-bern/599948/,Morgartenstrasse 15,3014,Bern,1550,2 ½,42 m²
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morgartenstrasse-15-3014-bern/599947/,Morgartenstrasse 15,3014,Bern,2950,4 ½,85 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/riedbachstrasse-77-3027-bern/599945/,Riedbachstrasse 77,3027,Bern,1480,2 ½,54 m²
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/neuhausweg-25-3027-bern/599880/,Neuhausweg 25,3027,Bern,775,4 ½,113 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/sahlistrasse-44-3012-bern/583405/,Sahlistrasse 44,3012,Bern,1475,2,NaN
-2 Zimmer-Wohnung in Bern mieten,/de/wohnung/wangenstrasse-62-3018-bern/586247/,Wangenstrasse 62,3018,Bern,1350,2,NaN
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/neuhausweg-23-3027-bern/599652/,Neuhausweg 23,3027,Bern,1390,3,NaN
 2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/blankweg-62-3072-ostermundigen/599647/,Blankweg 62,3072,Ostermundigen,1480,2 ½,59 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/lombachweg-13-3006-bern/599588/,Lombachweg 13,3006,Bern,2700,3 ½,80 m²
-2 Zimmer-Wohnung in Bern mieten,/de/wohnung/baumgartenstrasse-13-3018-bern/599045/,Baumgartenstrasse 13,3018,Bern,950,2,50 m²
 4 Zimmer-Wohnung in Bern mieten,/de/wohnung/3006-bern/599513/,no street available,3006,Bern,1480,4,NaN
 2 ½ Zimmer-Wohnung in Worblaufen mieten,/de/wohnung/lindenhofstrasse-10-3048-worblaufen/599471/,Lindenhofstrasse 10,3048,Worblaufen,1430,2 ½,67 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/schlossstrasse-90-3008-bern/599464/,Schlossstrasse 90,3008,Bern,1790,3,81 m²
-2 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/schermenweg-172-3072-ostermundigen/599455/,Schermenweg 172,3072,Ostermundigen,1190,2,52 m²
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/morillonstrasse-11-3007-bern/599440/,Morillonstrasse 11,3007,Bern,877,1,30 m²
-3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenstrasse-19-3052-zollikofen/598231/,Alpenstrasse 19,3052,Zollikofen,1950,3 ½,114 m²
 3 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/konizstrasse-257-3097-liebefeld/593717/,Könizstrasse 257,3097,Liebefeld,1690,3 ½,72 m²
-4 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenstrasse-111-3052-zollikofen/598224/,Alpenstrasse 111,3052,Zollikofen,1870,4,86 m²
 4 Zimmer-Wohnung in Wabern mieten,/de/wohnung/bondelistrasse-66-3084-wabern/599043/,Bondelistrasse 66,3084,Wabern,1790,4,79 m²
 3 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/bondelistrasse-66-3084-wabern/596166/,Bondelistrasse 66,3084,Wabern,1860,3 ½,82 m²
-3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/waldmannstrasse-53-3027-bern/595446/,Waldmannstrasse 53,3027,Bern,1360,3 ½,68 m²
 2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/dr-zuber-strasse-2a-3072-ostermundigen/599260/,Dr. Zuber-Strasse 2a,3072,Ostermundigen,1370,2 ½,52 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/zahringerstrasse-42-3012-bern/582084/,Zähringerstrasse 42,3012,Bern,1421,2,47 m²
 4 Zimmer-Wohnung in Wabern mieten,/de/wohnung/kirchstrasse-154-3084-wabern/581557/,Kirchstrasse 154,3084,Wabern,1663,4,79 m²
 4 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/blinzernfeldweg-9-3098-koniz/599147/,Blinzernfeldweg 9,3098,Köniz,1756,4 ½,NaN
-4 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/rutiweg-110-3072-ostermundigen/599000/,Rütiweg 110,3072,Ostermundigen,1390,4,NaN
 2 Zimmer-Wohnung in Wabern mieten,/de/wohnung/kirchstrasse-156-3084-wabern/584876/,Kirchstrasse 156,3084,Wabern,1255,2,46 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/rodtmattstrasse-57-3014-bern/588205/,Rodtmattstrasse 57,3014,Bern,1730,2,NaN
 3 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/im-gerbelacker-2-3063-ittigen/598819/,Im Gerbelacker 2,3063,Ittigen,1670,3 ½,NaN
@@ -37,20 +85,16 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 5 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/funkstrasse-105-3084-wabern/598601/,Funkstrasse 105,3084,Wabern,2489,5 ½,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/wylerringstrasse-11-3014-bern/586887/,Wylerringstrasse 11,3014,Bern,2590,2 ½,118 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/gantrischstrasse-8a-3006-bern/596925/,Gantrischstrasse 8a,3006,Bern,1280,2,59 m²
-2 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/bernstrasse-205-3052-zollikofen/595771/,Bernstrasse 205,3052,Zollikofen,1270,2 ½,44 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3008-bern/598457/,no street available,3008,Bern,2090,3 ½,90 m²
 3 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/schlossstrasse-21-3098-koniz/598438/,Schlossstrasse 21,3098,Köniz,1590,3 ½,68 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/friedeckweg-8-3007-bern/597990/,Friedeckweg 8,3007,Bern,1585,2 ½,61 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/muesmattstrasse-48-3012-bern/596581/,Muesmattstrasse 48,3012,Bern,880,1,20 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/wylerfeldstrasse-36-3014-bern/598312/,Wylerfeldstrasse 36,3014,Bern,1320,2 ½,NaN
 2 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/nesslerenweg-116-3084-wabern/595788/,Nesslerenweg 116,3084,Wabern,1850,2 ½,78 m²
-2 ½ Zimmer-Wohnung in Bremgarten b. Bern mieten,/de/wohnung/bodenacher-7-3047-bremgarten-b-bern/598154/,Bodenacher 7,3047,Bremgarten,1700,2 ½,67 m²
 3 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/tulpenweg-102-3098-koniz/598152/,Tulpenweg 102,3098,Köniz,1810,3 ½,68 m²
 2 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/eichenweg-2-3063-ittigen/598151/,Eichenweg 2,3063,Ittigen,1810,2 ½,66 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/zwinglistrasse-2-3007-bern/598150/,Zwinglistrasse 2,3007,Bern,1350,3,59 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3014-bern/597980/,no street available,3014,Bern,1248,2 ½,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/jupiterstrasse-51-3015-bern/596122/,Jupiterstrasse 51,3015,Bern,1415,2 ½,61 m²
-3 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/dorfstrasse-5-3084-wabern/597732/,Dorfstrasse,3084,Wabern,1732,3 ½,85 m²
 1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/reichenbachstrasse-120-3004-bern/597649/,Reichenbachstrasse 120,3004,Bern,1250,1 ½,43 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/reichenbachstrasse-120-3004-bern/597645/,Reichenbachstrasse 120,3004,Bern,1430,2 ½,60 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/reichenbachstrasse-120-3004-bern/597644/,Reichenbachstrasse 120,3004,Bern,1400,2 ½,57 m²
@@ -61,7 +105,6 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/flurstrasse-32-3014-bern/597401/,Flurstrasse 32,3014,Bern,2300,3 ½,95 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/seftigenstrasse-21-3007-bern/597393/,Seftigenstrasse 21,3007,Bern,1670,3,75 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3006-bern/597331/,no street available,3006,Bern,1630,3 ½,78 m²
-1 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-46-3072-ostermundigen/597309/,Bernstrasse 46,3072,Ostermundigen,1050,1 ½,42 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/schenkstrasse-13-3008-bern/597237/,Schenkstrasse 13,3008,Bern,1660,2 ½,58 m²
 4 ½ Zimmer-Maisonette in Bern mieten,/de/wohnung/thunstrasse-31-3005-bern/597179/,Thunstrasse 31,3005,Bern,2750,4 ½,120 m²
 4 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/nesslerenweg-112-3084-wabern/596853/,Nesslerenweg 112,3084,Wabern,2240,4 ½,97 m²
@@ -69,78 +112,54 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/sonnenhofweg-25-3006-bern/597169/,Sonnenhofweg 25,3006,Bern,1470,2 ½,55 m²
 4 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/nesslerenweg-48-3084-wabern/596871/,Nesslerenweg 48,3084,Wabern,2000,4 ½,94 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/ostring-25-3006-bern/596910/,Ostring 25,3006,Bern,870,1,34 m²
-1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/rodtmattstrasse-46-3014-bern/597064/,Rodtmattstrasse 46,3014,Bern,1025,1 ½,30 m²
 2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/wiesenstrasse-40-3072-ostermundigen/597003/,Wiesenstrasse 40,3072,Ostermundigen,1530,2 ½,NaN
 5 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/eggholzliweg-6-b-3074-muri-b-bern/594664/,Egghölzliweg 6 B,3074,Muri,2620,5 ½,124 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/elisabethenstrasse-10-3014-bern/596922/,Elisabethenstrasse 10,3014,Bern,2250,2 ½,NaN
 5 Zimmer-Wohnung in Wabern mieten,/de/wohnung/kirchstrasse-144-3084-wabern/589515/,Kirchstrasse 144,3084,Wabern,2200,5,108 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/sahlistrasse-47-3012-bern/595348/,Sahlistrasse 47,3012,Bern,1715,2 ½,NaN
 4 Zimmer-Wohnung in Köniz mieten,/de/wohnung/dorfbachstrasse-64-3098-koniz/593707/,Dorfbachstrasse 64,3098,Köniz,1630,4,76 m²
-3 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/seftigenstrasse-358-3084-wabern/595921/,Seftigenstrasse 358,3084,Wabern,1750,3 ½,91 m²
 3 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/nesslerenweg-116-3084-wabern/596162/,Nesslerenweg 116,3084,Wabern,2000,3 ½,84 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/ostring-62-3006-bern/596568/,Ostring 62,3006,Bern,1881,3 ½,NaN
 4 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/nesslerenweg-82-3084-wabern/595879/,Nesslerenweg 82,3084,Wabern,2030,4 ½,92 m²
-2 ½ Zimmer-Wohnung in bern mieten,/de/wohnung/neufeldstrasse-3012-bern/596553/,neufeldstrasse,3012,bern,1215,2 ½,NaN
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/holligenstrasse-109-3008-bern/595257/,Holligenstrasse 109,3008,Bern,1560,3,73 m²
-3 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenstrasse-121-3052-zollikofen/595223/,Alpenstrasse 121,3052,Zollikofen,1490,3,67 m²
 4 Zimmer-Wohnung in Bern mieten,/de/wohnung/sandrainstrasse-97-3007-bern/595280/,Sandrainstrasse 97,3007,Bern,2752,4,102 m²
-3 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenstrasse-107-3052-zollikofen/595318/,Alpenstrasse 107,3052,Zollikofen,1540,3,69 m²
-4 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenstrasse-103-3052-zollikofen/595205/,Alpenstrasse 103,3052,Zollikofen,1930,4 ½,105 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/bolligenstr-30-3006-bern/596363/,Bolligenstr. 30,3006,Bern,1818,3,88 m²
-2 ½ Zimmer-Wohnung in Gümligen mieten,/de/wohnung/turbenweg-1-a-3073-gumligen/592346/,Turbenweg 1 A,3073,Gümligen,1730,2 ½,63 m²
 3 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/flurweg56-3072-ostermundigen/596235/,Flurweg56,3072,Ostermundigen,1380,3,NaN
 5 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/bolligenstr28b-3006-bern/596181/,Bolligenstr.28b,3006,Bern,2850,5 ½,148 m²
-2 Zimmer-Wohnung in Bern mieten,/de/wohnung/ankerstrasse-23-3006-bern/595827/,Ankerstrasse 23,3006,Bern,1290,2,54 m²
-5 Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/schulhausstr-21-3302-moosseedorf/523414/,Schulhausstr. 21,3302,Moosseedorf,1607,5,105 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/wankdorffeldstrasse-101-3014-bern/594589/,Wankdorffeldstrasse 101,3014,Bern,830,1,19 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/froschmattstrasse-26-3018-bern/595367/,Fröschmattstrasse 26,3018,Bern,1400,3,63 m²
 3 ½ Zimmer-Wohnung in Gümligen mieten,/de/wohnung/beethovenstrasse-46-3073-gumligen/595637/,Beethovenstrasse 46,3073,Gümligen,1775,3 ½,73 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/melchtalstrasse-23-3014-bern/595410/,Melchtalstrasse 23,3014,Bern,1428,3,61 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/romerweg-1-3013-bern/591303/,Römerweg 1,3013,Bern,760,1,NaN
 4 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/seftigenstrasse-336-3084-wabern/594617/,Seftigenstrasse 336,3084,Wabern,1740,4 ½,93 m²
 1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/pulverweg-40-3006-bern/595316/,Pulverweg 40,3006,Bern,770,1 ½,NaN
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/pulverweg-42-3006-bern/595236/,Pulverweg 42,3006,Bern,594,1,NaN
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/rosenweg-17-3007-bern/575318/,Rosenweg 17,3007,Bern,2070,3,70 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/rosenweg-17-3007-bern/582110/,Rosenweg 17,3007,Bern,2025,3,70 m²
 3 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/wabersackerstrasse-23-3097-liebefeld/595170/,Wabersackerstrasse  23,3097,Liebefeld,1760,3 ½,75 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/fischermattelistrasse-13-3008-bern/594911/,Fischermättelistrasse 13,3008,Bern,1755,3 ½,70 m²
-3 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/bahnhofplatz-1-3066-stettlen/594874/,Bahnhofplatz 1,3066,Stettlen,1830,3 ½,NaN
-5 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/haberlimatteweg-21-3052-zollikofen/594414/,Häberlimatteweg 21,3052,Zollikofen,2750,5 ½,132 m²
-3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/nobsstr-18-3072-ostermundigen/594823/,Nobsstr. 18,3072,Ostermundigen,1490,3 ½,64 m²
-3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/riedbachstr-95-3027-bern/511983/,Riedbachstr. 95,3027,Bern,2055,3 ½,98 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/alemannenstrasse-46-3018-bern/594502/,Alemannenstrasse 46,3018,Bern,1440,3,67 m²
 2 Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/konizstrasse-190-3097-liebefeld/586009/,Könizstrasse 190,3097,Liebefeld,1005,2,47 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/parkstrasse-11-a-3014-bern/593789/,Parkstrasse 11 A,3014,Bern,840,1,22 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/blockweg-8-3007-bern/594104/,Blockweg 8,3007,Bern,1450,2,53 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/stockackerstrasse-110-3018-bern/590958/,Stöckackerstrasse 110,3018,Bern,1556,3 ½,65 m²
 1 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/blankweg-24-3072-ostermundigen/590957/,Blankweg 24,3072,Ostermundigen,950,1,27 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3007-bern/593887/,no street available,3007,Bern,1880,3 ½,NaN
-2 ½ Zimmer-Wohnung in Niederwangen mieten,/de/wohnung/papionallee-26a-3172-niederwangen/593689/,Papionallee 26a,3172,Niederwangen,1520,2 ½,59 m²
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morgartenstrasse-15-3014-bern/593774/,Morgartenstrasse 15,3014,Bern,2750,4 ½,95 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morgartenstrasse-15-3014-bern/593773/,Morgartenstrasse 15,3014,Bern,1550,2 ½,42 m²
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morgartenstrasse-15-3014-bern/593771/,Morgartenstrasse 15,3014,Bern,2950,4 ½,85 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/klaraweg-39-3006-bern/593756/,Klaraweg 39,3006,Bern,1450,3,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/lerchenweg-37-3012-bern/593749/,Lerchenweg 37,3012,Bern,1680,2 ½,67 m²
-2 Zimmer-Wohnung in Bern mieten,/de/wohnung/stapfenackerstrasse-60-3018-bern/593618/,Stapfenackerstrasse 60,3018,Bern,1175,2,40 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/bonstettenstrasse-10-3012-bern/593586/,Bonstettenstrasse 10,3012,Bern,1440,2,55 m²
 2 Zimmer-Wohnung in bern mieten,/de/wohnung/3006-bern/593573/,no street available,3006,bern,500,2,NaN
-3 Zimmer-Wohnung in Gümligen mieten,/de/wohnung/moosstrasse-15-3073-gumligen/593515/,Moosstrasse 15,3073,Gümligen,1700,3,NaN
 4 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/dorfbachstrasse-58-3098-koniz/593466/,Dorfbachstrasse 58,3098,Köniz,1000,4 ½,90 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/egelgasse-66-3006-bern/593386/,Egelgasse 66,3006,Bern,1350,3,NaN
 4 ½ Zimmer-Attikawohnung in Bern mieten,/de/wohnung/hostettlerweg-2-3006-bern/578615/,Hostettlerweg 2,3006,Bern,5170,4 ½,129 m²
+1 Zimmer-Wohnung in Bern mieten,/de/wohnung/parkstrasse-9-3014-bern/580614/,Parkstrasse 9,3014,Bern,880,1,21 m²
 1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/moserstrasse-48-3014-bern/593252/,Moserstrasse 48,3014,Bern,2262,1 ½,100 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/giacomettistrasse-31a-3006-bern/593244/,Giacomettistrasse 31a,3006,Bern,1725,3 ½,86 m²
 4 ½ Zimmer-Wohnung in Bremgarten b. Bern mieten,/de/wohnung/landlistrasse-12-3047-bremgarten-b-bern/589514/,Ländlistrasse 12,3047,Bremgarten,1745,4 ½,80 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/eigerstr-60-3007-bern/593220/,Eigerstr. 60,3007,Bern,1745,2,55 m²
-3 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/schwarzenburgstrasse-231-3098-koniz/592370/,Schwarzenburgstrasse 231,3098,Köniz,1711,3 ½,79 m²
-3 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/nesslerenweg-54-3084-wabern/592298/,Nesslerenweg 54,3084,Wabern,1905,3 ½,82 m²
+3 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/schwarzenburgstrasse-231-3098-koniz/592370/,Schwarzenburgstrasse 231,3098,Köniz,1690,3 ½,79 m²
 3 ½ Zimmer-Dachwohnung in Bern mieten,/de/wohnung/dammweg-27-3013-bern/592812/,Dammweg 27,3013,Bern,1910,3 ½,70 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/unterdorfstr-45-3072-ostermundigen/592698/,Unterdorfstr. 45,3072,Ostermundigen,1755,3 ½,85 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/cacilienstr-7a-3007-bern/592689/,Cäcilienstr. 7a,3007,Bern,1660,3 ½,88 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/forelstr-46-3072-ostermundigen/592688/,Forelstr. 46,3072,Ostermundigen,1462,3 ½,81 m²
-5 ½ Zimmer-Wohnung in Kirchlindach mieten,/de/wohnung/im-farich-3-3038-kirchlindach/592636/,Im Färich 3,3038,Kirchlindach,1900,5 ½,110 m²
 2 ½ Zimmer-Dachwohnung in Bern mieten,/de/wohnung/sulgeneckstrasse-38-3007-bern/588200/,Sulgeneckstrasse 38,3007,Bern,1931,2 ½,NaN
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/gabelbachstrasse-47-3027-bern/592590/,Gäbelbachstrasse 47,3027,Bern,930,2 ½,NaN
 2 ½ Zimmer-Wohnung in Kehrsatz mieten,/de/wohnung/hagwiesenstrasse-17-3122-kehrsatz/592492/,Hagwiesenstrasse 17,3122,Kehrsatz,1200,2 ½,NaN
 4 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/kirchstrasse-144-3084-wabern/592413/,Kirchstrasse 144,3084,Wabern,1970,4 ½,100 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/unterdorfstrasse-19-3072-ostermundigen/592160/,Unterdorfstrasse 19,3072,Ostermundigen,1560,3 ½,85 m²
@@ -150,8 +169,6 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/papiermuhlestr-2-b-3013-bern/592074/,Papiermühlestr. 2 B,3013,Bern,1720,3 ½,75 m²
 2 Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/fuchsweg-1-3097-liebefeld/592048/,Fuchsweg 1,3097,Liebefeld,1400,2,NaN
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/buristr-10-3006-bern/592003/,Buristr. 10,3006,Bern,2150,4 ½,96 m²
-3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/buristr-8-3006-bern/592002/,Buristr. 8,3006,Bern,1880,3 ½,78 m²
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/bruckfeldstr-19-3012-bern/591997/,Brückfeldstr. 19,3012,Bern,1000,1,24 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/rathausgasse-50-3011-bern/591986/,Rathausgasse 50,3011,Bern,1500,2,NaN
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/papiermuhlestr-2-b-3013-bern/591866/,Papiermühlestr. 2 B,3013,Bern,1445,2,55 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/viktoriastr-21-sud-3013-bern/591861/,Viktoriastr. 21 (Süd),3013,Bern,1902,2 ½,56 m²
@@ -159,45 +176,32 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/brunngasse-30-3011-bern/591660/,Brunngasse 30,3011,Bern,1590,1 ½,39 m²
 1 Zimmer-Wohnung in bern mieten,/de/wohnung/waldheimstrasse-14-3012-bern/591595/,Waldheimstrasse 14,3012,bern,1190,1,30 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/schlossstrasse-102-3008-bern/583279/,Schlossstrasse 102,3008,Bern,1460,3,NaN
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/zieglerstrasse-36-3007-bern/579532/,Zieglerstrasse 36,3007,Bern,970,1,32 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/scheuermattweg-10-3007-bern/591364/,Scheuermattweg 10,3007,Bern,860,1,24 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/munstergasse-55-3011-bern/591288/,Münstergasse 55,3011,Bern,1465,2,60 m²
-4 Zimmer-Wohnung in Bern mieten,/de/wohnung/heckenweg-59-3007-bern/583458/,Heckenweg 59,3007,Bern,1850,4,90 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3027-bern/590648/,no street available,3027,Bern,1082,2 ½,84 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/rodtmattstrasse-77-3014-bern/590483/,Rodtmattstrasse 77,3014,Bern,1370,2,NaN
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/bruckfeldstr-19-3012-bern/590329/,Brückfeldstr. 19,3012,Bern,1000,1,26 m²
 1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/kramgasse-74-3011-bern/586812/,Kramgasse 74,3011,Bern,1700,1 ½,38 m²
-5 ½ Zimmer-Wohnung in Belp mieten,/de/wohnung/husmattstrasse-25-3123-belp/585685/,Husmattstrasse 25,3123,Belp,1980,5 ½,109 m²
 3 ½ Zimmer-Wohnung in bern mieten,/de/wohnung/3005-bern/590159/,no street available,3005,bern,1800,3 ½,90 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/werkgasse-56-3018-bern/590002/,Werkgasse 56,3018,Bern,990,1,23 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/hintere-engehaldestrasse-12-3004-bern/587074/,Hintere Engehaldestrasse 12,3004,Bern,1890,3 ½,104 m²
-4 Zimmer-Wohnung in Ittigen mieten,/de/wohnung/im-aespliz-8-3063-ittigen/584289/,Im Aespliz 8,3063,Ittigen,1790,4,101 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/winkelriedstr-13-3014-bern/589921/,Winkelriedstr. 13,3014,Bern,1505,3 ½,66 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/brunngasse-50-3011-bern/589795/,Brunngasse 50,3011,Bern,800,1,NaN
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/murtenstrasse-143b-3008-bern/589789/,Murtenstrasse 143B,3008,Bern,1250,2,50 m²
-1 ½ Zimmer-Wohnung in Niederwangen b. Bern mieten,/de/wohnung/schurlirain-44-3172-niederwangen-b-bern/589767/,Schürlirain 44,3172,Niederwangen,990,1 ½,40 m²
 1 Zimmer-Einzelzimmer in Bern mieten,/de/wohnung/giacomettistrasse-24-3006-bern/589724/,Giacomettistrasse 24,3006,Bern,250,1,12 m²
 1 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/steinholtzliweg-11-3097-liebefeld/589713/,Steinhöltzliweg 11,3097,Liebefeld,800,1 ½,NaN
-2 Zimmer-Wohnung in Ittigen mieten,/de/wohnung/kappelisackerstrasse-125-3063-ittigen/589248/,Kappelisackerstrasse 125,3063,Ittigen,Anfrage,2,53 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/ostring-23-3006-bern/589187/,Ostring 23,3006,Bern,1800,3 ½,94 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/europaplatz-1a-3008-bern/589195/,Europaplatz 1A,3008,Bern,1950,2 ½,63 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/bahnstrasse-99-3008-bern/589513/,Bahnstrasse 99,3008,Bern,1580,3 ½,50 m²
-2 Zimmer-Wohnung in Bern mieten,/de/wohnung/brunnenstrasse-45-3018-bern/588380/,Brünnenstrasse 45,3018,Bern,1240,2,42 m²
-4 ½ Zimmer-Wohnung in belp mieten,/de/wohnung/3123-belp/588374/,no street available,3123,belp,850,4 ½,120 m²
 4 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/aarhaldenstrasse-2-3052-zollikofen/586133/,Aarhaldenstrasse 2,3052,Zollikofen,1750,4,91 m²
 1 Zimmer-Wohnung in Spiegel mieten,/de/wohnung/chaumontweg-20-3095-spiegel/588159/,Chaumontweg 20,3095,Spiegel,1401,1,NaN
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/allmendstrasse-7-3014-bern/581631/,Allmendstrasse 7,3014,Bern,1770,3 ½,NaN
 3 Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/worbstrasse-95-3074-muri-b-bern/587963/,Worbstrasse 95,3074,Muri,1590,3,NaN
-3 ½ Zimmer-Maisonette in Bern mieten,/de/wohnung/neuhausweg-23-3027-bern/587919/,Neuhausweg 23,3027,Bern,1390,3 ½,73 m²
 5 ½ Zimmer-Wohnung in Wabern mieten,/de/wohnung/alpenstrasse-35-3084-wabern/585664/,Alpenstrasse 35,3084,Wabern,4600,5 ½,152 m²
 5 Zimmer-Wohnung in Bern mieten,/de/wohnung/elfenstrasse-3-3006-bern/587749/,Elfenstrasse 3,3006,Bern,4800,5,146 m²
-3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3027-bern/587677/,no street available,3027,Bern,2160,3 ½,87 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/3012-bern/587590/,no street available,3012,Bern,1400,2,46 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/haldenstrasse-143-3014-bern/578358/,Haldenstrasse 143,3014,Bern,1345,2,50 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/landoltstrasse-60-3007-bern/587286/,Landoltstrasse 60,3007,Bern,1300,2,63 m²
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/gesellschaftsstr-38-3012-bern/587279/,Gesellschaftsstr. 38,3012,Bern,1020,1,30 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/falkenweg-8-3012-bern/587198/,Falkenweg 8,3012,Bern,980,1,NaN
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/rathausgasse-52-3011-bern/587155/,Rathausgasse 52,3011,Bern,1550,2,NaN
-3 ½ Zimmer-Wohnung in Niederscherli mieten,/de/wohnung/kasereistrasse-9-3145-niederscherli/586978/,Käsereistrasse 9,3145,Niederscherli,1480,3 ½,70 m²
 6 Zimmer-Wohnung in Bern mieten,/de/wohnung/lerberstrasse-30-3013-bern/586819/,Lerberstrasse 30,3013,Bern,4290,6,NaN
 3 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/spuhlihalde-15-3098-koniz/583286/,Spühlihalde 15,3098,Köniz,1750,3 ½,91 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/winkelriedstr-13-3014-bern/586540/,Winkelriedstr. 13,3014,Bern,1511,3 ½,66 m²
@@ -205,52 +209,39 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/bumplizstrasse-48-3027-bern/586316/,Bümplizstrasse 48,3027,Bern,1395,3,61 m²
 3 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/talbodenstrasse-48-3098-schliern-b-koniz/513976/,Talbodenstrasse 48,3098,Schliern,1359,3 ½,NaN
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/muhledorfstrasse-2-3018-bern/584519/,Mühledorfstrasse 2,3018,Bern,920,1,27 m²
-3 ½ Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/sandstrasse-114-3302-moosseedorf/584075/,Sandstrasse 114,3302,Moosseedorf,1870,3 ½,77 m²
-2 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/bleichestrasse-43-3066-stettlen/585870/,Bleichestrasse 43,3066,Stettlen,1230,2 ½,56 m²
-3 ½ Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/langenbuhlstrasse-3-3302-moosseedorf/585868/,Längenbühlstrasse 3,3302,Moosseedorf,1390,3 ½,63 m²
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/lagerweg-6-3013-bern/585858/,Lagerweg 6,3013,Bern,860,1,30 m²
+1 Zimmer-Wohnung in Bern mieten,/de/wohnung/lagerweg-6-3013-bern/585858/,Lagerweg 6,3013,Bern,Anfrage,1,30 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/zahringerstr-25-3012-bern/585725/,Zähringerstr. 25,3012,Bern,1990,2 ½,78 m²
 4 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/blankweg-20-3072-ostermundigen/581339/,Blankweg 20,3072,Ostermundigen,1816,4 ½,80 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/einsteinstrasse-7-3005-bern/585711/,Einsteinstrasse 7,3005,Bern,1580,2 ½,NaN
-1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/brunngasse-30-3011-bern/585528/,Brunngasse 30,3011,Bern,1970,1 ½,53 m²
 3 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/froschweg-25-3098-schliern-b-koniz/585352/,Froschweg 25,3098,Schliern,1580,3 ½,71 m²
 3 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/froschweg-25-3098-schliern-b-koniz/585350/,Froschweg 25,3098,Schliern,1520,3 ½,71 m²
 4 ½ Zimmer-Maisonette in Bern mieten,/de/wohnung/bitziusstrasse-51-3006-bern/585338/,Bitziusstrasse 51,3006,Bern,2800,4 ½,104 m²
 3 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/talbodenstrasse-50-3098-schliern-b-koniz/585195/,Talbodenstrasse 50,3098,Schliern,1165,3 ½,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weltpoststrasse-3b-3015-bern/581201/,Weltpoststrasse 3B,3015,Bern,1870,2 ½,66 m²
 2 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/wiesenstrasse-10-3072-ostermundigen/584904/,Wiesenstrasse 10,3072,Ostermundigen,1515,2,54 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/langgassstrasse-108-3012-bern/581671/,Länggassstrasse 108,3012,Bern,1600,2 ½,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/schosshaldentrasse-20b-3006-bern/584841/,Schosshaldentrasse 20B,3006,Bern,1215,2 ½,NaN
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/nobsstrasse-20-3072-ostermundigen/575540/,Nobsstrasse 20,3072,Ostermundigen,1270,3 ½,61 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/hintere-engehaldestrasse-12-3004-bern/575602/,Hintere Engehaldestrasse 12,3004,Bern,1540,2 ½,65 m²
 3 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/schaufelweg-21-3098-schliern-b-koniz/580226/,Schaufelweg 21,3098,Schliern,1795,3 ½,82 m²
-4 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/bleichestrasse-61-3066-stettlen/583412/,Bleichestrasse 61,3066,Stettlen,1590,4 ½,101 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/muesmattstrasse-48-3012-bern/582507/,Muesmattstrasse 48,3012,Bern,880,1,23 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/riedbachstrasse-80-3027-bern/583204/,Riedbachstrasse,3027,Bern,1400,2 ½,NaN
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/muhledorfstrasse-1-3018-bern/583158/,Mühledorfstrasse 1,3018,Bern,2900,4 ½,106 m²
-3 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/kranichweg-3-3074-muri-b-bern/475463/,Kranichweg 3,3074,Muri,1790,3 ½,80 m²
-3 Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/kirchstrasse-5-a-3097-liebefeld/554531/,Kirchstrasse 5 a,3097,Liebefeld,1490,3,60 m²
+1 Zimmer-Wohnung in Bern mieten,/de/wohnung/mittelstrasse-53-3012-bern/551270/,Mittelstrasse 53,3012,Bern,1020,1,33 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/gerbestrasse-9-3072-ostermundigen/595270/,Gerbestrasse 9,3072,Ostermundigen,1530,3 ½,70 m²
 4 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-121-3072-ostermundigen/582822/,Bernstrasse 121,3072,Ostermundigen,2490,4 ½,104 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-121-3072-ostermundigen/582820/,Bernstrasse 121,3072,Ostermundigen,1740,3 ½,71 m²
 2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/dr-zuber-strasse-2a-3072-ostermundigen/582818/,Dr. Zuber-Strasse 2a,3072,Ostermundigen,1370,2 ½,52 m²
-1 ½ Zimmer-Wohnung in Schliern bei Köniz mieten,/de/wohnung/3098-schliern-bei-koniz/582802/,no street available,3098,Schliern,960,1 ½,36 m²
 4 Zimmer-Mehrfamilienhaus in Bern mieten,/de/wohnung/junkerngasse-20-3011-bern/582662/,Junkerngasse 20,3011,Bern,3350,4,NaN
-1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3013-bern/582386/,no street available,3013,Bern,1010,1 ½,NaN
-4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weltpoststrasse-3a-3015-bern/576978/,Weltpoststrasse 3A,3015,Bern,2620,4 ½,102 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/winkelriedstr-11-3014-bern/582413/,Winkelriedstr. 11,3014,Bern,1270,2 ½,54 m²
+1 Zimmer-Wohnung in Bern mieten,/de/wohnung/wylerstrasse-71-3014-bern/582332/,Wylerstrasse 71,3014,Bern,990,1,32 m²
 4 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/froschweg-11-3098-schliern-b-koniz/581077/,Froschweg 11,3098,Schliern,2010,4 ½,107 m²
+1 Zimmer-Wohnung in Wabern mieten,/de/wohnung/funkstrasse-96-3084-wabern/581717/,Funkstrasse 96,3084,Wabern,915,1,25 m²
 4 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/schaufelweg-114-3098-schliern-b-koniz/580176/,Schaufelweg 114,3098,Schliern,1740,4 ½,80 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/schloss-strasse-143-3008-bern/581622/,Schloss-Strasse 143,3008,Bern,1450,3,64 m²
-2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bachstrasse-6-3072-ostermundigen/581838/,Bachstrasse 6,3072,Ostermundigen,1290,2 ½,51 m²
 1 Zimmer-Wohnung in Gümligen mieten,/de/wohnung/eigerweg-14-3073-gumligen/581729/,Eigerweg 14,3073,Gümligen,760,1,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/europaplatz-1b-3008-bern/581607/,Europaplatz 1B,3008,Bern,2415,2 ½,88 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/wankdorffeldstrasse-101-3014-bern/581373/,Wankdorffeldstrasse 101,3014,Bern,1620,2,64 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/bumplizstrasse-200-3018-bern/580178/,Bümplizstrasse 200,3018,Bern,1190,2,NaN
-4 ½ Zimmer-Wohnung in Muri bei Bern mieten,/de/wohnung/kraygenweg-89-3074-muri-bei-bern/581065/,Kräygenweg 89,3074,Muri,2950,4 ½,170 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/riedbachstrasse-77-3027-bern/580442/,Riedbachstrasse 77,3027,Bern,1470,2 ½,54 m²
+2 Zimmer-Wohnung in Wabern mieten,/de/wohnung/funkstrasse-108-3084-wabern/580268/,Funkstrasse 108,3084,Wabern,1130,2,51 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/europaplatz-1b-3008-bern/580441/,Europaplatz 1B,3008,Bern,2415,2 ½,88 m²
-1 Zimmer-Wohnung in Bern mieten,/de/wohnung/looslistrasse-43-3027-bern/594838/,Looslistrasse 43,3027,Bern,1000,1,30 m²
-4 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/bleichestrasse-7-3066-stettlen/579577/,Bleichestrasse 7,3066,Stettlen,1950,4 ½,94 m²
 3 ½ Zimmer-Wohnung in Worblaufen mieten,/de/wohnung/lindenhofstrasse-22-3048-worblaufen/579678/,Lindenhofstrasse 22,3048,Worblaufen,1470,3 ½,NaN
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/hirschengraben-6-3011-bern/579000/,Hirschengraben 6,3011,Bern,2570,3 ½,107 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/eigerstr-58-3007-bern/578987/,Eigerstr. 58,3007,Bern,1415,2,43 m²
@@ -269,133 +260,110 @@ Wohnung in Bern mieten,/de/wohnung/gigonweg-19-3027-bern/599999/,Gigonweg 19,302
 1 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/brunngasse-30-3011-bern/575712/,Brunngasse 30,3011,Bern,1470,1 ½,33 m²
 4 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/koniztalstrasse-8-3098-koniz/575473/,Köniztalstrasse 8,3098,Köniz,1760,4 ½,81 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/bumplizstrasse-3027-bern/575436/,Bümplizstrasse,3027,Bern,1430,3 ½,NaN
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/landoltstrasse-107-3007-bern/574966/,Landoltstrasse 107,3007,Bern,1415,2 ½,NaN
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/jurastrasse-17-3013-bern/572128/,Jurastrasse 17,3013,Bern,1780,3,70 m²
-3 ½ Zimmer-Wohnung in Thörishaus mieten,/de/wohnung/oberriedstrasse-3174-thorishaus/574515/,Oberriedstrasse,3174,Thörishaus,1330,3 ½,NaN
-3 ½ Zimmer-Wohnung in Niederwangen mieten,/de/wohnung/wangenthalstrasse-64-3172-niederwangen/587648/,Wangenthalstrasse,3172,Niederwangen,1550,3 ½,86 m²
-4 ½ Zimmer-Haus in Belpberg mieten,/de/wohnung/fuchsacker-28-3124-belpberg/574044/,Fuchsacker 28,3124,Belpberg,1300,4 ½,140 m²
 4 Zimmer-Dachwohnung in Bern mieten,/de/wohnung/junkerngasse-23-3011-bern/573785/,Junkerngasse 23,3011,Bern,3190,4,125 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/marktgasse-17-3011-bern/573168/,Marktgasse 17,3011,Bern,2330,2,68 m²
-3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/haberlimatteweg-11-3052-zollikofen/556457/,Häberlimatteweg 11,3052,Zollikofen,1760,3 ½,92 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/effingerstr-109-3008-bern/541859/,Effingerstr. 109,3008,Bern,1360,2 ½,64 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/altenbergstrasse-80-3013-bern/573166/,Altenbergstrasse 80,3013,Bern,1690,2 ½,58 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/monreposweg-12-3008-bern/573164/,Monreposweg 12,3008,Bern,1650,3,NaN
 4 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/kranichweg-1-3074-muri-b-bern/498234/,Kranichweg 1,3074,Muri,2100,4 ½,97 m²
-3 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/meienstrasse-3052-zollikofen/572054/,Meienstrasse,3052,Zollikofen,1297,3,65 m²
 2 ½ Zimmer-Attikawohnung in Ittigen mieten,/de/wohnung/untere-zollgasse-135-3063-ittigen/572032/,untere Zollgasse 135,3063,Ittigen,2050,2 ½,NaN
 3 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/jennershausweg-29-3098-koniz/571867/,Jennershausweg 29,3098,Köniz,1540,3 ½,80 m²
-4 ½ Zimmer-Wohnung in Niederwangen b. Bern mieten,/de/wohnung/bruggbuhlstrasse-45-3172-niederwangen-b-bern/570594/,Brüggbühlstrasse 45,3172,Niederwangen,1820,4 ½,NaN
 2 Zimmer-Maisonette in Spiegel bei Bern mieten,/de/wohnung/hohle-gasse-10-3095-spiegel-bei-bern/571335/,Hohle Gasse 10,3095,Spiegel,1310,2,53 m²
-4 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/villettengassli-24b-3074-muri-b-bern/570977/,Villettengässli 24b,3074,Muri,3590,4 ½,135 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/huberstrasse-14-3008-bern/570557/,Huberstrasse 14,3008,Bern,1215,2,51 m²
 2 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-65-3063-ittigen/555414/,Jurastrasse 65,3063,Ittigen,1510,2 ½,84 m²
-3 ½ Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/sandstrasse-106-3302-moosseedorf/568997/,Sandstrasse 106,3302,Moosseedorf,1890,3 ½,81 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/forelstr-46-3072-ostermundigen/570409/,Forelstr. 46,3072,Ostermundigen,1554,3 ½,81 m²
-2 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/bernapark-23-3066-stettlen/570399/,Bernapark 23,3066,Stettlen,1760,2 ½,51 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/hintere-engehaldestrasse-12-3004-bern/557921/,Hintere Engehaldestrasse 12,3004,Bern,1625,2 ½,86 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/wylerstrasse-71-3014-bern/570356/,Wylerstrasse 71,3014,Bern,1450,2,56 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/weissensteinstrasse-49-d-3007-bern/570017/,Weissensteinstrasse 49 D,3007,Bern,1360,2,55 m²
 2 Zimmer-Wohnung in Bern mieten,/de/wohnung/fabrikstrasse-29-b-3012-bern/570149/,Fabrikstrasse 29 B,3012,Bern,1390,2,52 m²
-2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/waldmeisterstrasse-44-3018-bern/570139/,Waldmeisterstrasse 44,3018,Bern,1420,2 ½,53 m²
-2 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/thunstrasse-192-3074-muri-b-bern/570138/,Thunstrasse 192,3074,Muri,1211,2 ½,45 m²
-4 ½ Zimmer-Wohnung in Niederscherli mieten,/de/wohnung/schwarzenburgstrasse-753-3145-niederscherli/570132/,Schwarzenburgstrasse 753,3145,Niederscherli,1710,4 ½,NaN
-3 ½ Zimmer-Wohnung in Gümligen mieten,/de/wohnung/turbenweg-1-b-3073-gumligen/570123/,Turbenweg 1 B,3073,Gümligen,2935,3 ½,99 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/holligenstrasse-35-3008-bern/570111/,Holligenstrasse 35,3008,Bern,1710,3,75 m²
 3 ½ Zimmer-Wohnung in Kehrsatz mieten,/de/wohnung/bleikenmattstrasse-3-3122-kehrsatz/570100/,Bleikenmattstrasse 3,3122,Kehrsatz,1760,3 ½,85 m²
-3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weidgasse-10-3018-bern/570096/,Weidgasse 10,3018,Bern,1510,3 ½,75 m²
-3 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenblickstrasse-16-3052-zollikofen/570094/,Alpenblickstrasse 16,3052,Zollikofen,1430,3,87 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/breitenrainstrasse-27-3013-bern/570083/,Breitenrainstrasse 27,3013,Bern,1990,3 ½,75 m²
 3 Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/aarestrasse-30-3052-zollikofen/570080/,Aarestrasse 30,3052,Zollikofen,1330,3,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weissenbuhlweg-40-b-3007-bern/570066/,Weissenbühlweg 40 B,3007,Bern,1730,2 ½,65 m²
-3 Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/thunstrasse-192-3074-muri-b-bern/570059/,Thunstrasse 192,3074,Muri,1440,3,72 m²
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weissenbuhlweg-40-cd-3007-bern/570042/,Weissenbühlweg 40 C/D,3007,Bern,1990,3 ½,NaN
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/rodtmattstrasse-55-3014-bern/570037/,Rodtmattstrasse 55,3014,Bern,1750,3,NaN
 3 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/obere-zollgasse-60-3072-ostermundigen/570036/,Obere Zollgasse 60,3072,Ostermundigen,1250,3,NaN
 2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/obere-zollgasse-51a-3072-ostermundigen/570025/,Obere Zollgasse 51A,3072,Ostermundigen,1360,2 ½,NaN
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/zieglerstrasse-36-3007-bern/570022/,Zieglerstrasse 36,3007,Bern,935,1,31 m²
-3 ½ Zimmer-Wohnung in Niederscherli mieten,/de/wohnung/schwarzenburgstrasse-753-3145-niederscherli/570013/,Schwarzenburgstrasse 753,3145,Niederscherli,1390,3 ½,NaN
+3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/weissenbuhlweg-40-a-3007-bern/570009/,Weissenbühlweg 40 A,3007,Bern,2040,3 ½,82 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/nelkenweg-3-3006-bern/569996/,Nelkenweg 3,3006,Bern,2390,3,NaN
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/nelkenweg-3-3006-bern/569995/,Nelkenweg 3,3006,Bern,2190,3,NaN
-1 Zimmer-Studio in Zollikofen mieten,/de/wohnung/meielenfeldweg-1-3052-zollikofen/569991/,Meielenfeldweg 1,3052,Zollikofen,1100,1,40 m²
-3 ½ Zimmer-Wohnung in Bolligen mieten,/de/wohnung/huhnerbuhlstrasse-20-3065-bolligen/569989/,Hühnerbühlstrasse 20,3065,Bolligen,1670,3 ½,84 m²
-3 ½ Zimmer-Wohnung in Niederscherli mieten,/de/wohnung/schwarzenburgstrasse-753-3145-niederscherli/569981/,Schwarzenburgstrasse 753,3145,Niederscherli,1390,3 ½,NaN
 3 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/wilkerstrasse-76-3097-liebefeld/569937/,Wilkerstrasse 76,3097,Liebefeld,1990,3 ½,80 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/werkgasse-56-3018-bern/569752/,Werkgasse 56,3018,Bern,1770,3,67 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/3012-bern/569568/,no street available,3012,Bern,1650,2 ½,65 m²
-3 Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/schulhausstr-21-3302-moosseedorf/406619/,Schulhausstr. 21,3302,Moosseedorf,1285,3,79 m²
 2 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/haselholzweg-24-3098-schliern-b-koniz/561203/,Haselholzweg 24,3098,Schliern,1270,2 ½,NaN
-3 ½ Zimmer-Wohnung in moosseedorf mieten,/de/wohnung/3302-moosseedorf/559017/,no street available,3302,moosseedorf,1500,3 ½,70 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/zypressenstrasse-40-3018-bern/558645/,Zypressenstrasse 40,3018,Bern,1160,3,68 m²
 3 ½ Zimmer-Wohnung in Herrenschwanden mieten,/de/wohnung/dettigenstrasse-3-3037-herrenschwanden/557894/,Dettigenstrasse 3,3037,Herrenschwanden,2310,3 ½,98 m²
-3 ½ Zimmer-Wohnung in Muri bei Bern mieten,/de/wohnung/krayigenweg-93-3074-muri-bei-bern/557736/,Kräyigenweg 93,3074,Muri,2080,3 ½,92 m²
 4 ½ Zimmer-Wohnung in Herrenschwanden mieten,/de/wohnung/dettigenstrasse-3-3037-herrenschwanden/557658/,Dettigenstrasse 3,3037,Herrenschwanden,3195,4 ½,153 m²
 2 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-51-3063-ittigen/538671/,Jurastrasse 51,3063,Ittigen,1750,2 ½,96 m²
 2 ½ Zimmer-Dachwohnung in Bern mieten,/de/wohnung/lagerweg-4-3013-bern/557248/,Lagerweg 4,3013,Bern,1430,2 ½,50 m²
-3 ½ Zimmer-Attikawohnung in Zollikofen mieten,/de/wohnung/schulhausstrasse-27-3052-zollikofen/556785/,Schulhausstrasse 27,3052,Zollikofen,2330,3 ½,86 m²
 2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/unterdorfstrasse-37-3072-ostermundigen/556655/,Unterdorfstrasse 37,3072,Ostermundigen,1630,2 ½,56 m²
-2 Zimmer-Attikawohnung in Kirchlindach mieten,/de/wohnung/nuchternweg-12-3038-kirchlindach/555722/,Nüchternweg 12,3038,Kirchlindach,1600,2,55 m²
-4 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/im-baumgarten-2-3066-stettlen/550790/,Im Baumgarten 2,3066,Stettlen,2050,4 ½,102 m²
 2 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-25-3063-ittigen/542772/,Jurastrasse 25,3063,Ittigen,1330,2 ½,63 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/effingerstrasse-41d-3008-bern/555879/,Effingerstrasse 41d,3008,Bern,2230,2 ½,88 m²
 4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/effingerstrasse-41d-3008-bern/555876/,Effingerstrasse 41d,3008,Bern,4740,4 ½,192 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/effingerstrasse-41d-3008-bern/555874/,Effingerstrasse 41d,3008,Bern,2990,3 ½,118 m²
 3 Zimmer-Wohnung in Bolligen mieten,/de/wohnung/lutertalstrasse-39-3065-bolligen/555462/,Lutertalstrasse 39,3065,Bolligen,1690,3,84 m²
-4 ½ Zimmer-Wohnung in Wohlen bei Bern mieten,/de/wohnung/oberwohlenstrasse-30-3033-wohlen-bei-bern/555269/,Oberwohlenstrasse 30,3033,Wohlen,4020,4 ½,137 m²
 3 Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/wabersackerstr-79-3097-liebefeld/554219/,Wabersackerstr. 79,3097,Liebefeld,1580,3,69 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/hochfeldstrasse-69-3012-bern/553930/,Hochfeldstrasse 69,3012,Bern,1600,2 ½,62 m²
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/falkenweg-8-3012-bern/553553/,Falkenweg 8,3012,Bern,1590,2 ½,NaN
-5 ½ Zimmer-Wohnung in Ortschwaben mieten,/de/wohnung/schutzenrain-9-3042-ortschwaben/553539/,Schützenrain 9,3042,Ortschwaben,1880,5 ½,116 m²
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/neuhausweg-21-3027-bern/543460/,Neuhausweg 21,3027,Bern,1495,3,NaN
+2 ½ Zimmer-Wohnung in bern mieten,/de/wohnung/3008-bern/552987/,no street available,3008,bern,1375,2 ½,50 m²
 4 ½ Zimmer-Wohnung in Muri b. Bern mieten,/de/wohnung/kranichweg-3-3074-muri-b-bern/499408/,Kranichweg 3,3074,Muri,2110,4 ½,97 m²
+1 Zimmer-Loft in Ostermundigen mieten,/de/wohnung/untere-zollgasse-5-3072-ostermundigen/552266/,Untere Zollgasse 5,3072,Ostermundigen,1590,1,66 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/3004-bern/551920/,no street available,3004,Bern,1610,3,60 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/beaulieustrasse-49-3012-bern/551705/,Beaulieustrasse 49,3012,Bern,1570,3,70 m²
 2 ½ Zimmer-Wohnung in Herrenschwanden mieten,/de/wohnung/dettigenstrasse-1b-3037-herrenschwanden/551410/,Dettigenstrasse  1b,3037,Herrenschwanden,1490,2 ½,NaN
-3 Zimmer-Wohnung in Bern mieten,/de/wohnung/wangenstrasse-96-3018-bern/551310/,Wangenstrasse 96,3018,Bern,1500,3,72 m²
 3 Zimmer-Wohnung in Köniz mieten,/de/wohnung/blinzernfeldweg-12-3098-koniz/550477/,Blinzernfeldweg 12,3098,Köniz,1490,3,65 m²
 1 Zimmer-Wohnung in Bern mieten,/de/wohnung/waldheimstrasse-6-3012-bern/550693/,waldheimstrasse 6,3012,Bern,1300,1,NaN
 5 ½ Zimmer-Wohnung in Herrenschwanden mieten,/de/wohnung/dettigenstrasse-1b-3037-herrenschwanden/549746/,Dettigenstrasse 1b,3037,Herrenschwanden,3210,5 ½,138 m²
 3 ½ Zimmer-Wohnung in Herrenschwanden mieten,/de/wohnung/dettigenstrasse-1c-3037-herrenschwanden/549745/,Dettigenstrasse 1c,3037,Herrenschwanden,1990,3 ½,82 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/schonburgstrasse-19-3013-bern/549329/,Schönburgstrasse 19,3013,Bern,1995,3 ½,70 m²
-2 ½ Zimmer-Wohnung in Rüfenacht BE mieten,/de/wohnung/scheyenholzstrasse-15-3075-rufenacht-be/549319/,Scheyenholzstrasse 15,3075,Rüfenacht,1250,2 ½,NaN
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/asterweg-20-3004-bern/548859/,Asterweg 20,3004,Bern,1950,3 ½,90 m²
 2 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/schwarzenburgstr-73-geb-a-3097-liebefeld/548449/,Schwarzenburgstr. 73 / Geb. A,3097,Liebefeld,1640,2 ½,49 m²
 3 ½ Zimmer-Wohnung in Schliern b. Köniz mieten,/de/wohnung/spuhlirain-33-3098-schliern-b-koniz/547791/,Spühlirain 33,3098,Schliern,1380,3 ½,NaN
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/seftigenstrasse-44-3007-bern/547643/,Seftigenstrasse 44,3007,Bern,1410,2,48 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/nordweg-6-3013-bern/546547/,Nordweg 6,3013,Bern,2480,3 ½,85 m²
-4 ½ Zimmer-Wohnung in Mittelhäusern befristet mieten,/de/wohnung/schwarzenburgstrasse-3147-mittelhausern-befristet/546256/,Schwarzenburgstrasse,3147,Mittelhäusern,1000,4 ½,NaN
 2 ½ Zimmer-Wohnung in Liebefeld mieten,/de/wohnung/schwarzenburgstr-73-geb-a-3097-liebefeld/545685/,Schwarzenburgstr. 73 / Geb. A,3097,Liebefeld,1590,2 ½,49 m²
-4 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/alpenstrasse-59-3052-zollikofen/544286/,Alpenstrasse 59,3052,Zollikofen,2040,4 ½,105 m²
+2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-119-3072-ostermundigen/545671/,Bernstrasse 119,3072,Ostermundigen,1380,2 ½,59 m²
+1 Zimmer-Wohnung in Bern mieten,/de/wohnung/marktgasse-20-3011-bern/545210/,Marktgasse 20,3011,Bern,1120,1,32 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/ostring-21-3006-bern/541478/,Ostring 21,3006,Bern,1390,2 ½,73 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/morillonstr-40-3007-bern/530506/,Morillonstr. 40,3007,Bern,1390,2 ½,65 m²
 2 Zimmer-Dachwohnung in Bern mieten,/de/wohnung/zeughausgasse-27-wohnungen-3011-bern/542277/,Zeughausgasse 27,3011,Bern,2185,2,65 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/ankerstrasse-27-3006-bern/541517/,Ankerstrasse 27,3006,Bern,1645,3,76 m²
+2 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-34b-3072-ostermundigen/540944/,Bernstrasse 34b,3072,Ostermundigen,1448,2 ½,59 m²
+4 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/wiesenstrasse-62-3072-ostermundigen/537838/,Wiesenstrasse 62,3072,Ostermundigen,1700,4 ½,89 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/talweg-8-3008-bern/537825/,Talweg 8,3008,Bern,1340,2,NaN
 2 ½ Zimmer-Maisonette in Bern mieten,/de/wohnung/aarbergergasse-57-3011-bern/536440/,Aarbergergasse 57,3011,Bern,2375,2 ½,99 m²
-4 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/neuhausweg-25-3027-bern/535638/,Neuhausweg 25,3027,Bern,775,4 ½,113 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/schonauweg-14-3007-bern/534190/,Schönauweg,3007,Bern,1499,3 ½,77 m²
-5 ½ Zimmer-Wohnung in Muri mieten,/de/wohnung/thunstrasse-188-3074-muri/532433/,Thunstrasse 188,3074,Muri,2635,5 ½,162 m²
-4 ½ Zimmer-Wohnung in Belp mieten,/de/wohnung/birkenweg-30-3123-belp/532309/,Birkenweg 30,3123,Belp,1490,4 ½,NaN
-3 ½ Zimmer-Wohnung in Niederwangen b. Bern mieten,/de/wohnung/papillonallee-9-21-3172-niederwangen-b-bern/530255/,Papillonallee 9-21,3172,Niederwangen,1860,3 ½,86 m²
-2 ½ Zimmer-Wohnung in Niederwangen b. Bern mieten,/de/wohnung/papillonallee-9-21-3172-niederwangen-b-bern/530761/,Papillonallee 9-21,3172,Niederwangen,1525,2 ½,50 m²
-1 ½ Zimmer-Wohnung in Niederwangen b. Bern mieten,/de/wohnung/papillonallee-9-21-3172-niederwangen-b-bern/530779/,Papillonallee 9-21,3172,Niederwangen,1180,1 ½,42 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/kramgasse-45-3011-bern/533205/,Kramgasse 45,3011,Bern,2000,2,100 m²
 4 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-57-3063-ittigen/524581/,Jurastrasse 57,3063,Ittigen,1900,4 ½,100 m²
-4 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-51-3063-ittigen/524522/,Jurastrasse 51,3063,Ittigen,1830,4 ½,98 m²
 4 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-41-3063-ittigen/513592/,Jurastrasse 41,3063,Ittigen,2640,4 ½,162 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/pappelweg-8-3072-ostermundigen/525093/,Pappelweg 8,3072,Ostermundigen,1460,3 ½,64 m²
-4 ½ Zimmer-Wohnung in Stettlen mieten,/de/wohnung/bleichestrasse-11-3066-stettlen/530860/,Bleichestrasse 11,3066,Stettlen,1950,4 ½,94 m²
-3 ½ Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/laupenackerstr-18-3302-moosseedorf/530843/,Laupenackerstr. 18,3302,Moosseedorf,1480,3 ½,76 m²
 Loft in Liebefeld mieten,/de/wohnung/kirchstrasse-2-8-24-26-3097-liebefeld/527918/,Kirchstrasse 2-8 / 24-26,3097,Liebefeld,2526,NaN,139 m²
 4 Zimmer-Wohnung in Bern mieten,/de/wohnung/aegertenstrasse-57-3005-bern/528753/,Aegertenstrasse 57,3005,Bern,2790,4,NaN
 2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/aarbergergasse-35-3011-bern/528653/,Aarbergergasse 35,3011,Bern,1545,2 ½,NaN
-4 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-25-3072-ostermundigen/527608/,Bernstrasse 25,3072,Ostermundigen,3500,4 ½,108 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/nordweg-12-3013-bern/527577/,Nordweg 12,3013,Bern,2620,3 ½,90 m²
+4 Zimmer-Wohnung in Bern mieten,/de/wohnung/marktgasse-20-3011-bern/527096/,Marktgasse 20,3011,Bern,2660,4,114 m²
 3 Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-15-3072-ostermundigen/524747/,Bernstrasse 15,3072,Ostermundigen,1550,3,64 m²
+2 Zimmer-Wohnung in Bern mieten,/de/wohnung/kramgasse-45-3011-bern/525601/,Kramgasse 45,3011,Bern,2100,2,100 m²
+2 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/gantrischstrasse-8-3006-bern/524814/,Gantrischstrasse 8,3006,Bern,1525,2 ½,73 m²
 2 Zimmer-Wohnung in Bern-Fischermätteli mieten,/de/wohnung/konizstrasse-7779-3008-bern-fischermatteli/520509/,Könizstrasse 77/79,3008,Bern-Fischermätteli,1500,2,53 m²
 4 ½ Zimmer-Wohnung in Köniz mieten,/de/wohnung/koniztalstrasse-10-3098-koniz/517633/,Köniztalstrasse 10,3098,Köniz,1760,4 ½,81 m²
 3 ½ Zimmer-Wohnung in Bern mieten,/de/wohnung/kornhausplatz-7-3011-bern/517049/,Kornhausplatz 7,3011,Bern,3390,3 ½,118 m²
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/flurweg-12-3072-ostermundigen/509779/,Flurweg 12,3072,Ostermundigen,1610,3 ½,81 m²
-3 Zimmer-Wohnung in Gümligen mieten,/de/wohnung/bruggliweg-9-3073-gumligen/515969/,Brüggliweg 9,3073,Gümligen,1275,3,54 m²
-4 Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/schulhausstr-11-3302-moosseedorf/469968/,Schulhausstr. 11,3302,Moosseedorf,1469,4,91 m²
 3 Zimmer-Wohnung in Bern mieten,/de/wohnung/holligenstrasse-121-3008-bern/511575/,Holligenstrasse 121,3008,Bern,1545,3,73 m²
-4 ½ Zimmer-Wohnung in Belp mieten,/de/wohnung/hohburgstrasse-19-3123-belp/498740/,Hohburgstrasse 19,3123,Belp,1600,4 ½,79 m²
+4 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-35-3063-ittigen/497697/,Jurastrasse 35,3063,Ittigen,2690,4 ½,174 m²
+3 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-67-3063-ittigen/493012/,Jurastrasse 67,3063,Ittigen,1680,3 ½,84 m²
 4 ½ Zimmer-Wohnung in Belp mieten,/de/wohnung/brunnenstrasse-19-3123-belp/497589/,Brunnenstrasse 19,3123,Belp,1670,4 ½,NaN
 3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-25-3072-ostermundigen/490267/,Bernstrasse 25,3072,Ostermundigen,2540,3 ½,80 m²
-3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/schulhausstrasse-27a-3052-zollikofen/418167/,Schulhausstrasse 27a,3052,Zollikofen,2270,3 ½,90 m²
-3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/schulhausstrasse-27-3052-zollikofen/418166/,Schulhausstrasse 27,3052,Zollikofen,2260,3 ½,94 m²
-3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/schulhausstrasse-27-3052-zollikofen/417847/,Schulhausstrasse 27,3052,Zollikofen,2130,3 ½,99 m²
-4 ½ Zimmer-Wohnung in Moosseedorf mieten,/de/wohnung/laupenackerstr-14-3302-moosseedorf/454415/,Laupenackerstr. 14,3302,Moosseedorf,1600,4 ½,91 m²
+3 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-31-3063-ittigen/467983/,Jurastrasse 31,3063,Ittigen,1630,3 ½,85 m²
+3 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-25-3063-ittigen/472546/,Jurastrasse 25,3063,Ittigen,2800,3 ½,180 m²
+2 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-59-3063-ittigen/460125/,Jurastrasse 59,3063,Ittigen,1630,2 ½,87 m²
+4 ½ Zimmer-Wohnung in Ittigen mieten,/de/wohnung/jurastrasse-43-3063-ittigen/422926/,Jurastrasse 43,3063,Ittigen,1830,4 ½,100 m²
 3 ½ Zimmer-Wohnung in Worblaufen mieten,/de/wohnung/altikofenstrasse-8-3048-worblaufen/420913/,Altikofenstrasse 8,3048,Worblaufen,1536,3 ½,79 m²
-3 ½ Zimmer-Wohnung in Ostermundigen mieten,/de/wohnung/bernstrasse-25-3072-ostermundigen/399790/,Bernstrasse 25,3072,Ostermundigen,2555,3 ½,82 m²
+3 Zimmer-Wohnung in Bern mieten,/de/wohnung/beaumontweg-36-3007-bern/362106/,Beaumontweg 36,3007,Bern,1650,3,75 m²
 1 ½ Zimmer-Möblierte Wohnung in Bern mieten,/de/wohnung/trusselstrasse-4-3014-bern/331670/,Trüsselstrasse 4,3014,Bern,2310,1 ½,24 m²
 4 ½ Zimmer-Wohnung in Bolligen mieten,/de/wohnung/lutertalstr-60-3065-bolligen/287025/,Lutertalstr. 60,3065,Bolligen,2090,4 ½,141 m²
 3 ½ Zimmer-Wohnung in Zollikofen mieten,/de/wohnung/aarestr-2-3052-zollikofen/265161/,Aarestr. 2,3052,Zollikofen,1510,3 ½,77 m²
+2 ½ Zimmer-Maisonette in Ittigen mieten,/de/wohnung/jurastrasse-15-3063-ittigen/210468/,Jurastrasse 15,3063,Ittigen,1590,2 ½,84 m²
