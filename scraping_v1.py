@@ -19,7 +19,7 @@ from lxml import etree
 def saveHTML(city):
 
     cities = {"Zurich": "https://flatfox.ch/de/search/?east=8.572811&is_furnished=false&north=47.408009&object_category=APARTMENT&offer_type=RENT&ordering=date&south=47.332499&west=8.490712",
-              "Basel": "https://flatfox.ch/de/search/?east=7.607400&north=47.576503&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Basel&south=47.526936&west=7.558103",
+              "Basel": "https://flatfox.ch/de/search/?east=7.609728&is_furnished=false&north=47.576021&object_category=APARTMENT&offer_type=RENT&ordering=date&query=Basel&south=47.534973&west=7.564940",
               "Bern": "https://flatfox.ch/de/search/?east=7.478484&north=46.977448&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Bern&south=46.908242&west=7.410441",
               "Winterthur": "https://flatfox.ch/de/search/?east=8.764165&north=47.536288&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Winterthur&south=47.447408&west=8.675868",
               "Luzern": "https://flatfox.ch/de/search/?east=8.332481&north=47.077942&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Luzern&south=47.011487&west=8.267018"}
@@ -116,11 +116,12 @@ def area(soup):
 
 
 def main(city):
+
+    csv_file = open(f"flatfox_src.csv", "w", newline='')
+    csv_writer = csv.writer(csv_file)
+    csv_writer.writerow(["Titel", 'Path', "Streetname", "Postalcode", "Location", "Price", 'Rooms', 'Area'])
+    a = 0
     for c in city:
-        csv_file = open(f"flatfox_{c}.csv", "w", newline='')
-        csv_writer = csv.writer(csv_file)
-        csv_writer.writerow(["Titel", 'Path', "Streetname", "Postalcode", "Location", "Price", 'Rooms', 'Area'])
-        a = 0
         with open(f'flatfox_{c}.html', 'r') as html_file:
             content = html_file.read()
             soup = BeautifulSoup(content, 'lxml')
@@ -155,22 +156,38 @@ def main(city):
 
                 print(f'{a} - {c}: DONE')
 
-        csv_file.close()
+    csv_file.close()
 
 def file():
-    file = pd.read_csv('flatfox_all.csv')
+    file = pd.read_csv('flatfox_src.csv')
     # print(file)
     # print(file['Titel'])
+
     file2 = pd.DataFrame(file, columns=['Streetname', 'Postalcode', 'Location', 'Rooms', 'Area', 'Price'])
     file2.rename(columns = {'Streetname':'Strasse', 'Postalcode':'Postleitzahl', 'Location':'Ort', 'Rooms':'Anzahl Zimmer', 'Area':'Flaeche [m2]', 'Price':'Preis [CHF]'}, inplace=True)
 
+    # changing "no street available" with an empty field.
     file2['Strasse'] = np.where(file2['Strasse'] == 'no street available', '', file2['Strasse'])
+    # changing "Anfrage" with an empty field
     file2['Preis [CHF]'] = np.where(file2['Preis [CHF]'] == 'Anfrage', '', file2['Preis [CHF]'])
 
+    # taking out "m2"
+    file2["Flaeche [m2]"] = file2["Flaeche [m2]"].str.rsplit().str[0]
 
-    print(file2['Strasse'])
+    # changing "1/2" with ".5"
+    file2["Anzahl Zimmer"] = file2["Anzahl Zimmer"].str.replace(" ½", ".5", regex=True)
 
-    file2.to_csv('flat.csv', index=False)
+    # "Lucerne" to "Luzern"
+    file2["Ort"] = file2["Ort"].replace('Lucerne', 'Luzern')
+    # "Zurich" to "Zürich"
+    file2["Ort"] = file2["Ort"].replace('Zurich', 'Zürich')
+
+    # some Locations are written with lowercase letters
+    file2["Ort"] = file2["Ort"].str.capitalize()
+
+    file2.drop(file2[(file2['Ort'] != "Zürich") & (file2['Ort'] != "Basel") & (file2['Ort'] != "Bern") & (file2['Ort'] != "Winterthur") & (file2['Ort'] != "Luzern")].index, inplace=True)
+
+    file2.to_csv('flatfox_stage.csv', index=False)
 
 
 
@@ -179,12 +196,8 @@ if __name__ == '__main__':
 
     city = ['Zurich', 'Basel', 'Bern', 'Winterthur', 'Luzern']
 
-    saveHTML(city)
-    main(city)
-    # file()
-    # x = "/de/wohnung/unterm-stallen-13-haus-b-4104-oberwil-bl/502721/"
-    # adress(x)
-
-    # print(cities["Zurich"])
+    # saveHTML(city)
+    # main(city)
+    file()
 
     print(f"{(time.time() - start_time)/60} minutes")
