@@ -196,8 +196,8 @@ if __name__ == '__main__':
 
     city = ['Zurich', 'Basel', 'Bern', 'Winterthur', 'Luzern']
 
-    # saveHTML(city)
-    # main(city)
+    saveHTML(city)
+    main(city)
     file()
 
     print(f"{(time.time() - start_time)/60} minutes")
