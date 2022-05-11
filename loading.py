@@ -35,28 +35,21 @@ def datatypes():
     return data
 
 
-def analyse(data):
+def mean_price_plz(data):
     """
-    idee:
-    1. filter nach Stadt. (loop Zh bis Lu
-    1.2 filter nach postleizahl (6000, 6003 etc)
-    2. Filter nach Anzahl zimmer. (loop 1.0 bis 7.0)
-        Danach mean(quadratmeter) und mean(Preis)
-    3. Preis / quadratmeter
-
+    This function calculates the mean price per square meter for the cities Zürich, Bern, Basel, Winterthur and Lucerne.
+    It also takes into consideration how many rooms the appartment have and the postalcodes.
+    ex: Lucerne, 6003, 1 room, mean_price/m2
+        Lucerne, 6003, 1.5 room, mean_price/m2
+        etc.
+    So there is an iteration through the cities, postalcodes and amount of rooms.
     """
-
     data = data.sort_values('Postleitzahl')
     cities = data["Ort"].unique()
-    # rooms = data['Anzahl Zimmer'].unique()
-    # rooms.sort()
 
+    df = pd.DataFrame()
     for c in cities:
         plz = data[data["Ort"] == c]['Postleitzahl'].unique().dropna()
-        # print(plz)
-
-        # print(f'{c}: {plz}')
-
 
         for p in plz:
             rooms = data[(data['Ort'] == c) & (data['Postleitzahl'] == p)]['Anzahl Zimmer'].unique()
@@ -65,44 +58,51 @@ def analyse(data):
             rooms = rooms[not_nan_array]
             rooms.sort()
 
-            # print(rooms)
-
             for r in rooms:
-                # print(f'city: {c}, plz: {p}, zimmer: {r}')
-
                 abc = data[(data['Ort'] == c) & (data['Postleitzahl'] == p) & (data['Anzahl Zimmer'] == r)]
                 mean_price = abc["Preis CHF"].mean()
                 mean_area = abc['Flaeche m2'].mean()
                 mean_per_area = mean_price / mean_area
-                # abc.to_csv(f'{c}_{p}_{r}.csv', index = False)
-                # print(f'appartments: {abc} in {p} and room size {r}______________________')
 
-                print(f'city: {c}, plz: {p}, zimmer: {r}, preis: {mean_price}, area: {mean_area}, price per m2: {mean_per_area} ')
+                df = df.append({'city':c , 'plz':p , 'rooms':r, 'chf/m2':mean_per_area }, ignore_index=True)
+                df.to_csv('results.csv', index=False)
 
-                csv_file = open(f"results.csv", "w", newline='')
-                csv_writer = csv.writer(csv_file)
-                csv_writer.writerow(["City", 'PLZ', "1.0", "1.5", "2.0", "2.5", '3.', '3.5', '4.', '4.5', '5.', '5.5', '6.', '6.5'])
+    print(df)
 
-                row = []
-                row.append(c)
-                row.append(p)
-                row.append(r)
+def mean_price_location(data):
+    """
+    This function calculates the mean price per square meter for the cities Zürich, Bern, Basel, Winterthur and Lucerne.
+    It does not distinguish between the individual postalcodes, but it takes into consideration the amount of rooms.
+    ex. Lucerne, 1 room, mean_price/m2
+        Lucerne, 1.5 room, mean_price/2
+        etc.
+    """
+    cities = data["Ort"].unique()
 
+    df = pd.DataFrame()
+    for c in cities:
+        # plz = data[data["Ort"] == c]
+        # print(plz)
+        # plz.to_csv('a.csv', index=False)
 
-                csv_writer.writerow(row)
+        rooms = data[data['Ort'] == c]['Anzahl Zimmer'].unique()
+        nan_array = np.isnan(rooms)
+        not_nan_array = ~ nan_array
+        rooms = rooms[not_nan_array]
+        rooms.sort()
+        print(rooms)
 
+        for r in rooms:
+            abc = data[(data['Ort'] == c) & (data['Anzahl Zimmer'] == r)]
+            mean_price = abc["Preis CHF"].mean()
+            mean_area = abc['Flaeche m2'].mean()
+            mean_per_area = mean_price / mean_area
 
-                csv_file.close()
-
-
-
-    # mean_price = d_luzern_6003_1_0["Preis CHF"].mean()
-    # print(mean_price)
-    #         d_luzern_6003.to_csv(f'Lu_{plz}.csv', index=False)
-
-
+            df = df.append({'city':c , 'rooms':r, 'chf/m2':mean_per_area }, ignore_index=True)
+            df.to_csv('results_ohne_plz.csv', index=False)
 
 
 if __name__ == '__main__':
         data = datatypes()
-        analyse(data)
+        mean_price_plz(data)
+        mean_price_location(data)
