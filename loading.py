@@ -102,6 +102,7 @@ def mean_price_location(data):
             df.to_csv('results_ohne_plz.csv', index=False)
 
 
+
 if __name__ == '__main__':
         data = datatypes()
         mean_price_plz(data)
