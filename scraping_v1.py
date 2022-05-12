@@ -14,6 +14,8 @@ import numpy as np
 import time
 import csv
 from lxml import etree
+# import mariadb
+
 
 
 def saveHTML(city):
@@ -116,10 +118,7 @@ def area(soup):
 
 
 def main(city):
-
-    csv_file = open(f"flatfox_src.csv", "w", newline='')
-    csv_writer = csv.writer(csv_file)
-    csv_writer.writerow(["Titel", 'Path', "Streetname", "Postalcode", "Location", "Price", 'Rooms', 'Area'])
+    df = pd.DataFrame()
     a = 0
     for c in city:
         with open(f'flatfox_{c}.html', 'r') as html_file:
@@ -142,27 +141,22 @@ def main(city):
                 roomamoount = room(soup)
                 areasize = area(soup)
 
-                row = []
-                row.append(titlename)
-                row.append(path)
-                row.append(streetname)
-                row.append(zip)
-                row.append(location)
-                row.append(priceamount)
-                row.append(roomamoount)
-                row.append(areasize)
-
-                csv_writer.writerow(row)
+                df = df.append({"Titel": titlename,
+                                "Path": path,
+                                "Streetname": streetname,
+                                "Postalcode": zip,
+                                "Location": location,
+                                "Price": priceamount,
+                                "Rooms": roomamoount,
+                                "Area": areasize}, ignore_index=True)
+                df.to_csv('flatfox_src.csv', index=False)
 
                 print(f'{a} - {c}: DONE')
 
-    csv_file.close()
+def cleaning():
+    file = pd.read_csv('flatfox_src2.csv')
 
-def file():
-    file = pd.read_csv('flatfox_src.csv')
-    # print(file)
-    # print(file['Titel'])
-
+    # changing order of columns and renaming it
     file2 = pd.DataFrame(file, columns=['Streetname', 'Postalcode', 'Location', 'Rooms', 'Area', 'Price'])
     file2.rename(columns = {'Streetname':'Strasse', 'Postalcode':'Postleitzahl', 'Location':'Ort', 'Rooms':'Anzahl Zimmer', 'Area':'Flaeche [m2]', 'Price':'Preis [CHF]'}, inplace=True)
 
@@ -182,22 +176,74 @@ def file():
     # "Zurich" to "Zürich"
     file2["Ort"] = file2["Ort"].replace('Zurich', 'Zürich')
 
+    # changing all streets which ends with "Strasse" to "str."
+    file2["Strasse"] = file2['Strasse'].replace('[sS]trasse', 'str.', regex=True)
+
     # some Locations are written with lowercase letters
     file2["Ort"] = file2["Ort"].str.capitalize()
+    # some streets are written with lowercase letters. With 'capitalize()' would only the first word in the streetname be written Uppercase.
+    # with "title()" every word in a string is capitalized.
+    file2['Strasse'] = file2['Strasse'].str.title()
+
+    # The streetname and streetnumber of this "30 Aprikosenstr." street is written visa versa.
+    # This for loop below checks if the streetname is written before the streetnumber and changes the order.
+    for s in file2['Strasse']:
+        street = s.split(' ')
+        try:
+            check = street[0][0].isalpha() #checking if first character is a letter. if street starts with an Number the order has to be swapped.
+            if not check:
+                str = street[1]
+                nr = street[0]
+                oldstreet = f'{nr} {str}'
+                newstreet = f'{str} {nr}'
+                file2['Strasse'] = file2['Strasse'].replace(oldstreet, newstreet, regex=True)
+        except:
+            pass
 
     file2.drop(file2[(file2['Ort'] != "Zürich") & (file2['Ort'] != "Basel") & (file2['Ort'] != "Bern") & (file2['Ort'] != "Winterthur") & (file2['Ort'] != "Luzern")].index, inplace=True)
 
     file2.to_csv('flatfox_stage.csv', index=False)
 
-
+# def upload():
+#     try:
+#         conn = mariadb.connect(
+#             user="admin",
+#             password='password',
+#             host='localhost',
+#             port=3306,
+#             database='testdatabase'
+#         )
+#
+#         cur = conn.cursor()
+#
+#         cur.execute("CREATE or REPLACE TABLE testtable12345(\
+#                         Strasse VARCHAR(255),\
+#                         Postleitzahl Int(4),\
+#                         Ort VARCHAR(25),\
+#                         Anzahl_Zimmer FLOAT,\
+#                         Flaeche Int(10),\
+#                         Preis Int(10)\
+#                         );")
+#
+#         cur.execute("LOAD DATA LOCAL INFILE 'flatfox_stage.csv' INTO TABLE testtable12345 \
+#                         FIELDS TERMINATED BY ',' (\
+#                         Strasse, Postleitzahl, Ort, Anzahl_Zimmer, Flaeche, Preis \
+#                         )")
+#
+#         conn.commit()
+#
+#     except mariadb.Error as e:
+#         print(f"there was an error: {e}")
+#
 
 if __name__ == '__main__':
     start_time = time.time()
 
     city = ['Zurich', 'Basel', 'Bern', 'Winterthur', 'Luzern']
 
-    saveHTML(city)
-    main(city)
-    file()
+    # saveHTML(city)
+    # main(city)
+    # cleaning()
+    # upload()
 
     print(f"{(time.time() - start_time)/60} minutes")
