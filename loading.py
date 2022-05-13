@@ -2,21 +2,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-import time
-import csv
-import os
-from bs4 import BeautifulSoup
-import requests
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-
-from urllib.request import Request, urlopen
-
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-
-
 def datatypes():
     """
     Changing the datatype of some columns. The datatype for prices, area etc has to be a float.
@@ -35,7 +20,6 @@ def datatypes():
 
     data.to_csv('clean.csv', index=False)
     return data
-
 
 def mean_price_room_plz(data):
     """
@@ -85,10 +69,6 @@ def mean_price_location(data):
 
     df = pd.DataFrame()
     for c in cities:
-        # plz = data[data["Ort"] == c]
-        # print(plz)
-        # plz.to_csv('a.csv', index=False)
-
         rooms = data[data['Ort'] == c]['Anzahl Zimmer'].unique()
         nan_array = np.isnan(rooms)
         not_nan_array = ~ nan_array
@@ -133,33 +113,24 @@ def plot_price_room():
     cities = list(dict.fromkeys(cities))
 
     for city in cities:
-        name = f'd_{city}'
         name = data[data['city'] == city]
         rooms = []
         for r in name['rooms']:
             rooms.append(r)
-        print(rooms)
+
         price = []
         for p in name['chf/m2']:
             price.append(p)
-        print(price)
 
         x = np.arange(len(rooms))  # the label locations
         width = 0.75  # the width of the bars
-
         fig, ax = plt.subplots()
         rects1 = ax.bar(x, price, width, label='Price')
-        # rects2 = ax.bar(x + width / 2, women_means, width, label='Women')
-
-        # Add some text for labels, title and custom x-axis tick labels, etc.
         ax.set_ylabel('Durchschnittspreis/m2 in [CHF]')
         ax.set_xlabel('Anzahl Zimmer')
         ax.set_title(city)
         ax.set_xticks(x, rooms)
-        # ax.legend()
-
         ax.bar_label(rects1, padding=3)
-        # ax.bar_label(rects2, padding=3)
         fig.tight_layout()
         plt.savefig(f'plots/plot_{city}.png')
         plt.show()
@@ -169,14 +140,10 @@ def plot_auslander_staedte(data):
     """
     This function creates one plot which shows the ausländer in percentege for every city.
     """
-
     anteile = []
     cities_for_plots = []
-
     data = data.drop_duplicates(subset=['Postleitzahl'])
     data.to_csv('why.csv')
-
-    # plz = data[data['Ort'] == 'luzern']['Postleitzahl'].unique().dropna()
     cities = data["Ort"].unique()
 
     for city in cities:
@@ -188,20 +155,13 @@ def plot_auslander_staedte(data):
 
     x = np.arange(len(cities))  # the label locations
     width = 0.75  # the width of the bars
-
     fig, ax = plt.subplots()
     rects1 = ax.bar(x, anteile, width, label='Price')
-    # rects2 = ax.bar(x + width / 2, women_means, width, label='Women')
-
-    # Add some text for labels, title and custom x-axis tick labels, etc.
     ax.set_ylabel('Ausländeranteil in [%]')
     ax.set_xlabel('Städte')
     ax.set_title('Ausländeranteil in den grössten Städten')
     ax.set_xticks(x, cities)
-    # ax.legend()
-
     ax.bar_label(rects1, padding=3)
-    # ax.bar_label(rects2, padding=3)
     fig.tight_layout()
     plt.savefig(f'plots/plot_auslaender.png')
     plt.show()
@@ -211,28 +171,15 @@ def plot_auslander_plz(data):
     """
     This function creates for every city a plot which shows the amount of ausländer in percantage for every postalcode.
     """
-
     data = data.drop_duplicates(subset=['Postleitzahl']).sort_values(by=['Postleitzahl'])
-
-    # plz = data[data['Ort'] == 'luzern']['Postleitzahl'].unique().dropna()
     cities = data["Ort"].unique()
 
     for city in cities:
-        # schweiz = data[data['Ort'] == city]['Schweiz'].sum()
-        # ausland = data[data['Ort'] == city]['Ausland'].sum()
-        # anteil = (ausland * 100 / (ausland + schweiz)).round(2)
-        # anteile.append(anteil)
-        # cities_for_plots.append(city)
-
         anteile = []
         plz_used = []
         plz = data[data["Ort"] == city]['Postleitzahl'].dropna()
         for p in plz:
-            # print(f' this is the plz {p}')
-            # postleitzahl = data[data['Postleitzahl'] == p]['Schweiz'].sum()
             schweiz = data[data['Postleitzahl'] == p]['Schweiz'].dropna().sum()
-
-            # print(schweiz)
             ausland = data[data['Postleitzahl'] == p]['Ausland'].dropna().sum()
 
             if (schweiz != 0) or (ausland != 0):
@@ -242,15 +189,10 @@ def plot_auslander_plz(data):
             else:
                 pass
 
-
         x = np.arange(len(plz_used)) # the label locations
         width = 0.75  # the width of the bars
-
         fig, ax = plt.subplots()
         rects1 = ax.bar(x, anteile, width, label='Price')
-        # rects2 = ax.bar(x + width / 2, women_means, width, label='Women')
-
-        # Add some text for labels, title and custom x-axis tick labels, etc.
         ax.set_ylabel('Ausländeranteil in [%]')
         ax.set_xlabel('Postleitzahlen')
         ax.set_title(f'Ausländeranteil in {city.capitalize()}')
@@ -262,11 +204,7 @@ def plot_auslander_plz(data):
             ax.set_xticks(x, plz_used)
             ax.bar_label(rects1, padding=3)
 
-        # ax.legend()
-
-        # ax.bar_label(rects2, padding=3)
         fig.tight_layout()
-
         plt.savefig(f'plots/plot_auslaender_{city}.png')
         plt.show()
 
@@ -300,19 +238,10 @@ def plot(d):
             else:
                 pass
 
-        # print(meanprice)
-        # plt.plot(meanprice)
-        # plt.show()
-
-
         x = np.arange(len(plz_used))  # the label locations
         width = 0.75  # the width of the bars
-
         fig, ax = plt.subplots()
         rects1 = ax.bar(x, anteile, width, label='Price')
-        # rects2 = ax.bar(x + width / 2, women_means, width, label='Women')
-
-        # Add some text for labels, title and custom x-axis tick labels, etc.
         ax.set_ylabel('Ausländeranteil in [%]')
         ax.set_xlabel('Postleitzahlen')
         ax.set_title(f'Ausländeranteil in {c.capitalize()}')
@@ -326,68 +255,20 @@ def plot(d):
 
         ax2 = ax.twinx()
         ax2.set_ylabel('Durchschnittspreis pro Fläche [CHF/m2]')
-        # ax.legend()
-
-        # ax.bar_label(rects2, padding=3)
         fig.tight_layout()
         plt.plot(meanprice, marker='o', color='red')
         plt.savefig(f'plots/plot_bar_line_{c}.png')
         plt.show()
 
 
-
-        #
-        # x = np.arange(len(plz_used))  # the label locations
-        # width = 0.75  # the width of the bars
-        #
-        # fig, ax = plt.subplots()
-        # rects1 = ax.bar(x, anteile, width, label='Price')
-        # # rects2 = ax.bar(x + width / 2, women_means, width, label='Women')
-        #
-        # # Add some text for labels, title and custom x-axis tick labels, etc.
-        # ax.set_ylabel('Ausländeranteil in [%]')
-        # ax.set_xlabel('Postleitzahlen')
-        # ax.set_title(f'Ausländeranteil in {c.capitalize()}')
-        # if c == 'zuerich':
-        #     ax.set_xticks(x, plz_used, rotation=90)
-        #     ax.bar_label(rects1, padding=3, rotation=90)
-        #     plt.ylim([0, 50])
-        # else:
-        #     ax.set_xticks(x, plz_used)
-        #     ax.bar_label(rects1, padding=3)
-        #
-        # # ax.legend()
-        #
-        # # ax.bar_label(rects2, padding=3)
-        # fig.tight_layout()
-        #
-        # plt.savefig(f'plots/plot_bar_line_{c}.png')
-        # plt.show()
-        #
-
-
-
-
-
-
-
-
-
-
-    # plz = city[city['Postleitzahl' == 3004.0]]
-    # print(city)
-    # print(plzs)
-    # print(meanprice)
-
-
-
 if __name__ == '__main__':
         data = datatypes()
-        # mean_price_room_plz(data)
-        # mean_price_location(data)
-        # pivottable()
-        # plot_price_room()
+        mean_price_room_plz(data)
+        mean_price_location(data)
+        pivottable()
 
-        # plot_auslander_staedte(data)
-        # plot_auslander_plz(data)
+        # plots
+        plot_price_room()
+        plot_auslander_staedte(data)
+        plot_auslander_plz(data)
         plot(data)
