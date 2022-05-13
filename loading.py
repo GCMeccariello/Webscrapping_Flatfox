@@ -14,8 +14,9 @@ import pandas as pd
 import numpy as np
 import time
 import csv
-from lxml import etree
 
+import os
+import matplotlib.pyplot as plt
 
 
 def datatypes():
@@ -30,7 +31,6 @@ def datatypes():
     for integer in col:
         data[integer] = pd.to_numeric(data[integer], errors='coerce').astype('Int64')
 
-    # print(data.dtypes)
     data.to_csv('clean.csv', index=False)
     return data
 
@@ -98,12 +98,69 @@ def mean_price_location(data):
             mean_area = abc['Flaeche m2'].mean()
             mean_per_area = mean_price / mean_area
 
-            df = df.append({'city':c , 'rooms':r, 'chf/m2':mean_per_area }, ignore_index=True)
+            df = df.append({'city': c, 'rooms': r, 'chf/m2': mean_per_area}, ignore_index=True)
             df.to_csv('results_ohne_plz.csv', index=False)
 
+def pivottable():
+    data = pd.read_csv('results_ohne_plz.csv')
+    data = pd.DataFrame(data)
+
+    data['chf/m2'] = data['chf/m2'].round(2)
+
+    datapivot = data.pivot_table(values='chf/m2', index='city', columns='rooms',)
+    datapivot.to_csv('result_pivot_table.csv')
+
+
+def plots():
+    data = pd.read_csv('results_ohne_plz.csv')
+    data = pd.DataFrame(data)
+
+    data['chf/m2'] = data['chf/m2'].round(2)
+    print(data)
+
+    cities = []
+    for c in data['city']:
+        cities.append(c)
+    cities = list(dict.fromkeys(cities))
+
+    for city in cities:
+        name = f'd_{city}'
+        name = data[data['city'] == city]
+        rooms = []
+        for r in name['rooms']:
+            rooms.append(r)
+        print(rooms)
+        price = []
+        for p in name['chf/m2']:
+            price.append(p)
+        print(price)
+
+        x = np.arange(len(rooms))  # the label locations
+        width = 0.75  # the width of the bars
+
+        fig, ax = plt.subplots()
+        rects1 = ax.bar(x, price, width, label='Price')
+        # rects2 = ax.bar(x + width / 2, women_means, width, label='Women')
+
+        # Add some text for labels, title and custom x-axis tick labels, etc.
+        ax.set_ylabel('Durchschnittspreis/m2 in [CHF]')
+        ax.set_xlabel('Anzahl Zimmer')
+        ax.set_title(city)
+        ax.set_xticks(x, rooms)
+        # ax.legend()
+
+        ax.bar_label(rects1, padding=3)
+        # ax.bar_label(rects2, padding=3)
+        fig.tight_layout()
+        plt.savefig(f'plots/plot_{city}.png')
+        plt.show()
 
 
 if __name__ == '__main__':
-        data = datatypes()
-        mean_price_plz(data)
-        mean_price_location(data)
+        # data = datatypes()
+        # mean_price_plz(data)
+        # mean_price_location(data)
+        # pivottable()
+        plots()
+
+
