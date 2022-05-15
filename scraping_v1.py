@@ -2,10 +2,13 @@ from bs4 import BeautifulSoup
 import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 import pandas as pd
 import numpy as np
 import time
-
+import mariadb
+import sys
 
 def saveHTML(city):
     """
@@ -36,7 +39,7 @@ def saveHTML(city):
                 print('_______________ break _______________')
                 break
         # saving for every city in separate html files.
-        with open(f'flatfox_{c}.html', 'w') as f:
+        with open(f'html/flatfox_{c}.html', 'w') as f:
             f.write(driver.page_source)
 
         driver.quit()
@@ -148,7 +151,7 @@ def main(city):
     # iterating through all cities
     for c in city:
         # opening the corresponding html file
-        with open(f'flatfox_{c}.html', 'r') as html_file:
+        with open(f'html/flatfox_{c}.html', 'r') as html_file:
             content = html_file.read()
             soup = BeautifulSoup(content, 'lxml')
             # searching the div with the corresponding paths to the announcements
@@ -180,7 +183,7 @@ def main(city):
                                 "Rooms": roomamoount,
                                 "Area": areasize}, ignore_index=True)
                 # saving the dataframe to a csv file named "flatfox_src.csv" which will be cleaned in the next step.
-                df.to_csv('flatfox_src.csv', index=False)
+                df.to_csv('data/flatfox_src.csv', index=False)
                 print(f'{a} - {c}: DONE')
 
 def cleaning():
@@ -190,7 +193,7 @@ def cleaning():
     It was also worked with numpy and not only pandas.
     After the cleaning process the file is saved as 'flatfox_stage.csv'
     """
-    file = pd.read_csv('flatfox_src.csv')
+    file = pd.read_csv('data/flatfox_src.csv')
 
     # changing order of columns and renaming it
     file2 = pd.DataFrame(file, columns=['Streetname', 'Postalcode', 'Location', 'Rooms', 'Area', 'Price'])
@@ -240,6 +243,7 @@ def cleaning():
         except:
             pass
 
+    # enrichement of the data.
     # Calculating the price per squaremeters
     file2["Preis [CHF]"] = pd.to_numeric(file2["Preis [CHF]"], errors='coerce').astype(float)
     file2["Flaeche [m2]"] = pd.to_numeric(file2["Flaeche [m2]"], errors='coerce').astype(float)
@@ -248,7 +252,7 @@ def cleaning():
     # drop all locations which are not Zürich, Basel, Winterthur, Bern or Luzern
     file2.drop(file2[(file2['Ort'] != "Zürich") & (file2['Ort'] != "Basel") & (file2['Ort'] != "Bern") & (file2['Ort'] != "Winterthur") & (file2['Ort'] != "Luzern")].index, inplace=True)
     # saving the file as "flatfox_stage.csv"
-    file2.to_csv('flatfox_stage.csv', index=False)
+    file2.to_csv('data/flatfox_stage.csv', index=False)
 
 
 def upload():
@@ -262,13 +266,12 @@ def upload():
             password='password',
             host='localhost',
             port=3306,
-            database='testdatabase' #needs to be changed.
+            database='flatfox'
         )
 
         cur = conn.cursor()
         # after having established a connection to the mariaDB, a table is created. If table exists already, it is coing to be replaced.
-        # table name needs to be changed.
-        cur.execute("CREATE or REPLACE TABLE testtable12345(\
+        cur.execute("CREATE or REPLACE TABLE data_scrapped (\
                         Strasse VARCHAR(255),\
                         Postleitzahl Int(4),\
                         Ort VARCHAR(25),\
@@ -277,7 +280,7 @@ def upload():
                         Preis Int(10)\
                         );")
         # Finally uploading the csv file into the database
-        cur.execute("LOAD DATA LOCAL INFILE 'flatfox_stage.csv' INTO TABLE testtable12345 \
+        cur.execute("LOAD DATA LOCAL INFILE 'data/flatfox_stage.csv' INTO TABLE data_scrapped \
                         FIELDS TERMINATED BY ',' (\
                         Strasse, Postleitzahl, Ort, Anzahl_Zimmer, Flaeche, Preis \
                         )")

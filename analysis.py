@@ -1,13 +1,17 @@
 import pandas as pd
 import numpy as np
+# import matplotlib
+# matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 
 def datatypes():
     """
     Changing the datatype of some columns. The datatype for prices, area etc has to be a float.
     Saving the new datatype as "clean.csv"
     """
-    data = pd.read_csv('df_after_dropping.csv')
+    data = pd.read_csv('data/df_after_dropping.csv')
     data = pd.DataFrame(data)
 
     data.drop(data[(data['Ort'] != "zuerich") & (data['Ort'] != "basel") & (data['Ort'] != "bern") & (
@@ -18,7 +22,7 @@ def datatypes():
     for integer in col:
         data[integer] = pd.to_numeric(data[integer], errors='coerce').astype('Int64')
 
-    data.to_csv('clean.csv', index=False)
+    data.to_csv('data/data_all_clean.csv', index=False)
     return data
 
 def mean_price_room_plz(data):
@@ -53,9 +57,9 @@ def mean_price_room_plz(data):
                 mean_per_area = mean_price / mean_area
 
                 df = df.append({'city':c , 'plz':p , 'rooms':r, 'chf/m2':mean_per_area }, ignore_index=True)
-                df.to_csv('results.csv', index=False)
+                df.to_csv('data/results.csv', index=False)
 
-    print(df)
+    # print(df)
 
 def mean_price_location(data):
     """
@@ -74,7 +78,7 @@ def mean_price_location(data):
         not_nan_array = ~ nan_array
         rooms = rooms[not_nan_array]
         rooms.sort()
-        print(rooms)
+        # print(rooms)
 
         for r in rooms:
             abc = data[(data['Ort'] == c) & (data['Anzahl Zimmer'] == r)]
@@ -83,17 +87,17 @@ def mean_price_location(data):
             mean_per_area = mean_price / mean_area
 
             df = df.append({'city': c, 'rooms': r, 'chf/m2': mean_per_area}, ignore_index=True)
-            df.to_csv('results_ohne_plz.csv', index=False)
+            df.to_csv('data/results_ohne_plz.csv', index=False)
 
 
 def pivottable():
-    data = pd.read_csv('results_ohne_plz.csv')
+    data = pd.read_csv('data/results_ohne_plz.csv')
     data = pd.DataFrame(data)
 
     data['chf/m2'] = data['chf/m2'].round(2)
 
     datapivot = data.pivot_table(values='chf/m2', index='city', columns='rooms',)
-    datapivot.to_csv('result_pivot_table.csv')
+    datapivot.to_csv('data/result_pivot_table.csv')
 
 
 def plot_price_room():
@@ -101,11 +105,11 @@ def plot_price_room():
     This function creates for every city a plot which shows the mean price per square meter for
     different amount of rooms in an appartment
     """
-    data = pd.read_csv('results_ohne_plz.csv')
+    data = pd.read_csv('data/results_ohne_plz.csv')
     data = pd.DataFrame(data)
 
     data['chf/m2'] = data['chf/m2'].round(2)
-    print(data)
+    # print(data)
 
     cities = []
     for c in data['city']:
@@ -143,7 +147,6 @@ def plot_auslander_staedte(data):
     anteile = []
     cities_for_plots = []
     data = data.drop_duplicates(subset=['Postleitzahl'])
-    data.to_csv('why.csv')
     cities = data["Ort"].unique()
 
     for city in cities:
@@ -209,7 +212,7 @@ def plot_auslander_plz(data):
         plt.show()
 
 def plot(d):
-    data = pd.read_csv('results.csv')
+    data = pd.read_csv('data/results.csv')
     data = pd.DataFrame(data)
 
     cities = data["city"].unique()
