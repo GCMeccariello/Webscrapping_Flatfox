@@ -12,4 +12,4 @@ The entire dataset was combined with additional data from other sources and some
 
 The code can be found in *analysis.py*
 
-The generated plots are saved in *plots/*.png*
+The generated plots are saved in *plots/\*.png*
