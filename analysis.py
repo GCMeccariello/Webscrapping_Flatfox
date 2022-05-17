@@ -38,6 +38,7 @@ def mean_price_room_plz(data):
     cities = data["Ort"].unique()
 
     df = pd.DataFrame()
+    df2 = pd.DataFrame()
     for c in cities:
         plz = data[data["Ort"] == c]['Postleitzahl'].unique().dropna()
 
@@ -55,9 +56,19 @@ def mean_price_room_plz(data):
                 mean_price = abc["Preis CHF"].mean()
                 mean_area = abc['Flaeche m2'].mean()
                 mean_per_area = mean_price / mean_area
+                if pd.isna(mean_per_area):
+                    count_inserat = 0
+                else:
+                    count_inserat = len(data[(data['Ort'] == c) & (data['Postleitzahl'] == p) & (data['Anzahl Zimmer'] == r)]['Preis CHF'])
+
+                # print(mean_per_area)
+
 
                 df = df.append({'city':c , 'plz':p , 'rooms':r, 'chf/m2':mean_per_area }, ignore_index=True)
                 df.to_csv('data/results.csv', index=False)
+
+                df2 = df2.append({'city':c, 'plz':p, 'rooms':r, 'anzahl_inserate':count_inserat}, ignore_index=True)
+                df2.to_csv('data/results_anzahl_inserate_plz.csv', index=False)
 
     # print(df)
 
@@ -72,6 +83,7 @@ def mean_price_location(data):
     cities = data["Ort"].unique()
 
     df = pd.DataFrame()
+    df2 = pd.DataFrame()
     for c in cities:
         rooms = data[data['Ort'] == c]['Anzahl Zimmer'].unique()
         nan_array = np.isnan(rooms)
@@ -85,9 +97,16 @@ def mean_price_location(data):
             mean_price = abc["Preis CHF"].mean()
             mean_area = abc['Flaeche m2'].mean()
             mean_per_area = mean_price / mean_area
+            if pd.isna(mean_per_area):
+                count_inserat = ''
+            else:
+                count_inserat = len(data[(data['Ort'] == c) & (data['Anzahl Zimmer'] == r)]['Preis CHF'])
 
             df = df.append({'city': c, 'rooms': r, 'chf/m2': mean_per_area}, ignore_index=True)
             df.to_csv('data/results_ohne_plz.csv', index=False)
+
+            df2 = df2.append({'city': c, 'rooms': r, 'anzahl_inserate':count_inserat}, ignore_index=True)
+            df2.to_csv('data/results_anzahl_inserate.csv', index=False)
 
 
 def pivottable():
@@ -99,6 +118,9 @@ def pivottable():
     datapivot = data.pivot_table(values='chf/m2', index='city', columns='rooms',)
     datapivot.to_csv('data/result_pivot_table.csv')
 
+    data_anzahl_zimmer = pd.read_csv('data/results_anzahl_inserate.csv')
+    anzahl_zimmer_pivot = data_anzahl_zimmer.pivot_table(values='anzahl_inserate', index='city', columns='rooms',)
+    anzahl_zimmer_pivot.to_csv('data/results_anzahl_inserate_pivot.csv')
 
 def plot_price_room():
     """
@@ -137,7 +159,7 @@ def plot_price_room():
         ax.bar_label(rects1, padding=3)
         fig.tight_layout()
         plt.savefig(f'plots/plot_{city}.png')
-        plt.show()
+        # plt.show()
 
 
 def plot_auslander_staedte(data):
@@ -167,7 +189,7 @@ def plot_auslander_staedte(data):
     ax.bar_label(rects1, padding=3)
     fig.tight_layout()
     plt.savefig(f'plots/plot_auslaender.png')
-    plt.show()
+    # plt.show()
 
 
 def plot_auslander_plz(data):
@@ -209,7 +231,7 @@ def plot_auslander_plz(data):
 
         fig.tight_layout()
         plt.savefig(f'plots/plot_auslaender_{city}.png')
-        plt.show()
+        # plt.show()
 
 def plot(d):
     data = pd.read_csv('data/results.csv')
@@ -261,7 +283,7 @@ def plot(d):
         fig.tight_layout()
         plt.plot(meanprice, marker='o', color='red')
         plt.savefig(f'plots/plot_bar_line_{c}.png')
-        plt.show()
+        # plt.show()
 
 
 if __name__ == '__main__':

@@ -7,7 +7,7 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 import pandas as pd
 import numpy as np
 import time
-import mariadb
+# import mariadb
 import sys
 
 def saveHTML(city):
@@ -248,6 +248,9 @@ def cleaning():
     file2["Preis [CHF]"] = pd.to_numeric(file2["Preis [CHF]"], errors='coerce').astype(float)
     file2["Flaeche [m2]"] = pd.to_numeric(file2["Flaeche [m2]"], errors='coerce').astype(float)
     file2["Preis/Fläche [CHF/m2]"] = (file2["Preis [CHF]"] / file2["Flaeche [m2]"]).round(2)
+
+    # drop dublicates
+    file2 = file2.drop_duplicates()
 
     # drop all locations which are not Zürich, Basel, Winterthur, Bern or Luzern
     file2.drop(file2[(file2['Ort'] != "Zürich") & (file2['Ort'] != "Basel") & (file2['Ort'] != "Bern") & (file2['Ort'] != "Winterthur") & (file2['Ort'] != "Luzern")].index, inplace=True)
